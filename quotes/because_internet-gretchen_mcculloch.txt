@@ -1,0 +1,146 @@
+
+Quotes from Because Internet, Understanding the New Rules of Language, by Gretchen McCulloch, 2019.
+---------------------------------------------------------------------------------------------------
+
+Ch. 1 Informal Writing, pp. 1-16.
+You never truly step into the same English twice.  When future historians look back on this era, they'll find
+ our changes just as fascinating as we now find innovative words from Shakespeare or Latin or Norman French.
+ - p. 15.
+
+Ch. 2 Language and Society, pp. 17-62.
+But every generation has talked slightly differently from its parents: otherwise, we'd all still be talking
+like Shakespeare.
+ - p. 30.
+
+Research in other centuries, languages, and regions continues to find that women lead linguistic change, in dozens
+of specific changes in specific cities and regions.  Young woemn are also consistently on the bleeding edge of those
+linguistic changes that periodically sweep through media trend sections, from uptalk (the distinctive rising intonation
+at the end of sentences?) to the use of "like" to introduce a quotation ("And I was like, 'Innovation'")....  Men tend
+to follow a generation later: in other words, women tend to learn language from their peers; men learn it from their
+mothers.
+ - p. 34.
+
+The internet, then, makes language change faster because it leads to more weak ties: you can remain aware of people who
+you don't see anymore, and you can get to know people who you never would have met otherwise....  It's not an accident
+that Twitter, where you're encouraged to follow people you do't already know, has given rise to more linguistic innovation
+(not to mention memes and social movements) than Facebook, where you primarily friend people you alread know offline.
+ - p. 39.
+
+Ch. 3 Internet People, pp. 63-108.
+Internet slang like acronyms and emoticons is not just unfamiliar to them, it signals membership in a group that they have
+no desire to be a part of.  To put it in the words of an older person who talked to me after using Facebook for a year or
+so, "I keep seeing people writing a colon then a parenthesis....  What do they mean by that?"  But even after I explained
+("Oh, that's rather clever!), I have never once seen this person use a smiley.
+ - p. 95.
+
+What these profiles [articles about teens and social media] inevitably find is that popular teenagers are texting or snapping
+or other-kind-of-messaging each other, for seemingly no reason, at rates completely unfathomable to the adult writer.
+Thousands of texts a month!  Running up data bills!  If they dig a little deeper, they may also find that shyer, nerdier, or
+more introverted teens are doing less of all this.
+ - p. 101.
+
+By joining the social internet after their parents were already there, they faced an especially dire version of "context
+collapse."  This is danah boyd's [lowercase sic] term for when people from all your opverlapping friend groups see all your
+shared posts from different aspects of your life....  For young people, context collapse is a collective problem: they need
+space to figure out who they are, where they aren't being constantly supervised by authority figures.
+ - p. 103.
+
+Some statements are direct, others wrap their meaning in layers.  Including "lol" indicates there's a second layer of meaning
+to be found, telling the recipient to look beyond the literal words you're saying.
+ - p. 105.
+
+Ch. 4 Typographical Tone of Voice, pp. 109-154.
+The passive-aggressive potential of the single period started being reported in thinkpieces in 2013, in a list of *New York*
+magazine and then later the same year as a full article in the *New Republic*, before popping up in a handful of other
+publications in subsequent years....  Despite the fears mongered by headlines, it's not the case that the passive-aggressive
+meaning has completely killed all other uses of the period.
+ - p. 113. [* = emphasis in original as italics.]
+
+So how is a person to tell whether a given period is supposed to [page break] be passive-aggresive, sad, or merely formal?
+ - pp. 113-114.
+
+Just as a question mark can indicate a rising intonation even without a question (Like so?), the period can indicate a falling
+intonation even when it's not serving to end a statement (Like. So.)....  But in an ordinary conversation, we don't speak in
+full sentences, and we especially don't round them all off with a distinct fall....  Instead we speak in utterances, and our
+intonation is neither rising nor falling: by default, it's flat or trailing off, like a dot dot dot or an unpunctuated linebreak.
+ - p. 114.
+
+Before that [the middle ages], ancient Greek and Roman writing had all the formatting of a wordsearch puzzle grid, with no
+punctuation, paragraphs, or even spaces between words, in all caps (carvings) or lowercase (ink).
+ - p. 114.
+
+In other words, people who were more fluent at typing used their increased facility to be more polite, just as polite as they
+would have been while talking.
+ - p. 122.
+
+Research on politeness in internet communities finds that many elements of it mirror politeness offline.  It's well established
+that politeness decreases with power -- you're more polite to your boss than to your underling....  Just like offline power
+relationships, the more powerful Wikipedia administrators and those with a high "karma" rating on Stack Exchange tended to be
+less polite than regular users.
+ - p. 123.
+
+More intriguingly, the tilde might have been helped by its visual resemblance to a particular type of sarcastic inflection....
+So I tried to pin it down more specifically, and nearly fell off my chair in excitement when it dawned on me: when you say a
+word like "sooooo" with a sing-song sarcastic inflection, the pitch of your voice literally rises, then falls, then rises slightly
+again.  In other words, your intonation makes the shape of a tilde.
+ - p. 138.
+
+In theory, sparkle sarcasm [~*~ before and after the sarcastic phrase] has as many possible typographical variations as sparkle
+enthusiasm [~~~~~~~~********~~~~~~~~ or ~*~*~*~].  But in practice, it tends to veer more towards the subdued side: a pair of
+~tildes~, perhaps up to a sparkle emoji or ~*asterisk plus tilde*~, but [page break] often simply an initial ~tilde.  There may
+not be quite as much space for ~*~*true sparkle exuberance*~*~ in deadpan snark.
+ - pp. 138-139.
+
+A still more deadpan kind of irony is created in the lack of punctuation and capitalization altogether, what I call minimalist
+typography.
+ - p. 139.
+
+Trend pieces about passive-aggressive texting started around 2013 and really got going in 2015 and 2016.  These pieces pointed out
+that this same minimalist typography was liable to make your friends wonder why you're mad at them.  Typing in lowercase was no
+longer an issue of laziness or efficiency: it became a way of indicating attitude.
+ - p. 141.
+
+A predictive keyboard automatically adds capitals at the beginning of messages and after a period, and it only predicts words in
+its dictionary.  Suddenly, instead of lowercasing taking less effort, it often took more....  In the words of Dolly Parton, "It
+costs a lot of money to look this cheap."
+ - p. 141.
+
+But the expanded system of conveying emotional nuance through text we've come up with instead [of that used with handwriting] is
+so nuanced and idiosyncratic that if I'm typing a personal sort of communication for someone -- say, when I'm in the passenger's
+seat and a text on the driver's phone needs to be replied to right away -- I find I need to inquire in great detail how exactly
+they want me to type.  Period, exclamation mark, or simple linebreak at the end of the utterance?  Likewise, if I receive a message
+authored by someone other than the owner of the phone, I can often tell the difference.  Expressive typography makes electronic
+communication anything but impersonal.
+I, for one, think this change is fantastic.  Even if this increased attention to typographical tone of voice did mean the decline
+of standard punctuation, I'd gladly accept the decline of standards that were arbitrary and elitist in the first place in favor of
+being able to connect with my fellow humans.
+ - p. 153.
+
+Ch. 5 Emoji and Other Internet Gestures, pp. 155-196.
+ - p. .
+ - p. .
+ - p. .
+ - p. .
+ - p. .
+
+Ch. 6 How Conversations Change, pp. 197-236.
+ - p. .
+ - p. .
+ - p. .
+ - p. .
+ - p. .
+
+Ch. 7 Memes and Internet Culture, pp. 237-264.
+ - p. .
+ - p. .
+ - p. .
+ - p. .
+ - p. .
+
+Ch. 8 A New Metaphor, pp. 265-274.
+ - p. .
+ - p. .
+ - p. .
+ - p. .
+ - p. .
+
