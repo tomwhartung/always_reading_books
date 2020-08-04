@@ -1,0 +1,16 @@
+#
+# Documentation is here: http://git-scm.com/docs/gitignore
+#
+downloads/
+tmp/
+unpack/
+
+#
+# For vim and kate temporary files
+#
+*.swp
+.~lock.*
+.*~
+*~
+*.kate-swp
+
