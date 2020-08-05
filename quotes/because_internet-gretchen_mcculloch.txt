@@ -181,23 +181,45 @@ naturally supports longer and more complex sentences: if you compare an essay an
 will have more subordinate clauses, while speech will have more repetition.
  - p. 214.
 
- - p. .
- - p. .
- - p. .
- - p. .
- - p. .
+Topic-based internet communities are third places [like gyms, coffee houses, bars, etc. - home and work are the first two "places]
+in the way that you can join a pottery class or drop by a networking meetup as a third place....  The first people to socialize over
+computer networks were united by their dissatisfaction with the offline social options available to them....  But both online and
+off, topic-based communities tend to draw people who want to expand their existing friendship circles: there's a reason why joining
+a club is classic advice for people moving to a new city.  It's hard to articulate the third-placean appeal of topic-based internet
+communities for those who've never been in one.  At least with a pottery class or networking event, you can say you're there to
+make a vase or collect some business cards: tangible outcomes even if you're also searching for intangible community.  But for their
+online versions, the pretexts wear thinner: Why spend so much time talking to strangers about the *X-Files* or wine tasting when you
+could be actually watching the show or drinking the wine?  The social benefits are invisible to people who don't need them.
+ - p. 225.
+
+I found that the statuses that got the most likes and comments weren't necessarily the ones that were universally applicable or made
+the most sense in isolation: say, a simple announcement of a new phone number, which is relevant to all your friends.  Instead,
+popular posts tended to strike a balance between somewhat obscure but not too cryptic -- in-jokes and references that appealed
+strongly to a distinct subset of people.  One of my most popular posts at the time was in a language that only a handful of my
+Facebook friends even understood -- my friends who were taking the same language class.
+ - p. 229.
+
+They [Woodrow Hartzog and Frederic D. Stutzman] describe [in a "law paper"] four factors that can lead to obscurity online: first,
+whether your post can be found in a search or whether a would-be finder needs to click through an obscure trail of links to find it;
+second, whether your post is restricted to certain people (such as by friendship status or a password); third, whether [page break]
+you're identifiable by name, pseudonum, or not at all; and fourth, how clearly understandable the post is, even if someone who comes
+across it shouldn't.  After all, it doesn't matter so much if a post is technically completely public.  If no one knows it's there,
+that you wrote it, or what it means, it's still effectively private through its obscurity.
+ - pp. 230-231.
 
 Ch. 7 Memes and Internet Culture, pp. 237-264.
- - p. .
- - p. .
- - p. .
- - p. .
- - p. .
+Rather than dive into old Cheezeburger forum posts, let's look a the closest thing lolcat has to a peer-reviewed text: a translation
+of the bible into lolspeak.  It was written collaboratively on a wiki, with multiple authors contributing and voting.
+ - p. 243.  [This translation is at lolcatbible.com .]
+
+Incoherent language or bad photoshop accomplishes the same thing.  Just as slang or minimalist typography can convey that you're
+approachable or invite people to understand your layers of irony, the playful language of many memes provides a clear route to
+participation.  Formally constructed cultural items hade the patchwork edits and labor that go into them, making the aspiring author
+or artist intimidated by the roughness of their first drafts in comparison to the polish of others' final versions.  Incoherence
+does the opposite: the meme as internet folklore is imperfect, constantly under construction, and something you could write, too.
+ - p. 260.
 
 Ch. 8 A New Metaphor, pp. 265-274.
- - p. .
- - p. .
- - p. .
- - p. .
- - p. .
+To put it in technological terms, language is humanity's most spectacular open source project.
+ - p. 267.
 
