@@ -13,11 +13,13 @@ like Shakespeare.
  - p. 30.
 
 Research in other centuries, languages, and regions continues to find that women lead linguistic change, in dozens
-of specific changes in specific cities and regions.  Young woemn are also consistently on the bleeding edge of those
+of specific changes in specific cities and regions.  Young women are also consistently on the bleeding edge of those
 linguistic changes that periodically sweep through media trend sections, from uptalk (the distinctive rising intonation
-at the end of sentences?) to the use of "like" to introduce a quotation ("And I was like, 'Innovation'")....  Men tend
-to follow a generation later: in other words, women tend to learn language from their peers; men learn it from their
-mothers.
+at the end of sentences?) to the use of "like" to introduce a quotation ("And I was like, 'Innovation'").  The role
+that young women play as language disruptors is so clearly established at this point it's practially boring to linguists
+who study this topic: well-known sociolinguist William Labov estimated that women lead to 90 percent of linguistic
+change in a paper he wrote in 1990....  Men tend to follow a generation later: in other words, women tend to learn
+language from their peers; men learn it from their mothers.
  - p. 34.
 
 The internet, then, makes language change faster because it leads to more weak ties: you can remain aware of people who
@@ -79,6 +81,20 @@ relationships, the more powerful Wikipedia administrators and those with a high 
 less polite than regular users.
  - p. 123.
 
+Sarcasm, online as well as off, involves saying the opposite of what you mean in a way that still conveys your true opinion:
+"Well, isn't that just terrific!" in response to bad news, or "Thanks, Sherlock!" in response to a very obvious deduction.
+ - p. 133.
+
+People noticed this problem long before the internet, and many had attempted to remedy it, a history chronicled in the book
+*Shady Characters* by Keith Houston.  There was Henry Denham, a British printer who used a mirrored question mark to distinguish
+rhetorical questions in 1575, and John Wilkins, a British natural philosopher, who proposed an inverted exclamation mark to
+indicate irony in 1668.
+ - p. 133. [* = emphasis in original as italics.]
+
+Mock </sarcasm> code or #sarcasm hashtags require no explanation, fee, or font installation, and have indeed caught on to some
+extent, but both can be a trifle obvious.  After all, the point of sarcasm is the double meaning, the innuendo, the sous-entendu.
+ - p. 134.
+
 More intriguingly, the tilde might have been helped by its visual resemblance to a particular type of sarcastic inflection....
 So I tried to pin it down more specifically, and nearly fell off my chair in excitement when it dawned on me: when you say a
 word like "sooooo" with a sing-song sarcastic inflection, the pitch of your voice literally rises, then falls, then rises slightly
@@ -105,12 +121,36 @@ its dictionary.  Suddenly, instead of lowercasing taking less effort, it often t
 costs a lot of money to look this cheap."
  - p. 141.
 
+I replied, without thinking too much about it, "my Brand is Strong" -- a few people acknowledged the humor, and that was that.
+ - p. 147.
+
+Later, I got to thinking about it.  I realized that I'd replied from my phone, but I'd had to go to extra effort in order to do so.
+If I hadn't been able to override my phone's default formatting -- if I'd had to type "My brand is strong" rather than "my Brand is
+Strong" -- my irony could have been read as sincere arrogance.
+ - p. 147.
+
+Irony is a linguistic trust fall.  When I write or speak with a double meaning, I fall backwards, hoping that you'll be there to
+catch me.  The risks are high....  But the rewards are high, too....
+ - p. 148.
+
+If polite typography, as we saw earlier, is about making extra effort, using initial capitals and friendly exclamation marks to
+signal cheerful distance or genuine enthusiasm, then ironic typography is the opposite on both counts: it introduces a note of
+dissonance that makes the reader look harder to find the double meaning.  Any variation from an expected baseline will do, whether
+that's lowercasing, sparkle sarcasm, asking a rhetorical question by omitting the question mark, or ironically using outdated slang
+(one much-reblogged post on Tumblr noted that saying something is "great" indicates it's genuinely good, whereas something that's
+described as "gr8" is guilty pleasure or appreciated sarcastically).  But crucially, irony requires this baseline in the first
+place.  It required us to develop a set of typographically resources for indicating straightforward types of voices, like shouting
+and enthusiasm, before we could creatively subvert them.
+ - p. 149.
+
 But the expanded system of conveying emotional nuance through text we've come up with instead [of that used with handwriting] is
 so nuanced and idiosyncratic that if I'm typing a personal sort of communication for someone -- say, when I'm in the passenger's
 seat and a text on the driver's phone needs to be replied to right away -- I find I need to inquire in great detail how exactly
 they want me to type.  Period, exclamation mark, or simple linebreak at the end of the utterance?  Likewise, if I receive a message
 authored by someone other than the owner of the phone, I can often tell the difference.  Expressive typography makes electronic
 communication anything but impersonal.
+ - p. 153.
+
 I, for one, think this change is fantastic.  Even if this increased attention to typographical tone of voice did mean the decline
 of standard punctuation, I'd gladly accept the decline of standards that were arbitrary and elitist in the first place in favor of
 being able to connect with my fellow humans.
@@ -151,7 +191,7 @@ then we have a weird mismatch.  How is it that we're so keen on such disingenuou
 everyone is wearing a mask?
  - p. 185.
 
-Liking can also backfire: the "dep like" refers to a possibly accidental like on someone's post from a long time ago, which implies
+Liking can also backfire: the "deep like" refers to a possibly accidental like on someone's post from a long time ago, which implies
 you were creepily looking back through their profile.
  - p. 189.
 
@@ -181,7 +221,7 @@ naturally supports longer and more complex sentences: if you compare an essay an
 will have more subordinate clauses, while speech will have more repetition.
  - p. 214.
 
-Topic-based internet communities are third places [like gyms, coffee houses, bars, etc. - home and work are the first two "places]
+Topic-based internet communities are third places [like gyms, coffee houses, bars, etc. - home and work are the first two "places"]
 in the way that you can join a pottery class or drop by a networking meetup as a third place....  The first people to socialize over
 computer networks were united by their dissatisfaction with the offline social options available to them....  But both online and
 off, topic-based communities tend to draw people who want to expand their existing friendship circles: there's a reason why joining
@@ -190,7 +230,7 @@ communities for those who've never been in one.  At least with a pottery class o
 make a vase or collect some business cards: tangible outcomes even if you're also searching for intangible community.  But for their
 online versions, the pretexts wear thinner: Why spend so much time talking to strangers about the *X-Files* or wine tasting when you
 could be actually watching the show or drinking the wine?  The social benefits are invisible to people who don't need them.
- - p. 225.
+ - p. 225. [* = emphasis in original as italics.]
 
 I found that the statuses that got the most likes and comments weren't necessarily the ones that were universally applicable or made
 the most sense in isolation: say, a simple announcement of a new phone number, which is relevant to all your friends.  Instead,
@@ -214,7 +254,7 @@ of the bible into lolspeak.  It was written collaboratively on a wiki, with mult
 
 Incoherent language or bad photoshop accomplishes the same thing.  Just as slang or minimalist typography can convey that you're
 approachable or invite people to understand your layers of irony, the playful language of many memes provides a clear route to
-participation.  Formally constructed cultural items hade the patchwork edits and labor that go into them, making the aspiring author
+participation.  Formally constructed cultural items hide the patchwork edits and labor that go into them, making the aspiring author
 or artist intimidated by the roughness of their first drafts in comparison to the polish of others' final versions.  Incoherence
 does the opposite: the meme as internet folklore is imperfect, constantly under construction, and something you could write, too.
  - p. 260.
