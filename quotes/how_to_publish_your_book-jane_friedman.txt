@@ -146,9 +146,51 @@ worthwhile.
 
 Facebook is not an adequate replacement for an author website for a number of reasons....
  - p. 144.
- - p. .
- - pp. .
- - p. .
+
+*** Important!!! ***
+If you're comfortable with very little to no service, you can use the major services that distribute POD specifically for self-published
+authors, such as Amazon's CreatSpace and IngramSpark.  With these services, which are virtually free, you can often see your book for sale
+at major online retailers in as little as 48 hours.
+This entire process becomes simpler if you plan to self-publish and distribute your book only in e-book format.  E-book services typically
+fall into two categories.
+- First, there are retailer-specific distribution and sales services that are 100 percent free to use, such as Amazon's Kindle Direct
+Publishing.  As an author, you work directly through a self-service interface to make your work available for sale almost [page break]
+instantly.  It's as simple as opening an account, uploading your book files, and pushing the "Publish" button.
+- Also available are e-book distribution services, such as Smashwords.  They offer a centralized site to upload your work, which they then push
+out to all the major online e-book retailers.  Some e-book distributors charge an upfront fee, while others take a percentage of your sales.
+- Understand that these services are not publishers.  They are distributors and retailers  They take no responsibility for the quality of your
+work, but neither do they take any rights to your work.  You use these services on an at-will basis.  If you decide you've made a mistake in
+publishing your e-book, you can remove it from availability as quickly as you uploaded it.
+ - pp. 152-153.
+
+When using an e-book retailer or service, keep the following pointers in mind:
+- First, check to see if the retailer or service is exclusive or nonexclusive.  Most work on a nonexclusive basis, which means that you can
+sell your e-book at many different retailers at once.
+- Second, you should always be in control of the price.  Although some retailers may have reasonable pricing restrictions, such as not allowing
+you to price below $0.99, the standard practice is to give the author control over pricing.  However, most e-book retailers mandate that you not
+offer more favorable pricing elsewhere.
+- Third, you should always understand how much money you'll earn on each book sale.  For example, Amazon Kindle offers you 70 percent of your
+book's list price as long as you price between $2.99 and $9.99.  If you price outside that range, you'll earn 35 percent.
+- Fourth, make sure you understand how much freedom you have to make changes to your e-book after it goes on sale.  Retailers [page break]
+generally allow you to upload revised files as often as you like, but distributors may require you to pay a fee to make changes.
+- Finally, check what formats are required from you.  Most retailers allow you to upload a Word document, which is automatically converted into
+whatever format is needed.  Most services offer guidelines and preview programs to ensure that your e-book looks good before it goes live.
+ - pp. 153-154.
+
+- With giveaways, independent authors may run into trouble if they have only one or two books to sell and nothing else to offer readers or if
+they don't establish any means to contact readers in the future, whether via e-mail newsletter or social media.  The other catch is that the
+quality of your work must match the expectations of your audience.  If it doesn't no amount of giveaways will help you.
+- Whether you use KDP Select or not, giveaways can be an effective part of a larger marketing strategy.  But before you use them, make aure you
+understand your reader funnel and the demand curve for your work.
+ - p. 159.
+
+Garnering Reviews
+In addition to leading to visibility and new readers, giveaways can also result in more reviews for your work, and getting a good number of
+reviews early on can tip the scales in your favor.  Although no one knows what the Amazon algorithm favors, most authors see that once they have
+around 60 or 70 reviews, the visibility of their books on Amazon is improved.  It's also well-known that readers make buying decisions based on
+the content of the reviews.
+ - p. 159.
+
  - p. .
  - p. .
  - p. .
