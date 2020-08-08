@@ -1,2 +1,10 @@
+
 # always_reading_books
-A repo for quotes from and reviews of books.
+
+My repo for quotes from and reviews of books.
+
+# Quotes and Reviews
+
+- Quotes are in the `quotes` directory
+- Reviews are in the `reviews` directory
+
