@@ -33,3 +33,31 @@ F. J. Dyson has given an eloquent summary of this theme of mine.
 and atonal music that were upsetting standards of taste in the arts at about the same time."
  - p. 3. [Elipses are as they appear in the quoted text in the book.]
 
+Chapter 3: Dimension, Symmetry, Divergence
+[D{sub T} is the Topological dimension.]
+The more intuitive of the two is the the topological dimension according to Brouwer, Lebesgue, Menger, and Urysohn.  We
+denote it by D{sub T}.  It is described in an entry in Chapter 41.  The second dimension was formulated by in Hausdorff
+1919 and put in final form by Besicovitch.  It is discussed in Chapter 39.  We denote it by D.
+ - p. 15.
+
+The dimension D{sub T} us *always an integer,* but D *need not be an integer.*  And the two dimensions need not coincide;
+they only satisfy the Szpilrajn inequality (Hurewicz & Wallman 1941, Chapter 4).
+ - p. 15. [Emphasis in original as italics.]
+
+*A fractal is by definition a set for which the Hausdorff Besicovitch dimension strictly exceeds the Topological dimension.*
+ - p. 15. [Emphasis in original as italics.]
+
+But D may be an integer (not greater than E but strictly greater than D{sub T}).  I call D a *fractal dimension.*
+ - p. 15. [Emphasis in original as italics.]
+
+[Ball = point, thread = line, veil = plane.]
+However, physicists prefer to think of a veil, a thread, or a ball -- if they are fine enough -- as being "in effect" of
+dimensions 2, 1, and 0, respectively.
+ - p. 17.
+
+In other words, effective dimension inevitably has a subjective basis.  It is a matter of approximation and therefore of
+degree of resolution.
+ - p. 17.
+
+Chapter 4: Variations and Disclaimers
+
