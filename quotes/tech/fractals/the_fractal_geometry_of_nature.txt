@@ -1,0 +1,35 @@
+
+Notes and quotes from The Fractal Geometry of Nature by Benoit B. Mandelbrot, 1982
+----------------------------------------------------------------------------------
+
+Part 1: Introduction
+Chapter 1: Theme
+More generally, I claim that many patterns of Nature are so irregular and fragmented, that, compared with
+*Euclid* -- a term used in this work to denote all of standard geometry -- Nature exhibits not simply a
+higher degree but an altogether different level of complexity.
+ - p. 1. [Emphasis in original as italics.]
+
+Responding to this challenge, I conceived and developed a new geometry of nature and implemented its use in
+a number of diverse fields.  It describes many of the irregular and fragmented patterns around us, and leads
+to full-fledged theories, by identifying a family of shapes I call *fracals.*  The most useful fractals involve
+*chance* and both their regularities and their irregularities are statistical.  Also, implying that the degree
+of their irregularity and/or fragmentation is identical at all scales.  The concept of *fractal (Hausdorff)
+*dimension* plays a central role in this work.
+ - p. 1. [Emphasis in original as italics.]
+
+PRESENTATION OF GOALS
+This Essay brings together a number of analyses in diverse sciences, and it promotes a new mathematical and
+philosophical synthesis.  Thus, it serves as both a *casebook* and a *manifesto.*  Furthermore, it reveals a
+totally new world of plastic beauty.
+ - p. 2. [Emphasis in original as italics.]
+
+
+A MANIFESTO: THERE IS A FRACTAL FACE TO THE GEOMETRY OF NATURE
+F. J. Dyson has given an eloquent summary of this theme of mine.
+ - p. 3.
+
+[Quoting F. J. Dyson:]
+"These new structures were regarded ... as 'pathological," ... as a 'gallery of monsters,' kin to the cubist painting
+and atonal music that were upsetting standards of taste in the arts at about the same time."
+ - p. 3. [Elipses are as they appear in the quoted text in the book.]
+
