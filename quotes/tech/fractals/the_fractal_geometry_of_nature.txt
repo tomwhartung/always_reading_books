@@ -106,3 +106,36 @@ As a result, the reader may have formed the impression that the notion of fracta
 fractals."
  - p. 166 [Emphasis in original as italics, and elipses are as they appear in the book.]
 
+Chapter 19: Cantor and Fatou Dusts; Self-Squared Dragons
+Dragons with a nice heft, neither obese nor skinny, obtain where [lambda] lies within a sprout [of the Mandelbrot set or "Gingerbread
+Man"], at some distance away from the root.  Dragons with a nice twist obtain where [lambda] lies near one of the 2 subsprouts
+corresponding to an order of bifurcation of 4 to 10: one subsprout yields a leftward, the other a rightward, twist.
+ - Caption for Plates 190 and 191 on p. 192.
+
+Chapter 20: Fractal Attractors and Fractal ("Chaotic") Evolutions
+In a nice alternative descriptive terminology (which one must be careful not to interpret in anthropocentric terms), the funnel's tip
+is called an *attractor point.*
+A physical system may also have a stable attracting circle or ellipse.
+ - p. 194. [Emphasis in original as italics.]
+
+The set of all unstable equilibrium states, plus their limit points, is called *repeller.*
+In many cases, the repellers and attractors exchange roles by turning the equations around.  When the force is gravitation, it suffices
+to invert the direction of gravity.
+ - p. 195. [Emphasis in original as italics.]
+
+Chapter 24: Random Chains and Squigs
+From now on, I propose to call these new shapes *squigs.*
+ - p. 224. [Emphasis in original as italics.]
+
+Linear squigs are rough models of linear polymers and river courses, looped squigs model coastlines, and tree sqigs model river trees.
+ - p. 224. [Emphasis in original as italics.]
+
+Chapter 25: Brownian Motion and Brown Fractals
+If the reader fines the going becomes rough, he should -- as usual -- forge ahead to the next section or the next chapter.
+ - p. 232.
+
+Chapter 26: Random Midpoint Displacement Curves
+The fact that, at least at first blush, this plate [246] could pass for High Art, cannot be an accident.  My thoughts on this account are
+sketched in Mandelbrot 1981l, and are to be presented fully in the near future.
+ - p. 246.
+
