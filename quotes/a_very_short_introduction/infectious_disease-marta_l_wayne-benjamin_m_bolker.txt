@@ -1,0 +1,40 @@
+
+Quotes from Infectious Disease - A Very Short Introduction, by Marta L. Wayne and Benjamin M. Bolker, 2015
+----------------------------------------------------------------------------------------------------------
+
+Both the encounter and compatibility filters must be open in order for successful transmission to occur.
+Public health measures can close the encounter filter and are especially important in the early stages of
+an epidemic.  Drugs or vaccines can close the compatibility filter, but they are not always available.
+ - p. 14.
+
+Once a person is infected with HIV, they may live for many years without showing any symptoms, but are
+still capable of transmitting the virus.  After some time following the initial infection (usually
+several years), the virus population within the infected person begins to increase rapidly, ultimately
+causing immune system collapse.  The HIV positive person then becomes vulnerable to opportunistic infections
+(see Chapter 2) -- infections caused by disease agents such as the bacterium *Pneumocystis carinii,* which
+causes pneumonia, or the fungus *Candida albicans;* neither of these pathogens can infect a person with a
+normally functioning immune system.  Certain types of cancer, such as Kaposi's sarcoma, also occur more
+frequently in people living with AIDS.  Untreated, HIV infections are usually fatal within five to ten
+years.  The proximate cause of death is usually opportunistic infection, rather than HIV per se.
+ - p. 41.
+
+As discussed before, mutations are random; the probability of a given mutationis proportional to the number
+of genomes available to mutate.  It is therefore critical to respond quickly to initial zoonotic events in
+order to limit the total mutation rate by keeping the number of human infections small.
+ - p. 52.
+
+Since malaria is so widespread and can have such deadly effects, it may be one of the strongest selective
+forces shaping thehuman genome in the past few thousand years.
+ - p. 72.
+
+While quinine can cure malaria, it is too expensive and too toxic to give it to everyone in the population
+regardless of whether they have malaria or not.  Whenever possible, it's cheaper and safer to prevent
+disease by closing the encounter filter to block transmission rather than trying to close the compatibility
+filter once transmission has already happened.  This idea applies to many diseases.  Low-tech solutions like
+monogamy, or condoms, or clean needles, or hand sanitizer, or special water containers, work better (if you
+can get people to use them) than the best vaccines and treatments.
+ - p. 74.
+
+The simplest way to minimize the impact of disease is to minimize its incidence in the first place.
+ - p. 101.
+
