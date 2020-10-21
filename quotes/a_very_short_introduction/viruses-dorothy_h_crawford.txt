@@ -1,0 +1,18 @@
+
+Quotes from Viruses - A Very Short Introduction, by Dorothy H. Crawford, 2011, 2018
+-----------------------------------------------------------------------------------
+
+The whole structure is called a *virion* and the outer coat is caled the *capsid.*  Capsids come in various
+shapes and sizes, each characteristic of the virus family to which it belongs.  They are built up of protein
+subunits called *capsomeres* and it is the arrangement of these ar ound the central genetic material that
+determins the shape of the virion.  For example, pox viruses are brick-shaped, herpes viruses are icosahedral
+(twenty-sided spheres), the rabies virus is bullet-shaped, and the tobacco mosaic virus is long and thin like
+a rod (Figure 1).  Some viruses have an outer layer surrounding the capsid called an *envelope.*
+Most viruses are too small to be seen under a light microscope.  In general, they are around 100 to 500 times
+smaller than bacteria, varying in size from 20 to 300 nanometres in diameter (nm; 1 nm is a thousand millionth
+of a metre) (Figure 2.)
+ - p. 5.  [Emphasis in original as italics.]
+
+The emergence of almost all recent novel flue viruses has been traced to China
+- p. 46.
+
