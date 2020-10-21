@@ -13,6 +13,67 @@ smaller than bacteria, varying in size from 20 to 300 nanometres in diameter (nm
 of a metre) (Figure 2.)
  - p. 5.  [Emphasis in original as italics.]
 
-The emergence of almost all recent novel flue viruses has been traced to China
+The emergence of almost all recent novel flue viruses has been traced to China where they circulate freely among
+animals kept in cramped conditions in farms and live bird markets.  In the years since H5N1 bird flu has emerged,
+several other virulent bird flu viruses have been recognized, all containing the H5 gene but with various different
+N genes, now all refered to as H5Nx, the highly pathogenic avia influenza (HPAI) viruses.  Their transmissibility
+to humans is low, but the threat of a human pandemic remains as a genetic drift or shift could at any time generate
+a human transmissible virus.
 - p. 46.
+
+Man modern-day lifestyle factors increase our risk of emerging infections, and most of these are linked to
+overpopulation.  The world's population approximately doubled every 500 years between the beginning of the Christian
+era and 1900, when it reached 1.6 billion.  But in the 20th century, life expectancy rose steeply and the population
+quadrupled, hitting 6 billion by 2000.  If this growth rate continues unabated, we are set to reach 9-10 billion by
+2100.
+A population of this size brings many problems, not least diminishing natural resources, increasing pollution, loss
+of biodiversity, ang global warming.  But as far as emerging viruses are concerned, the most acute problem is
+literally lack of space.  We have already seen how invading the territories of wild animals, be it to chop down the
+rainforest, hunt for food, or extend our cities, risks acquiring unknown, sometimes lethal, viruses.  With over 50
+percent of us now living in megacities, like Tokyo with over 35 million inhabitants, viruses, once acquired, can
+easily spread between us.
+- p. 47.
+
+Rotaviruses are a major cause of gastroenteritis globally, particularly targeting children under 5.  The disease
+varies in severity but usually lasts four to seven days, with the main problem being dehydration.  Indeed, rotaviruses
+cause over 600,000 infant deaths a year worldwide, mostly in developing countries where the viruses spread easily and
+emergency rehydration procedures are not always available.  With up to a hundred billion (10^11) virus particles in
+each millilitre of faeces produced by an infected child, and only ten virus particles required to pass the infection
+on, it is not surprising that rotavirus outbreaks are frequent and difficult to control.
+- p. 70.
+
+Also, many strains of rotavirus cause gastroenteritis in young animals such as calves, piglets, lambs, foals, chickens,
+and rabbits, which can act as rotavirus reserviors.
+- p. 70.
+
+Noroviruses are the second most common cause of viral gastroenteritis after rotaviruses, producing a milder disease of
+shorter duration.  These viruses account for around 23 million cases of gastroenteritis every year, with epidemics
+commonly centering on nursing homes, hospitals, and children's nurseries, camps, and schools.  Unusually, immunological
+memor to noroviruses tends to be short, so epidemics affect adults as well as children.
+- p. 71.
+
+Worldwide, 10-20 per cent of human cancers are linked to viruses, including some common tumours like cervical cancer in
+women and liver cancer, which is more common in men.  So far, all the human tumour viruses discovered are persistent
+viruses that successfully evade their hosts' immune attack and remain on board long term.
+- p. 95.
+
+Paradoxically, as the incidence of wild polio infection declined, the relative risk of vaccine-related polio caused by
+mutant vaccine virus rose, so that now most cases of paralytic polio are caused by the vaccine strain.  Also, with the
+vaccine strain of polio virus circulating in the community, it is not possible to completely eradicate the virus.  For
+these reasons, the policy now is to revert to using the inactivated vaccine worldwide in order to achieve complete
+eradication.
+- p. 117.
+
+At the present time, while global eradication of measles is ongoing, and infection is a rare event in the developed
+world, some may think that with a one in a million risk of vaccine-associated encephalitis, it is safer not to vaccinate.
+Nevertheless, if enough people argue this way and the level of vaccination falls below the critical level of 80 per cent,
+then measles epidemics will reappear, leading inevitably to deaths.
+This is exactly what happened in the UK after a report appeared in the medical journal *The Lancet* in 1998 suggesting a
+link between measles vaccination and childhood autism.  The puublicity this received caused an immediate downturn in
+measles vaccinations and, despite the link being refuted and eventually disproved, it took twelve years for the report's
+senior author to be found guilty of dishonesty and flouting ethics protocols and be struck off the UK Medical Register.
+In the meantime, the virus re-established itself, causing measles epidemics and deaths.
+- p. 118.
+
+- p. 118.
 
