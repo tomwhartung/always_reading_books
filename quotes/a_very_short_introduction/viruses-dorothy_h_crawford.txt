@@ -52,10 +52,20 @@ commonly centering on nursing homes, hospitals, and children's nurseries, camps,
 memor to noroviruses tends to be short, so epidemics affect adults as well as children.
 - p. 71.
 
+The frequency with which viruses succeed in persisting in their hosts varies, with herpesviruses virtually always
+establishing a lifelong relationship that usually does no harm to the host.
+- p. 76.
+
 Worldwide, 10-20 per cent of human cancers are linked to viruses, including some common tumours like cervical cancer in
 women and liver cancer, which is more common in men.  So far, all the human tumour viruses discovered are persistent
 viruses that successfully evade their hosts' immune attack and remain on board long term.
 - p. 95.
+
+Nearly everyone has suffered from unsightly warts on the hads or painful verrucae on the soles of the feet at some time
+in their lives.  These are caused by human papilloma viruses (HPVs), a very large family of viruses with over 100 different
+types.  Infection with HPVs is very common and although most, like those causing warts and verrucae, are harmless, a few
+types can cause cancer, most commonly cancer of the uterine cervix in women.
+- p. 105.
 
 Paradoxically, as the incidence of wild polio infection declined, the relative risk of vaccine-related polio caused by
 mutant vaccine virus rose, so that now most cases of paralytic polio are caused by the vaccine strain.  Also, with the
