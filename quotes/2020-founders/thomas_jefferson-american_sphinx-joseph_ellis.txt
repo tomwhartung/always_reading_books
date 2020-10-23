@@ -1,0 +1,48 @@
+
+====================
+Sort this out later!
+====================
+The two versions look to be very similar!  But I am busy with something else right this second!
+
+Version in ~/tmp:
+
+Quotes from American Sphinx, The Character of Thomas Jefferson, by Joseph J. Ellis. 1996.
+----------------------------------------------------------------------------------------
+
+While Madison was struggling with arrangements of authority in the three branches of the government, Jefferson was [as ambassador to France just as the French Revolution was starting] identifying three kinds of society in which human beings might arrange themselves.
+There was European society, with governments that ruled by force, usually monarchical in form, what Jefferson described as "a government of wolves over sheep."  Then there was American and, to a slightly lesser extent, English society, with governments responsive to the populace as a whole, where "the mass of mankind enjoys a precious degree of liberty & happiness."  Finally there was Indian society, which managed itself without any formal governments at all by remaining small and assuring the internalization of common values among all members.  If forced to choose, Jefferson preferred the Indian solution, while admitting that it was "inconsistent with any degree of population."  He reiterated the point in a letter to Edward Carrington, a conservative Virginian planter and politician.  "I am convinced," he explained, "that those societies (as the Indians) which live without government enjoy in their gen'l mass an infinitely greater degree of happiness than those who live under European governments." The Jefferson ideal, in short, was not a specific version of balanced republican government.  It was a world in which individual citizens had internalized their social responsibilities so thoroughly that the political architecture Madison was designing was superfluous.
+ - From American Sphinx, The Character of Thomas Jefferson, by Joseph J. Ellis. 1996, pp. 119-120.
+
+The Jefferson ideal, in short, was not a specific version of balanced republican government.  It was a world
+in which individual citizens had internalized their social responsibilities so thoroughly that the political
+architecture Madison was designing was superfluous.
+ - pp. 119-120.
+
+Version in ~/personal/quotes:
+
+Quotes from American Sphinx, The Character of Thomas Jefferson, by Joseph J. Ellis. 1996.
+----------------------------------------------------------------------------------------
+
+While Madison was struggling with arrangements of authority in the three branches of the government,
+Jefferson was [as ambassador to France just as the French Revolution was starting] identifying three
+kinds of society in which human beings might arrange themselves.
+There was European society, with governments that ruled by force, usually monarchical in form, what
+Jefferson described as "a government of wolves over sheep."  Then there was American and, to a slightly
+lesser extent, English society, with governments responsive to the populace as a whole, where "the mass
+of mankind enjoys a precious degree of liberty & happiness."  Finally there was Indian society, which
+managed itself without any formal governments at all by remaining small and assuring the internalization
+of common values among all members.  If forced to choose, Jefferson preferred the Indian solution, while
+admitting that it was "inconsistent with any degree of population."  He reiterated the point in a letter
+to Edward Carrington, a conservative Virginian planter and politician.  "I am convinced," he explained,
+"that those societies (as the Indians) which live without government enjoy in their gen'l mass an
+infinitely greater degree of happiness than those who live under European governments."
+The Jefferson ideal, in short, was not a specific version of bal-[page break]anced republican government.
+It was a world in which individual citizens had internalized their social responsibilities so thoroughly
+that the political architecture Madison was designing was superfluous.
+ - pp. 119-120.
+
+The Jefferson ideal, in short, was not a specific version of balanced republican government.  It was a world
+in which individual citizens had internalized their social responsibilities so thoroughly that the political
+architecture Madison was designing was superfluous.
+ - pp. 119-120.
+
