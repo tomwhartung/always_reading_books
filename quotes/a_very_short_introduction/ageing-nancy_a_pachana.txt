@@ -2,7 +2,7 @@
 Notes and quotes from Ageing, A Very Short Introduction, by Nancy A. Pachana, 2016.
 -----------------------------------------------------------------------------------
 
-Chapter 1, A brief history
+Chapter 1 - A brief history
 Medicine in ancient times was characterized by a belief that imbalance in the organism,
 particular of the four 'humours' (blood, yellow bile, black bile, and phlegm), resulted
 in illness.  Although many thinkers at that time, including Aristotle and Galen, believed
@@ -35,9 +35,54 @@ particularly as globally, longevity increases on average by about three months p
 five hours per day.
 - p. 16.
 
-Chapter 
-- p. .
-- p. .
+Chapter 2 - Physical and biological aspects of ageing
+Changes in the organism on a biological, psychological, and social level, evolving primarily as a
+result of the passage of chronological time, are the definition of *primary ageing.*  Primary ageing
+changes include wear and tear on organs as a result of their use over time, and we can do very little
+to slow or reverse such changes.  Examples of changes in human biology as a function of primary ageing
+include decreased productionf of neurotransmitters, the chemical messengers of the brain, as well as a
+decreased sensitivity of neural receptors in the brain to receive such messages (see Table 2 for more
+such examples of primary and secondary ageing effects).  Note that the magnitude of declines in such
+primarly ageing changes are relatively stable across the lifespan, but their cumulative effect may
+become more noticeable as we age.
+*Secondary ageing* is, by contrast, the term for changes in the organism that are a result of a
+disease process, as well as damage [page break] to the organism due to life events, such as experience
+of head trauma; and the results of lifestyle choices, such as diet and exercise.  Examples of secondary
+ageing effects include the development of cardiac disease or Alzheimer's disease.  Whereas changes due
+to primary ageing are more universal and largely unavoidable, those due to secondary ageing do not affect
+all persons, and are often amenable to interventions and in many cases also to prevention.  There are
+some grey areas in between primary and secondary ageing: for example, when does wear and tear on joints
+and cartilage (primary ageing) become arthritis (secondary ageing)?  Unfortunately, with increased age
+our ability to bounce back from illness or other forms of physical or emotional strain declines.  Thus
+preventative strategies in later life are important, and have as their goal maintaining health and
+functional capacity for longer before declines occur.
+- pp. 23-24  [Emphasis in original as italics.].
+
+A key element of this theory is the idea of *scaffolding.*  The older individual compensates for
+decrements in cognitive functioning by recruiting, in essence, additional brain power from more
+intact portions of the brain, ones less affected by the ageing process.  For example, older adults
+routinely use both sides of their brain to complete tasks for which younger adults use only one
+hemisphere.  This harnessing of additional cognitive functioning coupled with experience contributes
+to the finding that older adults often show superior performance on problems requiring complex,
+relativistic thinking, particularly those demanding recognition of diverse perspectives or the synthesis
+of contradictory information.  STAC-r shows the brain to be a dynamic organ that can adapt to changes in
+its functioning as a result of the ageing process.
+- p. 33.  [Emphasis in original as italics.]
+
+Dementia does not affect all adults or even a majority of older adults.  For persons over age 65, in
+most developed and developing countries, approximately 6-8 per cent of individuals will have some form of
+dementia.  For individuals over 80, approximately [page break] 20-25 per cent will have some form of
+dementia.  Women are at greater risk of developing dementia, and this is particularly true in very advanced
+old age, but how much of this is due to women's longer lifespan is a matter of debate in the literature.
+However, in all cases, dementia is not a part of normal or primary ageing but represents a neurological
+disease (secondary ageing) characterized by distinct changes in the brain.
+- pp. 33-34.
+
+If changes persist over time or are quite acute (suggesting some acute causative event such as a stroke),
+the consultation with a health professional is warranted.  If changes in thinking, emotions, or behaviours
+begin to impact daily life and particularly familiar tasks, such as way-finding (i.e. getting lost in
+familiar places), then seeking professional advice is probably warranted.
+- p. 35.
 - p. .
 - p. .
 - p. .
