@@ -36,14 +36,38 @@ The *Elements* contains twenty-three definition, of these, the first seven, and 
 The surface of a sphere is unbounded but not infinite, and a line of fractions narrowing to zero is infinite but
 not unbounded.
 - p. 38.
-- p. .
 
-Chapter - 
-- p. .
-- p. .
+Parmenides drew the conclusion that there is no void between atoms, because it makes no sense to say of a void that it *is.*
+- p. 42.  [Emphasis in original as italics.]
 
-Chapter - 
-- p. .
+Chapter V - The Axioms
+The first three of Euclid's axioms are commonly grouped together.  "Let the following be postulated," Euclid writes:
+1. To draw a straight line from any point to any point.
+2. To produce a finite straight line continuously in a straight line.
+3. To describe a circle with any center and distance.
+- p. 46.
+
+Euclid's fourth axiom asserts that
+4. All right angles are equal.
+- p. 50.
+
+The fifth and final axiom of Euclid's system is more famous than the other four.  It is said to have troubled Euclid,
+who squirmed and turned, wheezed and whistled, before accepting it:
+5. If a straight line falling on two straight lines makes the interior angles on the same side less than two right angles,
+the two straight lines, if produced indefinitely, meet on the side on which are the angles less tahn two right angles.
+- p. 53.
+
+Chapter VI - The Greater Euclid
+[Quote preceding and leading into the chapter.]
+Si les triangles faisaient un dieu, ils lui donneraient troi cotes (If triangles had a god, they would give him three sides).
+  - Voltaire
+- p. 57.
+
+Chapter VII - Visible and Invisible Proof
+[One of two quotes preceding and leading into the chapter.]
+Some paint comes across directly onto the nervous system and other paint tells you the story in a long diatribe through the brain.
+  - Francis Bacon
+- p. 77.
 - p. .
 
 Chapter - 
