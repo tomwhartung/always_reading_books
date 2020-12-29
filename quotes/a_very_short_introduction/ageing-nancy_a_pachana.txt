@@ -3,6 +3,7 @@ Notes and quotes from Ageing, A Very Short Introduction, by Nancy A. Pachana, 20
 -----------------------------------------------------------------------------------
 
 Chapter 1 - A brief history
+---------------------------
 Medicine in ancient times was characterized by a belief that imbalance in the organism,
 particular of the four 'humours' (blood, yellow bile, black bile, and phlegm), resulted
 in illness.  Although many thinkers at that time, including Aristotle and Galen, believed
@@ -36,6 +37,7 @@ five hours per day.
 - p. 16.
 
 Chapter 2 - Physical and biological aspects of ageing
+-----------------------------------------------------
 Changes in the organism on a biological, psychological, and social level, evolving primarily as a
 result of the passage of chronological time, are the definition of *primary ageing.*  Primary ageing
 changes include wear and tear on organs as a result of their use over time, and we can do very little
@@ -89,7 +91,8 @@ important for general health as well as cognitive and emotional well-being, and 
 lowering the risk of dementia.
 - p. 37.
 
-Chapter - The Psychology of ageing
+Chapter 3 - The Psychology of ageing
+------------------------------------
 For example, the general Body Mass Index (BMI) guidelines were found to be overly restrictive when applied
 to older persons, in that slightly higher than recommended BMI levels appeared protective (rather than a
 risk) for health in older individuals.
@@ -120,14 +123,60 @@ personality traits can and do change throughout life, and that such changes can 
 both cross-sectional and longitudinal research has shown that older adults tend to score higher on agreeableness
 and conscientiousness, and lower on extraversion, neuroticism, and openness, than younger individuals.  It is
 important to note that, of course, such studies are reporting on population changes and averages, and that
-individuals can change to a greater or lesser extent than is represented by such averages.
+individuals can change to a greater or lesser extent than is represented by such averages.  With respect to
+later life, research demonstrates that older people retain the capacity to change patterns of thoughts, feelings,
+and behaviours.  Findings from centenarian studies suggest that extraversion and a tendency to reach out to others
+is characteristic of persons who attain this great age.
+Personality traits have been associated with both more and less successful ageing outcomes.  For instance,
+possessing the personality trait of conscientiousness, which can include a sense of responsibility, self-control,
+and traditionalism, has, in several studies, been associated with greater longevity.  Higher levels of neuroticism,
+which can include greater emotional reactivity and the tendency to interpret situations as threatening, is associated
+with greater risk of experienceing poor physical and mental health.
 - p. 59.
-- p. .
 
-Chapter 
-- p. .
-- p. .
-- p. .
-- p. .
-- p. .
+Chapter 4 - Social and interpersonal aspects of ageing
+------------------------------------------------------
+One common factor across cultures is the experience of feeling younger than one's chronological age, which has been
+demonstrated in several studies internationally.  Also, the older one is, the greater the gap between one's actual age
+and how old one feels.  Typically, after age 65 people generally feel about ten years younger than their chronological
+age.  Despite varying context and circumstances, largely individual factors -- particularly physical and mental
+well-being, both objective and subjective -- contribute to one's subjectively imagined age.  Finally, a longitudinal
+study found that the higher the person's subjective age the higher their chance of experiencing poor health and higher
+mortality, even after adjusting for multiple potential contributing factors.  In other words, the closer our perceived
+and actual ages are, the worse off we are likely to be.
+- p. 77.
+
+Chapter 5 - Positive and successful ageing
+------------------------------------------
+Rowe and Kahn (1998), in their book Successful Aging, [sic] define positive ageing as the ability to sustain three
+important characteristics and behaviours, namely a low risk of disease and disease-related disability, a high level of
+physical and mental functioning, and active engagement with life.  Other authors have added such diverse criteria as
+social competence and productivity, personal control, and life satisfaction to this equation of healthy or productive
+ageing.  However, due to researchers having varying definitions of successful ageing ... the proportion of older persons
+classified as 'successfully ageing' varies enormously, from 3 per cent to 95 per cent, as reported in a review of the topic.
+- p. 92.
+
+Volunteering is an important role for some older adults, one which research supports as contributing to positive health
+and well-being.  Volunteering may particularly benefit older persons who are more isolated or who experience declining
+informal social contact.  Volunteering can improve social contact as well as provide engagement in a meaningful activity,
+and has been shown to have positive effects on self-rated health, mood, increased life satisfaction, lower levels of
+functional dependence and even decreased mortality.
+- p. 93.
+
+Seligman's (2003) 'Authentic Happiness Theory' posits three key facets to positive mental health and well-being: the
+pleasurable life (positive emotions), the engaged life (flow and mindfulness), and the meaningful life (meaning and
+[page break] purpose.  In 2011, Seligman revised his theory to include two additional components: positive relationships
+and accomplishments.
+- pp. 93-94.
+
+Chapter 6 - Reflections on ageing and future directions
+-------------------------------------------------------
+By 2050, there will be one million centenarians in the USA, and numbers of centenarians and supercentenarians (individuals
+over age 100 and 110, respectively) are rising across the developed and developing world.  Centenarian and supercentenarian
+studies provide increasing insights into function and well-being in very advanced old age.  Research has shown that 30-40
+per cent of a contemporary cohort of nonagenarians is independent from age 92-100 years.  In a comparable study of thirty-
+two US supercentenarians (aged 110-119 years), about 40 per cent of participants needed minimal assistance or were independent,
+implying that supercentenarians are not more disabled than people in their ninth decade.  Such studies do not paint a picture
+of the fourth age as one of inevitable dependence and poor quality of life.
+- p. 110.
 
