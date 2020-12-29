@@ -68,16 +68,35 @@ Chapter VII - Visible and Invisible Proof
 Some paint comes across directly onto the nervous system and other paint tells you the story in a long diatribe through the brain.
   - Francis Bacon
 - p. 77.
-- p. .
 
-Chapter - 
-- p. .
-- p. .
+It is in the rich and fascinating interplay between the logical structure of his theorems and their brilliantly contrived
+illustrations that Euclid's art comes most alive.
+Yes, *alive;* yes, *art.*
+- p. 80.  [Emphasis in original as italics.]
 
-Chapter - 
-- p. .
-- p. .
+The purpose of a proof is to compel belief, and to compel his reader's belief, Euclid has invested his twenty-seventh proposition
+with pictorial life.  His diagram and the logical structure of the theorem it expresses undergo fusion.  Far more than the
+axiomatic method alone, it is this fusion that is at the heart of Euclid's method.
+- p. 87.
 
-Chapter - 
-- p. .
-- p. .
+The propositions that Euclid demonstrated in the *Elements* ascend by number, and the numbers are a reasonable guide to their
+difficulty.
+- p. 89.  [Emphasis in original as italics.]
+
+Chapter VIII - The Devil's Offer
+[Quote preceding and leading into the chapter.]
+Algebra is the offer made by the devil to the mathematician.  The devil says: "I will give you this powerful machine, it will answer
+any question you like.  All you need to do is give me your soul: give up geometry and you will have this marvelous machine."
+  - Michael Atiyah
+- p. 91.
+
+[This quote demonstrates a big reason I did not like this book very much: the author's metaphors are a bit too cutsie and over the
+top sometimes -- at least for my tastes.  Too often they feel unnecessary and are present only to show off how clever the author
+thinks he is.]
+The numbers are expressed as a ratio because two equations a0 * x + b0 * y + c0 = 0 and a1 * x + b1 * y + c1 = 0 define -- they
+*are* -- one and the same straight line if the numbers a, b, and c are proportional.  In this way, Hilbert has offered an
+interpretation of the undefined terms of Euclidean geometry in terms of the defined elements of a real ordered field.  He has
+gotten one theory to speak in another theory's voice.
+It's like hearing a cat bark.
+- p. 113.  [Emphasis in original as italics.]
+
