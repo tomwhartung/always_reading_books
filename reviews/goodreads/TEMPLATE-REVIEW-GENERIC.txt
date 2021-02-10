@@ -23,8 +23,9 @@ I am giving <i><u>[Short title]</u></i> [number of] of 5 stars because [reason].
 
 
 <blockquote>
-<i></i>
+<i></i><br>
  &mdash; From <i><u>[Short title]</u></i>, by [Author], p. X.
 </blockquote>
 
+I would recommend <i><u>[Short title]</u></i> to people who ____ because ____.
 
