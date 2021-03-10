@@ -1,7 +1,7 @@
 
 Notes and Quotes from Cezanne's Composition, Analysis of His Form With Diagrams and Photographs of His Motifs, by Erle Loran, 1943.
 -----------------------------------------------------------------------------------------------------------------------------------
-This book really helped me understand how Cezanne inspired the Cubists!  In particular, the photographs of his motifs -- especially
+Note: This book really helped me understand how Cezanne inspired the Cubists!  In particular, the photographs of his motifs -- especially
 those of The Sainte Victoire mountain -- juxtaposed with his paintings let to a real "Ah-ha" moment!
 
 Section I. Introduction, pp. 1-5.
@@ -29,10 +29,38 @@ story.
 
 Section III. An Illustrated Glossary, pp. 17-24.
 Part One
-
+A Key Idea:
+Thus line, plane, volume, color, texture, and so on, are the plastic means used to build and organize the total space in the picture plane.
+Hence plastic qualities are not only three-dimensional, but two-dimensional as well.
 - p. 18.
+Context for the Key Idea Above:
+THE PLASTIC MEANS or PLASTIC FORM are terms used often in the present study, and are given a connotation different from that made
+familiar in art criticism and art history in general.  The traditional connotation implies sculptural roundness as achieved through
+light-and-shade modeling and chiaroscuro.  In this book the term *sculptural effect* is used when roundness is implied.  On the contrary,
+the term *plastic means* connotes three-dimensional space in general.  Diagram II is indended as a compendium of the plastic field for
+Cezanne's picture shown in Plate VII.  All the diagrams in the Glossary deal with various aspects of the plastic means.  The sum of all
+the diagrams for Plates I and X constitute the analysis of the plastic means that Cezanne has used in creating these paintings.  Thus
+line, plane, volume, color, texture, and so on, are the plastic means used to build and organize the total space in the picture plane.
+Hence plastic qualities are not only three-dimensional, but two-dimensional as well.
+- p. 18.  [Emphasis in original as italics.]
 
+Part Two
+Note: this section contains many illustrations of basic compositions, e.g., Static Plane, Dynamic Plane, Overlapping Planes, etc., that
+I might want to copy someday.
 
-Section IV. How Cezanne Organized a Picture, pp. 25-34.
+LIGHT AND DARK PATTERNS (CLOSED).  Diagram XVIII is a combination of light and dark patterns all of which remain *closed within their
+separate compartments.*  Cezanne's still lifes may often be described as closed or *compartmental* in their color shapes; but more often,
+and particularly in his landscapes, his color and light-dark patterns tend to be *open.*
+OPEN-COLOR PATTERN.  Diagram XIX is an illustration of open patterns of light and dark.  In painting, the system is called open color.
+When the patterns of light and dark (or color) are arbitrary and not confined to definitel forms, it is necessary to superimpose a line
+drawing in order to establish volume and space.  Cezanne's painting abounds in examples of free and open color with superimposed line,
+but his followers, notably Dufy, have made a definite method or system out of the idea.
+- p. 24.  [Emphasis in original as italics.]
+
+Section IV. How Cezanne Organized a Picture, pp. 25-33.
+
+- p. 25
+
+Section V. Cezanne's Materials and Method, p. 35.
 [None.]
 
