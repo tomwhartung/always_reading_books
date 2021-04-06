@@ -9,7 +9,7 @@ deep work.  "What the Net seems to be doing is chipping away my capacity for con
 admitted journalist Nicholas Carr, in an oft-cited 2008 *Atlantic* article.  "[And] I'm not the only one."
 Carr expanded this argument  into a book, *The Shallows,* which became a finalist for the Pulitzer Prize.
 To write *The Shallows,* appropriately enough, Carr had to move to a cabin and forcibly disconnect.
-- p. 7.  [Emphasis in original as italics.]
+- p. 7.  [Emphasis in original as *italics.*]
 
 **The Deep Work Hypothesis:** The ability to perform deep work is becoming increasing *rare* at exactly the
 same time it is becoming increasingly *valuable* in our economy.  As a consequence, the few who cultivate this
@@ -44,9 +44,63 @@ concentrate.  This reality no longer generates much debate; we all feel it.
 To master the art of deep work, therefore, you must take back control of your time and attention from the many
 diversion that attempt to steal them.
 - p. 182.
+
+I won't ask you, in other words, to quit the Internet altogether like Baratunde Thurston did for twenty-five days
+back in 2013.  But I will ask you to reject the state of distracted hyperconnectedness that drove him to that
+drastic experiment in the first place.  There is a middle ground, and if you're interested in developing a deep
+work habit, you must fight to get there.
+- p. 184.
+
+**The Any-Benefit Approach to Network Tool Selection:** You're justified in using a network took of you can
+identify *any* possible benefit to its use, or *anything* you might possibly miss out on if you don't use it.
+- p. 186.  [Emphasis in original as *italics* and **bolded text.**]
+
+**The Craftsman Approach to Tool Selection:** Identify the core factors that determine success and happiness in
+your professional and personal life.  Adopt a took only if its positive impacts on these factors substantially
+outweigh its negative impacts.
+- p. 191.  [Emphasis in original as **bolded text.**]
+Notice that this craftsman approach to tool selection stands in opposition to the any-benefit approach.  Whereas
+the any-benefit mind-set identifies any potential positive impact as justification for using a tool, the craftsman
+variant requires that these positive impacts affect factors at the core of what's important to you and that they
+outweigh the negatives.
+- p. 191.
+
+The three strategies that follow in this rule are designed to grow your comfort with abandoning the any-benefit
+mind-set and instead applying the more thoughtful craftsman philosophy in curating the tools that lay claim to
+your time and attention.  This guidance is important because the craftsman approach is not cut-and-dry.  Identifying
+what matters most in your life, and then attempting to assess the impacts of various tools on these factors, doesn't
+reduce to a simple formula -- this task requires practice and experimentation.  by forcing you to reconsider your
+network tools from many different angles.  Combined, they should help you cultivate a more sophisticated relationship
+with your tools that that will allow you to take back enough control over your time and attention to enable the rest
+of the ideas in Part 2 to succeed.
+- p. 192.
+
+[First strategy.]
+Apply the Law of the Vital Few to Your Internet Habits [heading]
+- p. 192.
+
+**The Law of the Vital Few:** In many settings, 80 percent of a given effect is due to just 20 percent of the possible
+causes.
+- p. 201.  [Emphasis in original as **bolded text.**]
+
+[Second strategy.]
+Quit Social Media [heading]
+- p. 203.
+
+In more detail, this strategy asks that you perform the equivalent of a packing party on the social media services that
+you currently use.  Instead of "packing," however, you'll instead ban yourself from using them for *thirty days.*  All
+of them: Facebook, Instagram, Google+, Twitter, Snapchat, Vine -- or whatever services have risen to popularity [page
+break] since I first wrote these words.  Don't formally deactivate these services, and (this is important) don't mention
+online that you'll be signing off: Just stop using them, cold turkey.  If someone reaches out to you by other means and
+asks why your activity on a particular service has fallen off, you can explain, but don't go out of your way to tell
+people.
+After thirty days of this self-imposed network isolation, ask yourself the following two questions about each of the
+services you temporarily quit:
+  1. Would the last thirty days have been notably better if I had been able to use this service?
+  2. Did people care that I wasn't using this service?
+- pp. 204-205.  [Emphasis in original as *italics.*]
 - p. .
 - p. .
-- pp. .
 
 [Social networking sites] offer personalized information arriving on an
 unpredictible intermittent schedule - making them massively addictive and
@@ -58,7 +112,7 @@ But part of what makes social networking insidious is that the companies
 that profit from your attention have succeeded with a masterful marketing
 coup: convincing our culture that if you don't use their products you
 might *miss out*.
-- p. 206.  [Emphasis in original as italics.]
+- p. 206.  [Emphasis in original as *italics.*]
 
 [Cal discusses how before the internet, traditional media - books,
 newspapers, radio, film, tv - were heavily curated by the publishers.
@@ -71,8 +125,11 @@ value and the positive reward of having people pay attention to you. It has
 instead replaced this timeless capitalist exchange with a shallow
 collectivist alternative: *I'll pay attention to what you say if you
 pay attention to what I say - regardless of value*.
-- p. 207.  [Emphasis in original as italics.]
+- p. 207.  [Emphasis in original as *italics.*]
 
 Rule #4: Drain the Shallows - p. 215
 ------------------------------------
+
+Conclusion - p. 257
+-------------------
 
