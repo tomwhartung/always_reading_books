@@ -1,20 +1,64 @@
 
-Deep work is at a severe disadvantage in a technopoly because it builds on
-values like quality, craftmanship, and mastery that are decidedly old-fashioned
-and non-technological.
-  - Deep Work by Cal Newport, p. 69.
+Notes and quotes from Deep Work, Rules for Focused Success in a Distracted World, by Cal Newport, 2016.
+=======================================================================================================
+
+Introduction - p. 1
+-------------------
+Spend enough time in a state of frenetic shallownesss and you *permanently* reduce your capacity to perform
+deep work.  "What the Net seems to be doing is chipping away my capacity for concentration and concentration,"
+admitted journalist Nicholas Carr, in an oft-cited 2008 *Atlantic* article.  "[And] I'm not the only one."
+Carr expanded this argument  into a book, *The Shallows,* which became a finalist for the Pulitzer Prize.
+To write *The Shallows,* appropriately enough, Carr had to move to a cabin and forcibly disconnect.
+- p. 7.  [Emphasis in original as italics.]
+
+**The Deep Work Hypothesis:** The ability to perform deep work is becoming increasing *rare* at exactly the
+same time it is becoming increasingly *valuable* in our economy.  As a consequence, the few who cultivate this
+skill, and then make it the core of their working life, will thrive.
+- p. 14.  [Emphasis in original as *italics* and **bolded text.**]
+
+Part I: The Idea - p. 19
+========================
+Chapter One: Deep Work Is Valuable - p. 21
+------------------------------------------
+Chapter Two: Deep Work Is Rare - p. 49
+--------------------------------------
+Deep work is at a severe disadvantage in a technopoly because it builds on values like quality, craftmanship,
+and mastery that are decidedly old-fashioned and non-technological.
+- p. 69.
+
+Chapter Three: Deep Work Is Meaningful - p. 72
+----------------------------------------------
+
+Part II: The Rules - p. 93
+==========================
+Rule #1: Work Deeply - p. 95
+----------------------------
+Rule #2: Embrace Boredom - p. 115
+---------------------------------
+Rule #3: Quit Social Media - p. 181
+-----------------------------------
+The first point is that we increasingly recognize that these tools fragment our time and reduce our ability to
+concentrate.  This reality no longer generates much debate; we all feel it.
+- p. 182.
+
+To master the art of deep work, therefore, you must take back control of your time and attention from the many
+diversion that attempt to steal them.
+- p. 182.
+- p. .
+- p. .
+- pp. .
 
 [Social networking sites] offer personalized information arriving on an
 unpredictible intermittent schedule - making them massively addictive and
 therefore capable of severely damaging your attempts to schedule and
 succeed with any act of concentration.
-  - Deep Work by Cal Newport, p. 205.
+- p. 205.
 
 But part of what makes social networking insidious is that the companies
 that profit from your attention have succeeded with a masterful marketing
 coup: convincing our culture that if you don't use their products you
-might <em>miss out</em>.
-  - Deep Work by Cal Newport, p. 206.  [Emphasis in original.]
+might *miss out*.
+- p. 206.  [Emphasis in original as italics.]
 
 [Cal discusses how before the internet, traditional media - books,
 newspapers, radio, film, tv - were heavily curated by the publishers.
@@ -25,7 +69,10 @@ Part of what fueled social media's rapid ascent, I contend, is its ability
 to short-circuit this connection between the hard work of producing real
 value and the positive reward of having people pay attention to you. It has
 instead replaced this timeless capitalist exchange with a shallow
-collectivist alternative: <em>I'll pay attention to what you say if you
-pay attention to what I say - regardless of value</em>.
-  - Deep Work by Cal Newport, p. 207.  [Emphasis in original.]
+collectivist alternative: *I'll pay attention to what you say if you
+pay attention to what I say - regardless of value*.
+- p. 207.  [Emphasis in original as italics.]
+
+Rule #4: Drain the Shallows - p. 215
+------------------------------------
 
