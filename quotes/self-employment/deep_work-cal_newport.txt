@@ -99,8 +99,6 @@ services you temporarily quit:
   1. Would the last thirty days have been notably better if I had been able to use this service?
   2. Did people care that I wasn't using this service?
 - pp. 204-205.  [Emphasis in original as *italics.*]
-- p. .
-- p. .
 
 [Social networking sites] offer personalized information arriving on an
 unpredictible intermittent schedule - making them massively addictive and
@@ -108,24 +106,34 @@ therefore capable of severely damaging your attempts to schedule and
 succeed with any act of concentration.
 - p. 205.
 
-But part of what makes social networking insidious is that the companies
-that profit from your attention have succeeded with a masterful marketing
-coup: convincing our culture that if you don't use their products you
-might *miss out*.
+But part of what makes social networking insidious is that the companies that profit from your attention have succeeded
+with a masterful marketing coup: convincing our culture that if you don't use their products you might *miss out*.
 - p. 206.  [Emphasis in original as *italics.*]
 
-[Cal discusses how before the internet, traditional media - books,
-newspapers, radio, film, tv - were heavily curated by the publishers.
-Using social media, anyone can publish anything without fear of an
-editor's modifications.  Examples: songs such as The Pill and Wake Up,
-Little Susie, The Hayes Code, Uhura's and Kirk's kiss, and so on.]
-Part of what fueled social media's rapid ascent, I contend, is its ability
-to short-circuit this connection between the hard work of producing real
-value and the positive reward of having people pay attention to you. It has
-instead replaced this timeless capitalist exchange with a shallow
-collectivist alternative: *I'll pay attention to what you say if you
-pay attention to what I say - regardless of value*.
+The reason why I ask you to not announce your thirty-day experiment is because for some people another part of the delusion
+that binds them to social media is the idea that people *want to hear what you have to say,* and that they might be
+disappointed if you suddenly leave them bereft of your commentary.
+- p. 206.  [Emphasis in original as *italics.*]
+
+[Cal discusses how before the internet, traditional media - books, newspapers, radio, film, tv - were heavily curated by the
+publishers.  Using social media, anyone can publish anything without fear of an editor's modifications.  Examples that I am
+aware of, but that he does not mention, include songs such as The Pill and Wake Up, Little Susie, The Hayes Code, Uhura's and
+Kirk's kiss, and so on.]
+Part of what fueled social media's rapid ascent, I contend, is its ability to short-circuit this connection between the hard
+work of producing real value and the positive reward of having people pay attention to you. It has instead replaced this
+timeless capitalist exchange with a shallow collectivist alternative: *I'll pay attention to what you say if you pay attention
+to what I say - regardless of value*.
 - p. 207.  [Emphasis in original as *italics.*]
+
+[Second strategy.]
+Don't Use the Internet to Entertain Yourself [heading]
+- p. 209.
+
+These sites are especially harmful after the workday is over, where the freedom in your schedule enables them to become central
+to your leisure time.  If you're waiting in line, or waiting to finish eating a meal, they provide a cognitive crutch to ensure
+you eliminate any chance of boredom.  As I argued in Rule #2, however, such behavior is dangerous, as it weakens your mind's
+general ability to resist distraction, making deep work difficult later when you really want to concentrate.
+- p. 212.
 
 Rule #4: Drain the Shallows - p. 215
 ------------------------------------
