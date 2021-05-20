@@ -3,6 +3,21 @@
 
 Links to and quotes from works by Piet Mondrian.
 
+# Redundancy Alerts!
+
+These quotes formed the basis of an article I wrote on medium.com, so they also appear in these files:
+
+- `social_networking/tomh/medium/articles/3-new_art_new_life-JUST_THE_QUOTES.md` in the `jmws_accoutrements` repo.
+- `social_networking/tomh/medium/articles/3-new_art_new_life-QUOTES-ANNOTATED_WITH_THEMES.md` in the `jmws_accoutrements` repo.
+
+For original source material, and quotes from other works in the collection, see:
+
+- `doc/mondrian-links_and_quotes.md` in the `seeourminds.com` repo.
+
+This file contains mostly just the quotes.
+
+**It would be nice to keep all of these files up to date with any additions!**
+
 # Links
 
 - [Neoplasticism in Painting (1917-1918)](https://modernistarchitecture.wordpress.com/2010/10/17/piet-mondrian%E2%80%99s-%E2%80%9Cneoplasticism-in-painting%E2%80%9D-1917-1918/)
@@ -178,6 +193,33 @@ In this evolution of art and life it is sincerity, rather than conformity, that 
 > But the new art also reveals another thing of the greatest importance: *to show ourselves as we really are.*
 > It reveals that frankness and sincerity are the primordial conditions for the new life.
 (p. 260)
+
+> Nothing is more unfortunate for life than the concealment of reality: truth.  Since life is truth, life is then concealed.
+> To conceal the true content of life, even of practical life, is to retreat into a particular form, is to become separated from
+> life, to enclose oneself.  Oscillating between life and death in the obscurity of existence, we naturally enclose ourselves in
+> groups, in small, more or less homogeneous circles of the same social condition.  Through sensitivity or selfishness, it is
+> logical that we try to avoid the clashes and conflicts that abound in life.  It is understandable to frequent only one's
+> "friends," to live with "pals," and to be as little as possible concerned with humanity outside our small chosen circle.
+> That is why we enjoy ourselves as much as we can, eating, drinking, feeling, and thinking according to our particular taste
+> and nature.  Thus we cling to warmth and avoid cold; we read only what is agreeable to us, sympathetic in thought and feeling.
+> Finally, it is logical that we do not want to concern ourselves with troublesome political or economic situations and problems.
+> All this is very "human," if it derives spontaneously from one's own in- [page break] stinct and intuition for "living."  But
+> if it is a calculated attitude intended to conceal the true state of things, then it is ostrich policy.
+>
+> Let us not forget that this narrow egoism is not the egoism by which we evolve.  By enclosing ourselves within the small circle
+> of what is agreeable to us, we unjustly separate ourselves from others, from universal life and all its beauties, which then
+> remain concealed.
+>
+> But in reality there is danger everywhere, which if not combated leads to ruin.
+>
+> But like all particular forms, the little circles of our life destroy themselves.  And once again life pitilessly thrusts
+> us out of the warmth into the cold.
+>
+> Disoriented, facing concealed opposition, we feel unhappy.  But we "learn" and are forced to fight.  Fromthe struggle finally
+> comes victory: a new form of life that is more open.
+(pp. 260-261)
+
+Highlights from the above paragraphs:
 
 > Nothing is more unfortunate for life than the concealment of reality: truth.
 > Since life is truth, life is then concealed.
