@@ -3,16 +3,20 @@
 
 Links to and quotes from works by Piet Mondrian.
 
-# Also -- In the `jmws_accoutrements` Repo!
+# Redundancy Alerts!
 
 These quotes formed the basis of an article I wrote on medium.com, so they also appear in these files:
 
-- `social_networking/tomh/medium/articles/3-new_art_new_life-JUST_THE_QUOTES.md`
-- `social_networking/tomh/medium/articles/3-new_art_new_life-QUOTES-ANNOTATED_WITH_THEMES.md`
+- `social_networking/tomh/medium/articles/3-new_art_new_life-JUST_THE_QUOTES.md` in the `jmws_accoutrements` repo.
+- `social_networking/tomh/medium/articles/3-new_art_new_life-QUOTES-ANNOTATED_WITH_THEMES.md` in the `jmws_accoutrements` repo.
+
+For original source material, and quotes from other works in the collection, see:
+
+- `doc/mondrian-links_and_quotes.md` in the `seeourminds.com` repo.
 
 This file contains mostly just the quotes.
 
-**It would be nice to keep all three files up to date with any additions!**
+**It would be nice to keep all of these files up to date with any additions!**
 
 # Links
 
