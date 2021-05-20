@@ -3,6 +3,17 @@
 
 Links to and quotes from works by Piet Mondrian.
 
+# Also -- In the `jmws_accoutrements` Repo!
+
+These quotes formed the basis of an article I wrote on medium.com, so they also appear in these files:
+
+- `social_networking/tomh/medium/articles/3-new_art_new_life-JUST_THE_QUOTES.md`
+- `social_networking/tomh/medium/articles/3-new_art_new_life-QUOTES-ANNOTATED_WITH_THEMES.md`
+
+This file contains mostly just the quotes.
+
+**It would be nice to keep all three files up to date with any additions!**
+
 # Links
 
 - [Neoplasticism in Painting (1917-1918)](https://modernistarchitecture.wordpress.com/2010/10/17/piet-mondrian%E2%80%99s-%E2%80%9Cneoplasticism-in-painting%E2%80%9D-1917-1918/)
