@@ -14,7 +14,7 @@ vague resolutions"] is a full-fledged *philosophy of technology use,* rooted in 
 answers to the questions of what tools you should use and how you should use them and, equally important, enables you to
 confidently ignore everything else.
 
-p. xvi.  Emphasis in original as *italics.*
+- p. xvi.  Emphasis in original as *italics.*
 ---------
 
 Of the different philosophies I studied, however, there was one in particular that stood out as a superior answer for those
@@ -31,7 +31,7 @@ applies the believe that *less can be more* to our relationship with digital too
 > and admit they're just tobacco farmers in T-shirts selling an addictive product to children.  Because, let's
 > face it, checking your "likes" is the new smoking.
 
-p. 9.
+- p. 9.
 ---------
 
 "This thing is a slot machine," ["former start-up founder and Google engineer" Tristan] Harris says early in the interview
@@ -57,7 +57,7 @@ money."
 
 "Phillip Morris just wanted your lungs," Maher concludes.  "The App Store wants your soul."
 
-p. 11.
+- p. 11.
 ---------
 
 To many people, *addiction* is a scary word.  In popular culture, it conjures images of drug addicts stealing their mother's
@@ -81,7 +81,7 @@ in my own research on how tech companies encourage behavioral addiction: *interm
 social approval.*
 Our brains are highly susceptible to these forces.
 
-p. 17.  Emphasis in original as *italics.*
+- p. 17.  Emphasis in original as *italics.*
 ---------
 
 We begin with the first force: intermittent positive reinforcement.  Scientists have known since Michael Zeiler's famous pecking
@@ -94,7 +94,7 @@ pattern.
 As whistleblower Tristan Harris explains: "Apps and websites sprinkle intermittent variable rewards all over their products because
 it's good for business."
 
-p. 19.
+- p. 19.
 ---------
 
 In perhaps the most telling admission of all, in the fall of 2017, Sean Parker, the founding president of Facebook, spoke candidly
@@ -112,7 +112,7 @@ these features away, you probably wouldn't diminish the value most people derive
 universal is because it works really well for keeping eyes glued to screens.  These powerful psychological forces are a large part of
 what Harris had in mind when he held up a smartphone on *60 Minutes* and told Anderson Cooper "this thing is a slot machine."
 
-p. 20.  Emphasis in original as *italics.*
+- p. 20.  Emphasis in original as *italics.*
 ---------
 
 ## Chapter 2, Digital Minimalism -- pp. 27-58
