@@ -143,7 +143,7 @@ My argument for this philosophy's effectiveness  rests on the following three co
 > decisions they make and is one of the biggest reasons that minimalism tends to be immensely meaningful to
 > its practitioners.
 
-pp. 35-36.  Emphasis in original as **bold** and *italics.*
+- pp. 35-36.  Emphasis in original as **bold** and *italics.*
 ---------
 
 ### A NEW LOOK AT OLD ADVICE [Section Title]
