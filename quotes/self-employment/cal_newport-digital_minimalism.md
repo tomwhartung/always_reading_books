@@ -62,16 +62,22 @@ this longer treatment that not only seemed particularly relevant to our discussi
 in my own research on how tech companies encourage behavioral addiction: *intermittent positive reinforcement* and *the drive for
 social approval.*
 Our brains are highly susceptible to these forces.
+
 \- p. 17.  Emphasis in original as *italics.*
+
 
 We begin with the first force: intermittent positive reinforcement.  Scientists have known since Michael Zeiler's famous pecking
 pigeon experiments from the 1970s that rewards delivered unpredictably are far more enticing than those delivered wtih a known
 pattern.
+
 \- p. 17.
+
 
 As whistleblower Tristan Harris explains: "Apps and websites sprinkle intermittent variable rewards all over their products because
 it's good for business."
+
 \- p. 19.
+
 
 In perhaps the most telling admission of all, in the fall of 2017, Sean Parker, the founding president of Facebook, spoke candidly
 at an event about the attention engineering deployed by his former company:
@@ -79,26 +85,49 @@ at an event about the attention engineering deployed by his former company:
 > about: "How do we consume as much of your time and conscious attention as possible?"  And that means that we
 > need to give you a little dopamine hit every once in a while, because someone liked or commented on a photo
 > or a post or whatever.
+
 \- p. 19.
+
 
 In other words, there's nothing fundamental about the unpredictable feedback that dominates most social media services.  If you took
 these features away, you probably wouldn't diminish the value most people derive from them.  The reason this specific dynamic is so
 universal is because it works really well for keeping eyes glued to screens.  These powerful psychological forces are a large part of
 what Harris had in mind when he held up a smartphone on *60 Minutes* and told Anderson Cooper "this thing is a slot machine."
-= p. 20.  Emphasis in original as *italics.*
+
+\- p. 20.  Emphasis in original as *italics.*
+
 
 ## Chapter 2, Digital Minimalism -- pp. 27-58
 As I mentioned in the introduction, I have one such philosophy to propose:
 > **Digital Minimalism**
-
+>
 > A philosophy of technology use in which you focus your online time on a small number of carefully selected
 > and optimized activities that strongly support things you value, and then happily miss out on everything
 > else.
-+ p. 28.  Emphasis in original as **bold.**
 
-= p. .
+\- p. 28.  Emphasis in original as **bold.**
 
-+ p. .
+
+My argument for this philosophy's effectiveness  rests on the following three core principles:
+> **Principle #1:** *Clutter is costly.*
+> Digital minimalists recognize that cluttering their time and attention with too many devices, apps, and
+> services creates an overall negative cost that can swamp the small benefits that each individutal item
+> provides in isolation.
+[page break]
+> **Principle #2:** *Optimization is important.*
+> Digital minimalists believe that deciding a particular technology supports something they value is only
+> the first step.  To truly extract its full potential benefit, it's necessary to think carefull about
+> *how* they'll use the technology.
+
+> **Principle #3:** *Intentionality is satisfying.*
+> Digital minimalists derive significant satisfaction from their general commitment to being more intentional
+> about how they engage with new technologies.  This source of satisfaction is independent of the specific
+> decisions they make and is one of the biggest reasons that minimalism tends to be immensely meaningful to
+> its practitioners.
+\- pp. 35-36.  Emphasis in original as **bold** and *italics.*
+
+
+\- p. .
 
 = p. .
 = p. .
