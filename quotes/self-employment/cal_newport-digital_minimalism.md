@@ -13,12 +13,16 @@ In my work on this topic, I've become convinced that what you need instead [of "
 vague resolutions"] is a full-fledged *philosophy of technology use,* rooted in your deep values, that provides clear
 answers to the questions of what tools you should use and how you should use them and, equally important, enables you to
 confidently ignore everything else.
-  - p. xvi.  Emphasis in original as *italics.*
+
+\- p. xvi.  Emphasis in original as *italics.*
+---------
 
 Of the different philosophies I studied, however, there was one in particular that stood out as a superior answer for those
 looking to thrive in our [page break] current moment of technological overload.  I call it *digital minimalism,* and it
 applies the believe that *less can be more* to our relationship with digital tools.
-  - pp. xvi-xvii.  Emphasis in original as *italics.*
+
+\- pp. xvi-xvii.  Emphasis in original as *italics.*
+---------
 
 ## Chapter 1, A Lopsided Arms Race -- pp. 3-25
 
@@ -26,23 +30,35 @@ applies the believe that *less can be more* to our relationship with digital too
 > The tycoons of social media have to stop pretending that they're friendly nerd gods building a better world
 > and admit they're just tobacco farmers in T-shirts selling an addictive product to children.  Because, let's
 > face it, checking your "likes" is the new smoking.
-  - p. 9.
+
+\- p. 9.
+---------
 
 "This thing is a slot machine," ["former start-up founder and Google engineer" Tristan] Harris says early in the interview
 [with Anderson Cooper on a segment of *60 Minutes* entitled "Brain Hacking"] while holding up his smartphone.
+
 "How is that a slot machine?" Cooper asks.
+
 "Well, every time I check my phone, I'm playing the slot machine to see 'What did I get?'" Harris answers.  "There's a whole
 playbook of techniques that get used [by technology companies] to get you using the product for as long as possible."
+
 "Is Silicon Valley programming apps or are they programming people?" Cooper asks.
+
 "They are programming people," Harris says.  "THere's always this narrative that technology's neutral.  And it's up to us to
 choose how we use it.  This is just not true --"
+
 "Technology is not neutral?" Cooper interrupts.
+
 "It's not neutral.  They want you to use it in particular ways and for long periods of time.  Because that's how they make their
 money."
-  - p. 10.
+
+\- p. 10.
+---------
 
 "Phillip Morris just wanted your lungs," Maher concludes.  "The App Store wants your soul."
-  - p. 11.
+
+\- p. 11.
+---------
 
 To many people, *addiction* is a scary word.  In popular culture, it conjures images of drug addicts stealing their mother's
 jewelry.  But to psychologists, addiction has a careful definition that's stripped of these more lurid elements.  Here's a
@@ -54,7 +70,9 @@ Until recently, it was assumed that addiction only applied to alcohol or drugs: 
 that can directly change your brain chemistry.  As the twentieth century gave way to the twenty-first, however, a mounting body
 of research suggested that behaviors that did not involve ingesting substances could become addictive in the technical sense
 defined above.
-  - p. 15.  Emphasis in original as *italics.*
+
+\- p. 15.  Emphasis in original as *italics.*
+---------
 
 In his 2017 book, *Irresistable,* which details his study of this topic, [Adam] Alter explors the many different "ingredients"
 that make a given technology likely to hook our brain and cultivate unhealthy use.  I want to briefly focus on two forces from
@@ -64,20 +82,20 @@ social approval.*
 Our brains are highly susceptible to these forces.
 
 \- p. 17.  Emphasis in original as *italics.*
-
+---------
 
 We begin with the first force: intermittent positive reinforcement.  Scientists have known since Michael Zeiler's famous pecking
 pigeon experiments from the 1970s that rewards delivered unpredictably are far more enticing than those delivered wtih a known
 pattern.
 
 \- p. 17.
-
+---------
 
 As whistleblower Tristan Harris explains: "Apps and websites sprinkle intermittent variable rewards all over their products because
 it's good for business."
 
 \- p. 19.
-
+---------
 
 In perhaps the most telling admission of all, in the fall of 2017, Sean Parker, the founding president of Facebook, spoke candidly
 at an event about the attention engineering deployed by his former company:
@@ -87,7 +105,7 @@ at an event about the attention engineering deployed by his former company:
 > or a post or whatever.
 
 \- p. 19.
-
+---------
 
 In other words, there's nothing fundamental about the unpredictable feedback that dominates most social media services.  If you took
 these features away, you probably wouldn't diminish the value most people derive from them.  The reason this specific dynamic is so
@@ -95,7 +113,7 @@ universal is because it works really well for keeping eyes glued to screens.  Th
 what Harris had in mind when he held up a smartphone on *60 Minutes* and told Anderson Cooper "this thing is a slot machine."
 
 \- p. 20.  Emphasis in original as *italics.*
-
+---------
 
 ## Chapter 2, Digital Minimalism -- pp. 27-58
 As I mentioned in the introduction, I have one such philosophy to propose:
@@ -106,7 +124,7 @@ As I mentioned in the introduction, I have one such philosophy to propose:
 > else.
 
 \- p. 28.  Emphasis in original as **bold.**
-
+---------
 
 My argument for this philosophy's effectiveness  rests on the following three core principles:
 > **Principle #1:** *Clutter is costly.*
@@ -124,19 +142,28 @@ My argument for this philosophy's effectiveness  rests on the following three co
 > about how they engage with new technologies.  This source of satisfaction is independent of the specific
 > decisions they make and is one of the biggest reasons that minimalism tends to be immensely meaningful to
 > its practitioners.
+
 \- pp. 35-36.  Emphasis in original as **bold** and *italics.*
+---------
 
+### A NEW LOOK AT OLD ADVICE [Section Title]
+The central idea of minimalism, that less can be more, is not novel.  As mentioned in the introduction, this concept dates back to
+antiquity and has been repeatedly espoused since.  The fact, therefore, that this old idea might apply to the new technologies that
+define so much about our current age shouldn't be surprising.
 
-\- p. .
+That being said, the past couple of decades are also defined by a resurgent narrative of techno-maximalism that contends more is
+better when it comes to technology -- more connections, more information, more options.  This philosophy cleverly dovetails with the
+general objective of the liberal humanism project to offer individuals more freedom, making it seem vaguely illiberal to avoid a
+popular social media platform or decline to follow the latest online chatter.
 
-= p. .
-= p. .
-= p. .  Emphasis in original as *italics.*
+This connection, of course, is specious.  Outsourcing your autonomy to an attention economy conglomerate -- as you do [page break]
+when you mindlessly sign up for whatever new hot service emerges from the Silicon Valley venture capitalist class -- is the opposite
+of freedome, and will likely degrade your individuality.  But given the current strength of the maximalist argument, I felt it necessary
+to provide the full-throated defense of minimalism detailed in this chapter.  Even old ideas require new investigation to underscore
+their continued relevance.
 
+When it comes to new technologies, less almost certainly is more.  Hopefully the preceding pages made it clear why this is true.
 
-+ p. .
-+ p. .
-+ p. .
-+ p. .  Emphasis in original as *italics.*
-
+\- pp. 57-58.
+---------
 
