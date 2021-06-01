@@ -13,12 +13,12 @@ In my work on this topic, I've become convinced that what you need instead [of "
 vague resolutions"] is a full-fledged *philosophy of technology use,* rooted in your deep values, that provides clear
 answers to the questions of what tools you should use and how you should use them and, equally important, enables you to
 confidently ignore everything else.
-  - p. xvi.  Emphasis in original as italics.
+  - p. xvi.  Emphasis in original as *italics.*
 
 Of the different philosophies I studied, however, there was one in particular that stood out as a superior answer for those
 looking to thrive in our [page break] current moment of technological overload.  I call it *digital minimalism,* and it
 applies the believe that *less can be more* to our relationship with digital tools.
-  - pp. xvi-xvii.  Emphasis in original as italics.
+  - pp. xvi-xvii.  Emphasis in original as *italics.*
 
 ## Chapter 1, A Lopsided Arms Race -- pp. 3-25
 
@@ -54,7 +54,7 @@ Until recently, it was assumed that addiction only applied to alcohol or drugs: 
 that can directly change your brain chemistry.  As the twentieth century gave way to the twenty-first, however, a mounting body
 of research suggested that behaviors that did not involve ingesting substances could become addictive in the technical sense
 defined above.
-  - p. 15.  Emphasis in original as italics.
+  - p. 15.  Emphasis in original as *italics.*
 
 In his 2017 book, *Irresistable,* which details his study of this topic, [Adam] Alter explors the many different "ingredients"
 that make a given technology likely to hook our brain and cultivate unhealthy use.  I want to briefly focus on two forces from
@@ -62,16 +62,16 @@ this longer treatment that not only seemed particularly relevant to our discussi
 in my own research on how tech companies encourage behavioral addiction: *intermittent positive reinforcement* and *the drive for
 social approval.*
 Our brains are highly susceptible to these forces.
-  - p. 17.  Emphasis in original as italics.
+\- p. 17.  Emphasis in original as *italics.*
 
 We begin with the first force: intermittent positive reinforcement.  Scientists have known since Michael Zeiler's famous pecking
 pigeon experiments from the 1970s that rewards delivered unpredictably are far more enticing than those delivered wtih a known
 pattern.
-  - p. 17.
+\- p. 17.
 
 As whistleblower Tristan Harris explains: "Apps and websites sprinkle intermittent variable rewards all over their products because
 it's good for business."
-  - p. 19.
+\- p. 19.
 
 In perhaps the most telling admission of all, in the fall of 2017, Sean Parker, the founding president of Facebook, spoke candidly
 at an event about the attention engineering deployed by his former company:
@@ -79,11 +79,35 @@ at an event about the attention engineering deployed by his former company:
 > about: "How do we consume as much of your time and conscious attention as possible?"  And that means that we
 > need to give you a little dopamine hit every once in a while, because someone liked or commented on a photo
 > or a post or whatever.
-  - p. 19.
+\- p. 19.
 
-  - p. .
-  - p. .
-  - p. .
-  - p. .  Emphasis in original as italics.
+In other words, there's nothing fundamental about the unpredictable feedback that dominates most social media services.  If you took
+these features away, you probably wouldn't diminish the value most people derive from them.  The reason this specific dynamic is so
+universal is because it works really well for keeping eyes glued to screens.  These powerful psychological forces are a large part of
+what Harris had in mind when he held up a smartphone on *60 Minutes* and told Anderson Cooper "this thing is a slot machine."
+= p. 20.  Emphasis in original as *italics.*
+
+## Chapter 2, Digital Minimalism -- pp. 27-58
+As I mentioned in the introduction, I have one such philosophy to propose:
+> **Digital Minimalism**
+
+> A philosophy of technology use in which you focus your online time on a small number of carefully selected
+> and optimized activities that strongly support things you value, and then happily miss out on everything
+> else.
++ p. 28.  Emphasis in original as **bold.**
+
+= p. .
+
++ p. .
+
+= p. .
+= p. .
+= p. .  Emphasis in original as *italics.*
+
+
++ p. .
++ p. .
++ p. .
++ p. .  Emphasis in original as *italics.*
 
 
