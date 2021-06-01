@@ -10,15 +10,15 @@ Notes and quotes from Digital Minimalism, Choosing a Focused Life in a Noisy Wor
 ## Introduction -- pp. xi-xx
 
 In my work on this topic, I've become convinced that what you need instead [of "minor corrections, willpower, tips, and
-vague resolutions"] is a full-fledged **philosophy of technology use,** rooted in your deep values, that provides clear
+vague resolutions"] is a full-fledged *philosophy of technology use,* rooted in your deep values, that provides clear
 answers to the questions of what tools you should use and how you should use them and, equally important, enables you to
 confidently ignore everything else.
-- p. xvi.  Emphasis in original as italics.
+  - p. xvi.  Emphasis in original as italics.
 
 Of the different philosophies I studied, however, there was one in particular that stood out as a superior answer for those
-looking to thrive in our [page break] current moment of technological overload.  I call it **digital minimalism,** and it
-applies the believe that **less can be more** to our relationship with digital tools.
-- pp. xvi-xvii.  Emphasis in original as italics.
+looking to thrive in our [page break] current moment of technological overload.  I call it *digital minimalism,* and it
+applies the believe that *less can be more* to our relationship with digital tools.
+  - pp. xvi-xvii.  Emphasis in original as italics.
 
 ## Chapter 1, A Lopsided Arms Race -- pp. 3-25
 
@@ -26,10 +26,10 @@ applies the believe that **less can be more** to our relationship with digital t
 > The tycoons of social media have to stop pretending that they're friendly nerd gods building a better world
 > and admit they're just tobacco farmers in T-shirts selling an addictive product to children.  Because, let's
 > face it, checking your "likes" is the new smoking.
-- p. 9.
+  - p. 9.
 
 "This thing is a slot machine," ["former start-up founder and Google engineer" Tristan] Harris says early in the interview
-[with Anderson Cooper on a segment of **60 Minutes** entitled "Brain Hacking"] while holding up his smartphone.
+[with Anderson Cooper on a segment of *60 Minutes* entitled "Brain Hacking"] while holding up his smartphone.
 "How is that a slot machine?" Cooper asks.
 "Well, every time I check my phone, I'm playing the slot machine to see 'What did I get?'" Harris answers.  "There's a whole
 playbook of techniques that get used [by technology companies] to get you using the product for as long as possible."
@@ -39,13 +39,13 @@ choose how we use it.  This is just not true --"
 "Technology is not neutral?" Cooper interrupts.
 "It's not neutral.  They want you to use it in particular ways and for long periods of time.  Because that's how they make their
 money."
-- p. 10.
+  - p. 10.
 
 "Phillip Morris just wanted your lungs," Maher concludes.  "The App Store wants your soul."
-- p. 11.
+  - p. 11.
 
-To many people, **addiction** is a scary word.  In popular culture, it conjures images of drug addicts stealing their mother's
-jewelry.  But to psychologiests, addiction has a careful definition that's stripped of these more lurid elements.  Here's a
+To many people, *addiction* is a scary word.  In popular culture, it conjures images of drug addicts stealing their mother's
+jewelry.  But to psychologists, addiction has a careful definition that's stripped of these more lurid elements.  Here's a
 representative example:
 > Addiction is a condition in which a person engages in use of a substance or in a behavior for which the
 > rewarding effects provide a compelling incentive to repeatedly pursue the behavior despite detrimental
@@ -54,9 +54,36 @@ Until recently, it was assumed that addiction only applied to alcohol or drugs: 
 that can directly change your brain chemistry.  As the twentieth century gave way to the twenty-first, however, a mounting body
 of research suggested that behaviors that did not involve ingesting substances could become addictive in the technical sense
 defined above.
-- p. 15.  Emphasis in original as italics.
+  - p. 15.  Emphasis in original as italics.
 
-- p. .
-- p. .  Emphasis in original as italics.
+In his 2017 book, *Irresistable,* which details his study of this topic, [Adam] Alter explors the many different "ingredients"
+that make a given technology likely to hook our brain and cultivate unhealthy use.  I want to briefly focus on two forces from
+this longer treatment that not only seemed particularly relevant to our discussion, but as you'll soon learn, repeatedly came up
+in my own research on how tech companies encourage behavioral addiction: *intermittent positive reinforcement* and *the drive for
+social approval.*
+Our brains are highly susceptible to these forces.
+  - p. 17.  Emphasis in original as italics.
+
+We begin with the first force: intermittent positive reinforcement.  Scientists have known since Michael Zeiler's famous pecking
+pigeon experiments from the 1970s that rewards delivered unpredictably are far more enticing than those delivered wtih a known
+pattern.
+  - p. 17.
+
+As whistleblower Tristan Harris explains: "Apps and websites sprinkle intermittent variable rewards all over their products because
+it's good for business."
+  - p. 19.
+
+In perhaps the most telling admission of all, in the fall of 2017, Sean Parker, the founding president of Facebook, spoke candidly
+at an event about the attention engineering deployed by his former company:
+> The thought process that went into building these applications, Facebook being the first of them, ... was all
+> about: "How do we consume as much of your time and conscious attention as possible?"  And that means that we
+> need to give you a little dopamine hit every once in a while, because someone liked or commented on a photo
+> or a post or whatever.
+  - p. 19.
+
+  - p. .
+  - p. .
+  - p. .
+  - p. .  Emphasis in original as italics.
 
 
