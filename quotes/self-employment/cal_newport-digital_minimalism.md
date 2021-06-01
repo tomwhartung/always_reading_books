@@ -14,14 +14,14 @@ vague resolutions"] is a full-fledged *philosophy of technology use,* rooted in 
 answers to the questions of what tools you should use and how you should use them and, equally important, enables you to
 confidently ignore everything else.
 
-\- p. xvi.  Emphasis in original as *italics.*
+p. xvi.  Emphasis in original as *italics.*
 ---------
 
 Of the different philosophies I studied, however, there was one in particular that stood out as a superior answer for those
 looking to thrive in our [page break] current moment of technological overload.  I call it *digital minimalism,* and it
 applies the believe that *less can be more* to our relationship with digital tools.
 
-\- pp. xvi-xvii.  Emphasis in original as *italics.*
+- pp. xvi-xvii.  Emphasis in original as *italics.*
 ---------
 
 ## Chapter 1, A Lopsided Arms Race -- pp. 3-25
@@ -31,7 +31,7 @@ applies the believe that *less can be more* to our relationship with digital too
 > and admit they're just tobacco farmers in T-shirts selling an addictive product to children.  Because, let's
 > face it, checking your "likes" is the new smoking.
 
-\- p. 9.
+p. 9.
 ---------
 
 "This thing is a slot machine," ["former start-up founder and Google engineer" Tristan] Harris says early in the interview
@@ -52,12 +52,12 @@ choose how we use it.  This is just not true --"
 "It's not neutral.  They want you to use it in particular ways and for long periods of time.  Because that's how they make their
 money."
 
-\- p. 10.
+- p. 10.
 ---------
 
 "Phillip Morris just wanted your lungs," Maher concludes.  "The App Store wants your soul."
 
-\- p. 11.
+p. 11.
 ---------
 
 To many people, *addiction* is a scary word.  In popular culture, it conjures images of drug addicts stealing their mother's
@@ -71,7 +71,7 @@ that can directly change your brain chemistry.  As the twentieth century gave wa
 of research suggested that behaviors that did not involve ingesting substances could become addictive in the technical sense
 defined above.
 
-\- p. 15.  Emphasis in original as *italics.*
+- p. 15.  Emphasis in original as *italics.*
 ---------
 
 In his 2017 book, *Irresistable,* which details his study of this topic, [Adam] Alter explors the many different "ingredients"
@@ -81,20 +81,20 @@ in my own research on how tech companies encourage behavioral addiction: *interm
 social approval.*
 Our brains are highly susceptible to these forces.
 
-\- p. 17.  Emphasis in original as *italics.*
+p. 17.  Emphasis in original as *italics.*
 ---------
 
 We begin with the first force: intermittent positive reinforcement.  Scientists have known since Michael Zeiler's famous pecking
 pigeon experiments from the 1970s that rewards delivered unpredictably are far more enticing than those delivered wtih a known
 pattern.
 
-\- p. 17.
+- p. 17.
 ---------
 
 As whistleblower Tristan Harris explains: "Apps and websites sprinkle intermittent variable rewards all over their products because
 it's good for business."
 
-\- p. 19.
+p. 19.
 ---------
 
 In perhaps the most telling admission of all, in the fall of 2017, Sean Parker, the founding president of Facebook, spoke candidly
@@ -104,7 +104,7 @@ at an event about the attention engineering deployed by his former company:
 > need to give you a little dopamine hit every once in a while, because someone liked or commented on a photo
 > or a post or whatever.
 
-\- p. 19.
+- p. 19.
 ---------
 
 In other words, there's nothing fundamental about the unpredictable feedback that dominates most social media services.  If you took
@@ -112,7 +112,7 @@ these features away, you probably wouldn't diminish the value most people derive
 universal is because it works really well for keeping eyes glued to screens.  These powerful psychological forces are a large part of
 what Harris had in mind when he held up a smartphone on *60 Minutes* and told Anderson Cooper "this thing is a slot machine."
 
-\- p. 20.  Emphasis in original as *italics.*
+p. 20.  Emphasis in original as *italics.*
 ---------
 
 ## Chapter 2, Digital Minimalism -- pp. 27-58
@@ -123,7 +123,7 @@ As I mentioned in the introduction, I have one such philosophy to propose:
 > and optimized activities that strongly support things you value, and then happily miss out on everything
 > else.
 
-\- p. 28.  Emphasis in original as **bold.**
+- p. 28.  Emphasis in original as **bold.**
 ---------
 
 My argument for this philosophy's effectiveness  rests on the following three core principles:
@@ -143,7 +143,7 @@ My argument for this philosophy's effectiveness  rests on the following three co
 > decisions they make and is one of the biggest reasons that minimalism tends to be immensely meaningful to
 > its practitioners.
 
-\- pp. 35-36.  Emphasis in original as **bold** and *italics.*
+pp. 35-36.  Emphasis in original as **bold** and *italics.*
 ---------
 
 ### A NEW LOOK AT OLD ADVICE [Section Title]
@@ -164,6 +164,6 @@ their continued relevance.
 
 When it comes to new technologies, less almost certainly is more.  Hopefully the preceding pages made it clear why this is true.
 
-\- pp. 57-58.
+- pp. 57-58.
 ---------
 
