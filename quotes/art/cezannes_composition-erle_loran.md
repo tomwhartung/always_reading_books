@@ -38,7 +38,7 @@ story.
 
 ## Section III. An Illustrated Glossary, pp. 17-24.
 
-### Part One
+### Section III, Part One
 
 THE PICTURE PLANE, or the area upon which the artist draws and paints, is a flat surface having only two dimensions, marked 1 and 2 in the
 illustration.  The two-dimensional character of the picture plane will be taken as the primary law or premise of picture making in the art
@@ -66,13 +66,15 @@ into space, spatial movement, and three-dimensional movement.
 - pp. 17-18.  Emphasis in original as *italics.*
 ---------
 
-[A Key Idea, found at the end of the longer quote immediately below:]
+[**A Key Idea,** found at the end of the longer quote immediately below:]
+
 Thus line, plane, volume, color, texture, and so on, are the plastic means used to build and organize the total space in the picture plane.
 Hence plastic qualities are not only three-dimensional, but two-dimensional as well.
 - p. 18.
 ---------
 
-[Context for the Key Idea Above:]
+[**Context** for the **Key Idea** Above:]
+
 THE PLASTIC MEANS or PLASTIC FORM are terms used often in the present study, and are given a connotation different from that made
 familiar in art criticism and art history in general.  The traditional connotation implies sculptural roundness as achieved through
 light-and-shade modeling and chiaroscuro.  In this book the term *sculptural effect* is used when roundness is implied.  On the contrary,
@@ -84,14 +86,16 @@ Hence plastic qualities are not only three-dimensional, but two-dimensional as w
 - p. 18.  Emphasis in original as italics.
 ---------
 
-[A Key Idea, found near the end, and at the end, of the longer quote immediately below:]
+[**A Key Idea,** found near the end, and at the end, of the longer quote immediately below:]
+
 The correlation of two-dimensional factors of design and flat pattern with three-dimensional elements of volume and space, the relation
 between color and form -- these are the purely plastic factors upon which the art of Cezanne was founded....  *Plastic qualities,* as
 here referred to, *signify the total sum of the elements involved in a formally planned relationship between color and form.*
 - p. 18.
 ---------
 
-[Context for the Key Idea Above:]
+[**Context** for the **Key Idea** Above:]
+
 NEGATIVE SHAPES.  In the two-dimensional sense, with no regard for three-dimensional depth, the terms negative shape, negative pattern,
 and negative space are often used.  Areas such as those marked N in Diagram III could be cut out of a flat piece of paper....  The object
 against a negative background, the *positive* volume of an apple against the negative table top, the positive volumes of trees against a
@@ -107,10 +111,10 @@ the elements involved in a formally planned relationship between color and form.
 - p. 18.  Emphasis in original as italics.
 ---------
 
-### Part Two
+### Section III, Part Two
 
-[Note: this section contains many illustrations of basic compositions, e.g., Static Plane, Dynamic Plane, Overlapping Planes, etc., that
-I might want to copy someday.]
+[**Note:** this section contains many illustrations of basic compositions, e.g., Static Plane, Dynamic Plane, Overlapping Planes, etc.,
+that I might want to copy someday.]
 
 LIGHT AND DARK PATTERNS (CLOSED).  Diagram XVIII is a combination of light and dark patterns all of which remain *closed within their
 separate compartments.*  Cezanne's still lifes may often be described as closed or *compartmental* in their color shapes; but more often,
@@ -153,18 +157,21 @@ allowing the volume to fuse, or "pass" into the negative space or background.
 - p. 26.
 ---------
 
-[Context.]
+[**A Key Idea,** found at the end of the longer quote immediately below:]
+
+If Cezanne maintains a high place in the history of painting, it may well be because of his mastery over these basic structural planes
+and their synthesis with his rich and functional color.
+- p. 27.
+---------
+
+[**Context** for the **Key Idea** Above:]
+
 PLANES.  The control of planes is the essence of Cezanne's achievement.  I am not so much impressed with the tiny planes that are kept
 distinct and unblended in the familiar chromatic passages or color modulations.  It is the organization of the important underlying
 planes -- their rotation from static to dynamic positions, the tensions, the space intervals between them, their movement into depth
 and their inevitable return to the picture plane -- that is primarily importrant; it is with the plane manipulations that many of the
 photographic comparisons and diagrams are concerned.  If Cezanne maintains a high place in the history of painting, it may well be because
 of his mastery over these basic structural planes and their synthesis with his rich and functional color.
-- p. 27.
----------
-[Key Idea.]
-If Cezanne maintains a high place in the history of painting, it may well be because of his mastery over these basic structural planes
-and their synthesis with his rich and functional color.
 - p. 27.
 ---------
 
@@ -226,6 +233,10 @@ balance or equilibrium in relation to the picture plane.
 ## Section V. Cezanne's Materials and Method, p. 35.
 
 [None.]
+
+# Markup Templates
+
+[Use when adding additional quotes, as appropriate.]
 
 - p. x.
 ---------
