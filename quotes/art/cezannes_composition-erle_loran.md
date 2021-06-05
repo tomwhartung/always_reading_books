@@ -40,7 +40,33 @@ story.
 
 ### Part One
 
-[A Key Idea:]
+THE PICTURE PLANE, or the area upon which the artist draws and paints, is a flat surface having only two dimensions, marked 1 and 2 in the
+illustration.  The two-dimensional character of the picture plane will be taken as the primary law or premise of picture making in the art
+of Cezanne as well as in that of other masters of classical space.
+....  In Cezanne's painting there are decorative qualities and other space- and volume-controlling factors that afford the ultimate two-
+dimensional balance.
+- p. 17.
+---------
+
+THE PICTURE FORMAT .... may be rectangular, square, circular, triangular, and so on.  *A well-organized picture must be a self-sufficient
+and closed unit within a specific frame or format.*
+- p. 17.  Emphasis in original as *italics.*
+---------
+
+NEGATIVE SPACE is the three-dimensional depth, the volume of air or empty space, within which the solid or *positive* volumes of a picture
+are organized.
+- p. 17.  Emphasis in original as *italics.*
+---------
+
+When the realistic deep space of a subject in nature, as illustrated in the diagram, [page break] is re-created by the artist and made to
+function architecturally, plastically, in relation to the picture plane, the space becomes *pictorial space.*  It is then no longer
+sculputurally imitative or realistic space.
+Terms used in referring to the negative space are: three-dimensionality, deep space, total space, "picture box," stage space, recession
+into space, spatial movement, and three-dimensional movement.
+- pp. 17-18.  Emphasis in original as *italics.*
+---------
+
+[A Key Idea, found at the end of the longer quote immediately below:]
 Thus line, plane, volume, color, texture, and so on, are the plastic means used to build and organize the total space in the picture plane.
 Hence plastic qualities are not only three-dimensional, but two-dimensional as well.
 - p. 18.
@@ -55,6 +81,29 @@ Cezanne's picture shown in Plate VII.  All the diagrams in the Glossary deal wit
 the diagrams for Plates I and X constitute the analysis of the plastic means that Cezanne has used in creating these paintings.  Thus
 line, plane, volume, color, texture, and so on, are the plastic means used to build and organize the total space in the picture plane.
 Hence plastic qualities are not only three-dimensional, but two-dimensional as well.
+- p. 18.  Emphasis in original as italics.
+---------
+
+[A Key Idea, found near the end, and at the end, of the longer quote immediately below:]
+The correlation of two-dimensional factors of design and flat pattern with three-dimensional elements of volume and space, the relation
+between color and form -- these are the purely plastic factors upon which the art of Cezanne was founded....  *Plastic qualities,* as
+here referred to, *signify the total sum of the elements involved in a formally planned relationship between color and form.*
+- p. 18.
+---------
+
+[Context for the Key Idea Above:]
+NEGATIVE SHAPES.  In the two-dimensional sense, with no regard for three-dimensional depth, the terms negative shape, negative pattern,
+and negative space are often used.  Areas such as those marked N in Diagram III could be cut out of a flat piece of paper....  The object
+against a negative background, the *positive* volume of an apple against the negative table top, the positive volumes of trees against a
+negative sky, are examples of positive and negative areas, patterns, shapes.  Diagram IV of Plate X describes positive and negative shapes
+in this sense.  Most discussions of composition are concerned only with such flat design.  The more mysterious, purely illusory element of
+deep space, or three-dimensionality, illustrated in Diagram II, where positive volumes are located in the negative space of the "picture
+box," is of primary importance in the understanding of Cezanne, and most of the diagrammatic analyses and photographs of Cezanne's motifs
+in this book are concerned with it.  The correlation of two-dimensional factors of design and flat pattern with three-dimensional elements
+of volume and space, the relation between color and form -- these are the purely plastic factors upon which the art of Cezanne was founded.
+The plastic qualities in Cezanne should not be confused with sculptural solidity.  Throughout this study the term sculptural effect is used
+when the latter quality [i.e., "sculptural solidity"] is described.  *Plastic qualities,* as here referred to, *signify the total sum of
+the elements involved in a formally planned relationship between color and form.*
 - p. 18.  Emphasis in original as italics.
 ---------
 
@@ -185,6 +234,8 @@ balance or equilibrium in relation to the picture plane.
 - p. x.  Emphasis in original as *italics.*
 ---------
 - p. x.  Emphasis in original as **bold** and *italics.*
+---------
+- pp. x-y.
 ---------
 - pp. x-y.  Emphasis in original as **bold.**
 ---------
