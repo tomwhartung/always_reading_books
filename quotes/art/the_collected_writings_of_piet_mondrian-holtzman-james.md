@@ -1,7 +1,9 @@
 
-# mondrian-links_and_quotes.md
+# the_collected_writings_of_piet_mondrian-holtzman-james.md
 
-Links to and quotes from works by Piet Mondrian.
+Quotes from, links to, and notes about the writings of Piet Mondrian.
+
+**Note:** this is the definitive source for quotes from this book.
 
 # Redundancy Alerts!
 
@@ -10,13 +12,12 @@ These quotes formed the basis of an article I wrote on medium.com, so they also 
 - `social_networking/tomh/medium/articles/3-new_art_new_life-JUST_THE_QUOTES.md` in the `jmws_accoutrements` repo.
 - `social_networking/tomh/medium/articles/3-new_art_new_life-QUOTES-ANNOTATED_WITH_THEMES.md` in the `jmws_accoutrements` repo.
 
-For original source material, and quotes from other works in the collection, see:
-
-- `doc/mondrian-links_and_quotes.md` in the `seeourminds.com` repo.
-
-This file contains mostly just the quotes.
-
 **It would be nice to keep all of these files up to date with any additions!**
+
+Notably, the file `3-new_art_new_life-QUOTES-ANNOTATED_WITH_THEMES.md` mentioned above identifies themes in the quotes.
+These themes helped me figure out how I might present them in articles for medium.
+
+However, as mentioned above, **this is the definitive source for quotes from this book.**
 
 # Links
 
@@ -25,6 +26,35 @@ This file contains mostly just the quotes.
 - [Plastic Art and Pure Plastic Art - Part 2 (1936)](https://arthistoryproject.com/artists/piet-mondrian/the-collected-writings-of-piet-mondrian/plastic-art-and-pure-plastic-art-part-2/)
 
 # Quotes
+
+## Piet Mondrian: The Man and His Work - pp. 1-10
+
+From the introductory article "Piet Mondrian: The Man and His Work" by Harry Holtzman:
+
+It was not until Cezanne that the almost complete annihilation of the dominance of subject matter begins to consciously reveal the plastic structure,
+the elements of the painting itself -- the interaction of the planes and color, their movement, harmony, and rhythm.
+Mondrian saw Cubism as the new awareness of the intrinsic means of plastic expression, as the destruction of the naturalistic and the mimetic, as the
+conscious construction of the picure-plane, as the dynamic rhythm of its composition of forms in space.  Mondrian observed .... [long quote from his
+essay *Cubism and Neo-Plastic,* 1930].
+
+- p. 8.
+---------
+
+
+## Piet Mondrian: Art and Theory to 1917 - pp. 11-19
+
+From the introductory article "Piet Mondrian: Art and Theory to 1917" by Martin S. James:
+
+Cubism, Mondrian repeatedly stressed, opened the way for the New Plastic.  Shortly after seeing examples of early Cubist work by Picasso and Braque at the Monderne
+Kunstkring in late 1911, he settled in Paris.  His analytical Cubist "compositions" of 1912-13 in grays and browns were based on a favorite motif, the tree, where
+particular forms disappear almost completely in the whole.  In his review of the spring 1913 Independants, Guillaume Apollinaire pointed to "the very abstract
+Cubism of Piet Mondrian."
+
+- p. 14.
+---------
+
+
+## Introduction to The New Art - The New Life (1932)
 
 Note: these quotes form the basis of one or more articles - e.g., `3-new_art_new_life*.md` - in
 the `social_networking/tomh/medium/articles/` directory of the `jmws_accoutrements` repo.
