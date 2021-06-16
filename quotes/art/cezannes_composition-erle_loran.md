@@ -248,7 +248,7 @@ always suggested to me the setting for a melodramatic scene in a Dostoievski nov
 to discover the actual motif....  The photographs shown here make the disappointing and prosaic truth clear enough.
 The most obvious distortion is the dynamic tipping of the house on the left.  The dramatic quality of the picture derives principally from this
 strong leftward movement of the axis of the house, but the window shapes, giving a somewhat haunted or deserted aspect to the scene, also
-contribute to the dramatic effect.  The leftward-leaning axis of the hosue may be understood as a distortion that increases the tension of the
+contribute to the dramatic effect.  The leftward-leaning axis of the house may be understood as a distortion that increases the tension of the
 house in relation to the four sides of the frame as well as in relation to the planes marked A and C.
 - p. 53.
 ---------
@@ -261,13 +261,50 @@ upper left and up to the house roof.
 ---------
 
 To the person who is only able to react to the illustrative or story-telling drama of the painting this long and detailed analysis may seem a
-cold denial of feeling.  The intentionhas been to show that the real drama in the painting derives from the plastic forces, without questioning
+cold denial of feeling.  The intention has been to show that the real drama in the painting derives from the plastic forces, without questioning
 the great importance of emotional and psychological associations with subject and locale.  Cézanne consistently expresses the spirit of the
 subject, but the mysterious Dostoievskian quality, mentioned previously, depends far more on plastic, organizational devices than on iconographic
 or literary means.  Incidentally, there has been no mention of color modulations in the examination of this picture.  All the structural problems
 analyzed depend on the use of line and plane, the planes being more nearly flat than in most pictures by Cézanne.
 - p. 54.
 ---------
+
+## Section VIII. The Problem of Scale and the Control of Volume and Space, pp. 59-73.
+
+[Remarks relating to Plate X, The Sainte Victoire, Seen From the Quarry Called Bibemus.]
+
+
+- p. 54.
+---------
+
+
+## Section IX. Distortion Through the Shifting of Eye Levels, pp. 75-79.
+
+[None.]
+
+## Section X. The Problem of Distortion Through Tipping Axes, pp. 81-79.
+
+[None.]
+
+## Section XI. Distortion in Drawing, pp. 87-95.
+
+[None.]
+
+## Section XII. Aerial Perspective pp. 97-109.
+
+[None.]
+
+## Section XIII. Realism and Abstraction, pp. 111-118.
+
+[None.]
+
+## Section XIV. Further Comparisons pp. 119-127.
+
+[None.]
+
+## Section XV. Conclusion pp. 129-131.
+
+[None.]
 
 
 # Markup Templates
