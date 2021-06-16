@@ -234,6 +234,42 @@ balance or equilibrium in relation to the picture plane.
 
 [None.]
 
+## Section VI. Introductory Analysis of a Still Life, pp. 39-43.
+
+[None.]
+
+## Section VII. Problems of Perspective, pp. 45-58.
+
+[Remarks relating to Plate VII, The Jas de Bouffan.]
+
+The photographs of the motif, showing the buildings to be those of the Jas De Bouffan, the Cézanne family's country estate, explain the origin
+of the formal relations, but they give no indication of the dramatic and emotional force that Cézanne's painting expresses.  This painting has
+always suggested to me the setting for a melodramatic scene in a Dostoievski novel, and whe I first went to Aix I was particularly interested
+to discover the actual motif....  The photographs shown here make the disappointing and prosaic truth clear enough.
+The most obvious distortion is the dynamic tipping of the house on the left.  The dramatic quality of the picture derives principally from this
+strong leftward movement of the axis of the house, but the window shapes, giving a somewhat haunted or deserted aspect to the scene, also
+contribute to the dramatic effect.  The leftward-leaning axis of the hosue may be understood as a distortion that increases the tension of the
+house in relation to the four sides of the frame as well as in relation to the planes marked A and C.
+- p. 53.
+---------
+
+The spectator's eye follows this movement [from the foreground to the house in the background on the left side of the painting] and is turned
+upward by the parallel plane of the house.  The eye is easily drawn upward by the strong vertical lines of windows, drainpipes, and chimneys;
+but the leftward tipping of the axis of the house must be recognized as the principal magnetic force, pulling they eye into space toward the
+upper left and up to the house roof.
+- p. 53.
+---------
+
+To the person who is only able to react to the illustrative or story-telling drama of the painting this long and detailed analysis may seem a
+cold denial of feeling.  The intentionhas been to show that the real drama in the painting derives from the plastic forces, without questioning
+the great importance of emotional and psychological associations with subject and locale.  Cézanne consistently expresses the spirit of the
+subject, but the mysterious Dostoievskian quality, mentioned previously, depends far more on plastic, organizational devices than on iconographic
+or literary means.  Incidentally, there has been no mention of color modulations in the examination of this picture.  All the structural problems
+analyzed depend on the use of line and plane, the planes being more nearly flat than in most pictures by Cézanne.
+- p. 54.
+---------
+
+
 # Markup Templates
 
 [Use when adding additional quotes, as appropriate.]
