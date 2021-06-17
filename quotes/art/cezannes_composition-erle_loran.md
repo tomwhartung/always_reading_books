@@ -240,6 +240,12 @@ balance or equilibrium in relation to the picture plane.
 
 ## Section VII. Problems of Perspective, pp. 45-58.
 
+CERTAIN PAINTINGS that demonstrate Cézanne's approach to the problems of perspective, converging roads, diminishing sizes, and so on, are
+here compared with photographs of their original motifs.  In Plate IX [Mardi Gras] a partly unsuccessful picture is analyzed for the provocative
+problems it presents in regard to the concept of the "picture box" and the picture plane.
+- p. 45.
+---------
+
 [Remarks relating to Plate VII, The Jas de Bouffan.]
 
 The photographs of the motif, showing the buildings to be those of the Jas De Bouffan, the Cézanne family's country estate, explain the origin
@@ -271,10 +277,51 @@ analyzed depend on the use of line and plane, the planes being more nearly flat 
 
 ## Section VIII. The Problem of Scale and the Control of Volume and Space, pp. 59-73.
 
+IN THIS SECTION, paintings are compared with their actual motifs in order to determine how far Cézanne reversed the natural order of size and scale.
+Foreground sizes tend to be diminished and flattened, while background areas are made larger and more important.
+- p. 59.
+---------
+
 [Remarks relating to Plate X, The Sainte Victoire, Seen From the Quarry Called Bibemus.]
 
+DIAGRAM I demonstrates the marked change that has been made in the scale of the mountain.  The shaded area, marked A, represents the relative size
+of the distant mountain as seen in the photograph of the motif.  The cross superimposed over A, which represnts the two imaginary axis lines of
+Cézanne's enlarged mountain, emphasizes the rising power, the verticality, of the enormous plane of the mountain.  Cézanne has more than doubled the
+size of the Sainte Victoire.  The illusion of magnificent height which Cézanne has achieved through thes measurable plastic means is akin to the
+exaggerated sens of its height that one has on actually seeing it -- as I had when I first discovered the motif.  But the photograph of the motif
+utterly fails to suggest the grandeur, the massiveness, of this luminous white mountain.  The usual aerial perspective and diminished size are to be
+seen even in this strong photograph, while in the painting the mountain rises up vertically, maintains its relation to the picture plane, and succeeds
+in holding its balance with the volumes of the foreground.
+Cézanne's painting, as compared with the motif, illustrates graphically what should be understood and taught more widely as the basic mechanics of
+drawing and composition, the fundamental plastic means of expression.  A methodical set of problems is here presented: 1. How can a mountain be made
+to look big?  By drawing it large in relation to the scale of the foreground shapes, and avoiding the diminishing of sizes that is the result of
+applying scientific perspective.  2.  How can the forms in the far distance be made to maintain the importance they have in the mind and feeling of
+the spectator?  By avoiding aerial perspective and fuzziness of countour (Impressionism), and by drawing the forms in the distance with the force and
+clarity used in foreground forms.  (El Greco speaks virtually the same language in a document explaining his imaginary landscape of Toledo; see page
+31, above.)  3. How, by other means, can the background or distant forms be prevented from falling away?  By *tilting up* the back planes vertically,
+instead of allowing them to fall back on a diagonal plane.  (Here we recall the changing eye levels in Byzantine icons, in which buildings in the
+deep space are often tilted forward to reveal the top, or roof, plane.)  4. How can a canvas be kept alive and rich throughout, so that there will be
+no dead spots, no illusion of "holes"; so that the two-dimensionality of the picture plane is not distorted by an attept to imitate sculpture?  By
+flattening out those forms which are too boisterous, by avoiding the disturbing effects of light and shade so conveniently illustrated here in the
+photograph of the motif.  Further, by creating an interlocking and intersecting of planes, so that one volume "passes" into another, creating at
+some of the contours the fusion that we observe in this intricate painting.  The general fusion of the mountain with the small bushes on top of the
+cliffs is particularly significant.
+Cézanne illustrates here his lack of interest in textures as such....  This lack of strong differentiation in the surfaces contributes to the unified
+effect, so that the entire picture is pulled together into one plastic structure, a continuous and uninterrupted surface fabric.
+- p. 61.  Emphasis in original as *italics.*
+---------
 
-- p. 54.
+DIAGRAM II is an illustration of the principle of organization so often met with in Cézanne's work: planes and volumes moving around an imaginary
+central axis....  It is the power of this circular movement that gives the painting its ultimate "closed" effect.  Actually, this canvas has many
+elements of open form, for example, the trees at the bottom, and the large tree at the right which runs out at the side; personally, I find these
+latter elements insufficiently resolved and somewhat disturbing....  In all the individual forms there is an astonishing resemblance to the motif,
+particularly in the mountain and the rocks, which have not been altered by time and growth.  Cézanne's picture, however, becomes a new reality
+achieved by purely plastic mens, by color and form alone.
+- p. 61.
+---------
+
+
+- p. 61.
 ---------
 
 
