@@ -320,8 +320,30 @@ achieved by purely plastic mens, by color and form alone.
 - p. 61.
 ---------
 
+Within the green area certaintrees or parts of trees are outlined in order to emphasize (1) the great contrasts in their sizes, (2) the variety in
+their shapes, and (3) their geometric or otherwise positive, decorative character.  The fascinating variety in the space intervals between the
+different trees and groups of trees should also become more clear in the black-and-white diagram.
+The diagram should explain (5) the concept of the distribution, the interweaving and interlocking of green shapes into one network embracing all
+parts of the pictorial survace. (6) The complete interlocking of the orange with the green shapes should also be clear.  Color modulations are
+merely an added ornamentation in comparison with the more fundamental order that depends on teh power of these two color areas to interlock as
+flat masses.
+- p. 62.
+---------
 
-- p. 61.
+
+- p. 63.
+---------
+
+
+- p. 63.
+---------
+
+
+- p. 63.
+---------
+
+
+- p. 63.
 ---------
 
 
