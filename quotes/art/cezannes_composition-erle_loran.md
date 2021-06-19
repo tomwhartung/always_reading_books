@@ -360,15 +360,44 @@ occur, of course, but the phenomenon involved here is that in the lower half of 
 regions the same type of green hue *appears different* simply because it is seen against the opposite colors of blue sky and neutral mountain....
 Cézanne's form, as usual, has the looseness and freedom of open form; and yet, because of the firm outlines and the somewhat structural nature of
 the color modulations, it attains the compactness and solidity of closed form.
+3) The blue sky provides the widest contrast of cool color against the complementary orange cliffs.  It is the most isolated color in the organization,
+but its importance as a cool contrast and foil for the orange cliffs saves it from taking on the character of realistic local color....  The blue
+provides atmosphere and a feeling of infinite space without falling away in aerial perspective.
+4) The climax of the color orchestration is reached in the towering bulk of the Sainte Victoire.  This magnificent and lordly form is of a whitish,
+neutral color, and, being neutral, "it acts as a foil for the other saturated color shapes...."
 - p. 63.  Emphasis in original as *italics.*
 ---------
 
-
-- p. 63.
+The mountain color is not interlocked, by continuous arms or strands, with other parts of the picture, as the green tree shapes are; the interweaving
+takes place simply through repitition and distribution -- as, clearly, in the whitish areas in the orange cliffs and the darker neutral rocks at the
+lower right (see Diagram IV).  We have previously referred to this process of repitition as a *tension* between colors; in relation to the white areas
+in this painting the use of the term tension seems particularly cogent.  The eye is drawn as if by magnetism from the mountain to the smaller spots of
+white on the orange cliffs....  Again we may say that a tension exists, between the various dark, neutral colors.
+- p. 64.  Emphasis in original as *italics.*
 ---------
 
+But Cézanne has wisely avoided the destructive effect of this solid black area [that appears in the photograph of the cliffs]; instead of painting it
+in a solid, cool color, he has brought it forward with the addition of some of the local orange color, and hence it does not make the black cavity that
+appears in the photograph of the motif.
+- p. 64.
+---------
 
-- p. 63.
+Cézanne's color modulations are hereby seen to produce a slight, three-dimensional volume-building effect.  But gradations of light to dark still play
+an important part, and the tendency of these tiny planes to overlap also contributes to the three-dimensional quality....  Cézanne is able to avoid
+the sculptured effect brought about by the relentless light and dark gradations of chiaroscuro modeling.  Gradations from warm to cool replace the
+black and white in significant measure....  The mountain is also solidly built up with overlapping planes, from cool to warm.  The mountain is a
+neutral white shape when seen as a unit, but the intervals within this neutral area cover a wide chromatic range from orange and pink into blue.  What
+Cézanne referred to as his aim to make out of the broken-color theory of Impressionism "something solid and durable, like the art of the museums," has
+thus far been described as a methodical system applied in the painting of the trees and mountain.
+- p. 64.
+---------
+
+2) Turning to the color-plane structure of the orange cliffs, we find a different situation.  In some parts, it is true, the warm-cool system aids the
+volume effect, as in the right-hand cliff mass....  What we find, pulsating over the surfaces of the flat, parallel planes of the cliffs, is a full
+gamut of chromatic nuances, ranging from warm yellow to reddish orange, and finally into a contrasting blue which in some places matches the sky.  But
+do these color modulations, ranging from orange to blue, create a rounded volume effect?  Obviously, not at all....  Rhythmic color movements, sometimes
+working in opposition to the three-dimensional form, serve to *elaborate* and *ornament* the flat areas of the cliffs.
+- p. 64.  Emphasis in original as *italics.*
 ---------
 
 
