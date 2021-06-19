@@ -330,12 +330,37 @@ flat masses.
 - p. 62.
 ---------
 
-
+DIAGRAM IV.  The climactic mass of the Sainte Victoire is here shown in combination with the small white shapes to which it is related.  Without
+these small areas of repeated neutral white the mountain might remain isolated from the rest of the color scheme.  There is no interweaving action,
+based on contiguous passages or strands, between these white chapes and the mountain; the relationship takes place simply through distribution and
+repitition.  The relationship between the white shapes and the mountain is described as a tension or magnetism that affords unity.  (See paragraph
+4 below.)
 - p. 63.
 ---------
 
-
+THE COLOR reproduction offers additional information for our study of the preceeding Plate X and diagrams, as well as our sole opportunity for
+correlating discussions about color, offered in early chapters, with a specific illustration.  The magnifigance of Cézanne's color is fully
+realized in this painting, and the reproduction should give at least an approximation of the original relationships.
+To one who has never seen the strange colors and forms of the ancient quarry region called Bibemus, not many miles from the town of Aix, this work
+might be taken as evidence that many of Cézannes paintings were highly imaginative, abstract, inventions.  As a work of art, complete and self-
+sufficient, it should indeed be regarded as a creation of that kind, for the plastic means of color and form have here been combined to create an
+abstract order that transcends the reality of appearances and of local color.  Visual sensation is derived from the impact of volume relationships
+and they symphonic organization of color.  The reality is here, in the picture itself.
+And yet, for those who have seen the quarry of Bibemus, not the least remarkable fact about Cézanne's painting is its faithful recording of the local
+color....  Cézanne's uniqueness and perhaps his historical greatness is found in his power to synthesize abstraction and reality.
+A systematic analysis of the color organization should place emphasis on the simple complementary color scheme, which is a theme founded on the warm
+and cool contrast of orange against green and blue.
 - p. 63.
+---------
+
+The most subtle, and perhaps the most significant, unifying principle is found in the narrow strands or passages of green that connect the various
+individual trees and also connect the trees of the upper regions with those of the foreground....  An especially fascinating aspect of the color
+problem may be studied in the apparent difference in the green of the upper part from that of the lower part.  Actual changes in the green hue do
+occur, of course, but the phenomenon involved here is that in the lower half of the picture the green is thrown against orange, while in the upper
+regions the same type of green hue *appears different* simply because it is seen against the opposite colors of blue sky and neutral mountain....
+Cézanne's form, as usual, has the looseness and freedom of open form; and yet, because of the firm outlines and the somewhat structural nature of
+the color modulations, it attains the compactness and solidity of closed form.
+- p. 63.  Emphasis in original as *italics.*
 ---------
 
 
