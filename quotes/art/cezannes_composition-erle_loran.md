@@ -353,10 +353,15 @@ and cool contrast of orange against green and blue.
 - p. 63.
 ---------
 
-The most subtle, and perhaps the most significant, unifying principle is found in the narrow strands or passages of green that connect the various
-individual trees and also connect the trees of the upper regions with those of the foreground....  An especially fascinating aspect of the color
-problem may be studied in the apparent difference in the green of the upper part from that of the lower part.  Actual changes in the green hue do
-occur, of course, but the phenomenon involved here is that in the lower half of the picture the green is thrown against orange, while in the upper
+1) The orange of the cliffs and earth is the most intense and dominant color, and it covers a rectangular area involving more than half the entire
+surface of the canvas.
+- p. 63.
+---------
+
+2)....  The most subtle, and perhaps the most significant, unifying principle is found in the narrow strands or passages of green that connect the
+various individual trees and also connect the trees of the upper regions with those of the foreground....  An especially fascinating aspect of the
+color problem may be studied in the apparent difference in the green of the upper part from that of the lower part.  Actual changes in the green hue
+do occur, of course, but the phenomenon involved here is that in the lower half of the picture the green is thrown against orange, while in the upper
 regions the same type of green hue *appears different* simply because it is seen against the opposite colors of blue sky and neutral mountain....
 Cézanne's form, as usual, has the looseness and freedom of open form; and yet, because of the firm outlines and the somewhat structural nature of
 the color modulations, it attains the compactness and solidity of closed form.
@@ -382,13 +387,13 @@ appears in the photograph of the motif.
 - p. 64.
 ---------
 
-Cézanne's color modulations are hereby seen to produce a slight, three-dimensional volume-building effect.  But gradations of light to dark still play
-an important part, and the tendency of these tiny planes to overlap also contributes to the three-dimensional quality....  Cézanne is able to avoid
-the sculptured effect brought about by the relentless light and dark gradations of chiaroscuro modeling.  Gradations from warm to cool replace the
-black and white in significant measure....  The mountain is also solidly built up with overlapping planes, from cool to warm.  The mountain is a
-neutral white shape when seen as a unit, but the intervals within this neutral area cover a wide chromatic range from orange and pink into blue.  What
-Cézanne referred to as his aim to make out of the broken-color theory of Impressionism "something solid and durable, like the art of the museums," has
-thus far been described as a methodical system applied in the painting of the trees and mountain.
+COLOR MODULATIONS.  (1)....  Cézanne's color modulations are hereby seen to produce a slight, three-dimensional volume-building effect.  But gradations
+of light to dark still play an important part, and the tendency of these tiny planes to overlap also contributes to the three-dimensional quality....
+Cézanne is able to avoid the sculptured effect brought about by the relentless light and dark gradations of chiaroscuro modeling.  Gradations from warm
+to cool replace the black and white in significant measure....  The mountain is also solidly built up with overlapping planes, from cool to warm.  The
+mountain is a neutral white shape when seen as a unit, but the intervals within this neutral area cover a wide chromatic range from orange and pink into
+blue.  What Cézanne referred to as his aim to make out of the broken-color theory of Impressionism "something solid and durable, like the art of the
+museums," has thus far been described as a methodical system applied in the painting of the trees and mountain.
 - p. 64.
 ---------
 
@@ -396,8 +401,29 @@ thus far been described as a methodical system applied in the painting of the tr
 volume effect, as in the right-hand cliff mass....  What we find, pulsating over the surfaces of the flat, parallel planes of the cliffs, is a full
 gamut of chromatic nuances, ranging from warm yellow to reddish orange, and finally into a contrasting blue which in some places matches the sky.  But
 do these color modulations, ranging from orange to blue, create a rounded volume effect?  Obviously, not at all....  Rhythmic color movements, sometimes
-working in opposition to the three-dimensional form, serve to *elaborate* and *ornament* the flat areas of the cliffs.
+working in opposition to the three-dimensional form, serve to *elaborate* and *ornament* the flat areas of the cliffs....  Likewise, the technique of
+mosaic decoration is also comparable to Cézanne's method of placing tiny planes or blocks of color side by side.
 - p. 64.  Emphasis in original as *italics.*
+---------
+
+It is interesting to recall that Cubism, which grew out of Cézanne's modulations and "passages," was not at all concerned with warm and cool color.  Most
+Cubist works are almost without color, and their contrapuntal movements in and out of depth are based on the light-to-dark gradations and overlapping-
+plane aspects of Cézanne's form.  In the arbitrariness and apparent abstractedness of the surface gradations on the cliffs, and in their failure to suggest
+form on the basis of tehir warm-to-cool gradations, Cézanne's cliffs are directly related to the Cubist system.
+- p. 65.
+---------
+
+SUMMARY....  Above all, the blue provides a feeling of air and space and acts as a contrast and foil to the dominating and saturated orange cliffs.  The
+mountain is the neutral area of the scheme, but it is composed of rich intervals of pink and blue.  As a form, it constitutes the climax for the whole
+painting.  The whitish color of the mountain is repeated, notably in the orange cliffs, and the total effect is that of a magnetic relation and tension
+between all the neutral white areas.  The dark purplish colors are also widely distributed, and are used for the outlines and outer planes of almost all
+the forms.
+- p. 65.
+---------
+
+The creation of light is the final result of the color orchestration in this painting, but it is not an imitative light based on sunlight and shadow.  The
+luminous, atmospheric qualities are generated within the picture itself by means of the color relationships.
+- p. 65.
 ---------
 
 
