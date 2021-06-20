@@ -285,17 +285,17 @@ Foreground sizes tend to be diminished and flattened, while background areas are
 [Remarks relating to Plate X, The Sainte Victoire, Seen From the Quarry Called Bibemus.]
 
 DIAGRAM I demonstrates the marked change that has been made in the scale of the mountain.  The shaded area, marked A, represents the relative size
-of the distant mountain as seen in the photograph of the motif.  The cross superimposed over A, which represnts the two imaginary axis lines of
+of the distant mountain as seen in the photograph of the motif.  The cross superimposed over A, which represents the two imaginary axis lines of
 Cézanne's enlarged mountain, emphasizes the rising power, the verticality, of the enormous plane of the mountain.  Cézanne has more than doubled the
 size of the Sainte Victoire.  The illusion of magnificent height which Cézanne has achieved through thes measurable plastic means is akin to the
-exaggerated sens of its height that one has on actually seeing it -- as I had when I first discovered the motif.  But the photograph of the motif
+exaggerated sense of its height that one has on actually seeing it -- as I had when I first discovered the motif.  But the photograph of the motif
 utterly fails to suggest the grandeur, the massiveness, of this luminous white mountain.  The usual aerial perspective and diminished size are to be
 seen even in this strong photograph, while in the painting the mountain rises up vertically, maintains its relation to the picture plane, and succeeds
 in holding its balance with the volumes of the foreground.
 Cézanne's painting, as compared with the motif, illustrates graphically what should be understood and taught more widely as the basic mechanics of
 drawing and composition, the fundamental plastic means of expression.  A methodical set of problems is here presented: 1. How can a mountain be made
 to look big?  By drawing it large in relation to the scale of the foreground shapes, and avoiding the diminishing of sizes that is the result of
-applying scientific perspective.  2.  How can the forms in the far distance be made to maintain the importance they have in the mind and feeling of
+applying scientific perspective.  2. How can the forms in the far distance be made to maintain the importance they have in the mind and feeling of
 the spectator?  By avoiding aerial perspective and fuzziness of countour (Impressionism), and by drawing the forms in the distance with the force and
 clarity used in foreground forms.  (El Greco speaks virtually the same language in a document explaining his imaginary landscape of Toledo; see page
 31, above.)  3. How, by other means, can the background or distant forms be prevented from falling away?  By *tilting up* the back planes vertically,
@@ -316,11 +316,11 @@ central axis....  It is the power of this circular movement that gives the paint
 elements of open form, for example, the trees at the bottom, and the large tree at the right which runs out at the side; personally, I find these
 latter elements insufficiently resolved and somewhat disturbing....  In all the individual forms there is an astonishing resemblance to the motif,
 particularly in the mountain and the rocks, which have not been altered by time and growth.  Cézanne's picture, however, becomes a new reality
-achieved by purely plastic mens, by color and form alone.
+achieved by purely plastic means, by color and form alone.
 - p. 61.
 ---------
 
-Within the green area certaintrees or parts of trees are outlined in order to emphasize (1) the great contrasts in their sizes, (2) the variety in
+Within the green area certain trees or parts of trees are outlined in order to emphasize (1) the great contrasts in their sizes, (2) the variety in
 their shapes, and (3) their geometric or otherwise positive, decorative character.  The fascinating variety in the space intervals between the
 different trees and groups of trees should also become more clear in the black-and-white diagram.
 The diagram should explain (5) the concept of the distribution, the interweaving and interlocking of green shapes into one network embracing all
