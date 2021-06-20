@@ -49,19 +49,22 @@ Cubism, Mondrian repeatedly stressed, opened the way for the New Plastic.  Short
 Kunstkring in late 1911, he settled in Paris.  His analytical Cubist "compositions" of 1912-13 in grays and browns were based on a favorite motif, the tree, where
 particular forms disappear almost completely in the whole.  In his review of the spring 1913 Independants, Guillaume Apollinaire pointed to "the very abstract
 Cubism of Piet Mondrian."
-
 - p. 14.
 ---------
 
+## Cubism and Neo-Plastic (1930)
+
+By pure plastic we mean the plastic of relationships alone, expressed by line and color also alone, that is to say, without any limited form.
+- p. 237.
+---------
 
 ## Introduction to The New Art - The New Life (1932)
 
 Note: these quotes form the basis of one or more articles - e.g., `3-new_art_new_life*.md` - in
 the `social_networking/tomh/medium/articles/` directory of the `jmws_accoutrements` repo.
 
-## Introduction to The New Art - The New Life (1932)
-
-Note: although he wrote this introduction **after** writing the book (in 1931), it appears after this, because it is the Introduction.
+Note: although he wrote this introduction in 1932, *after* writing the book in 1931, and in the book it appears *after* the article,
+I am putting it *before* the article here because it is, after all, the *Introduction.*
 
 > The culture of art demonstrates that only *man's development* in the distant future can create
 > universal equilibrium through the *establishment of equivalent relationships.*
