@@ -287,7 +287,7 @@ Foreground sizes tend to be diminished and flattened, while background areas are
 DIAGRAM I demonstrates the marked change that has been made in the scale of the mountain.  The shaded area, marked A, represents the relative size
 of the distant mountain as seen in the photograph of the motif.  The cross superimposed over A, which represents the two imaginary axis lines of
 Cézanne's enlarged mountain, emphasizes the rising power, the verticality, of the enormous plane of the mountain.  Cézanne has more than doubled the
-size of the Sainte Victoire.  The illusion of magnificent height which Cézanne has achieved through thes measurable plastic means is akin to the
+size of the Sainte Victoire.  The illusion of magnificent height which Cézanne has achieved through these measurable plastic means is akin to the
 exaggerated sense of its height that one has on actually seeing it -- as I had when I first discovered the motif.  But the photograph of the motif
 utterly fails to suggest the grandeur, the massiveness, of this luminous white mountain.  The usual aerial perspective and diminished size are to be
 seen even in this strong photograph, while in the painting the mountain rises up vertically, maintains its relation to the picture plane, and succeeds
