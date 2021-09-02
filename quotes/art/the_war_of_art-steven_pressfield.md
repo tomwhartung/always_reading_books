@@ -40,11 +40,61 @@ feel anything.  **The opposite of love isn't hate, it's indifference.**
 
 p. 61.
 
+### A Professional Is Patient
+
+The professional arms himself with patience, not only to give the stars time to align in his career, but to keep himself from
+flaming out in each individual work.  **He knows that any job, whether it's a novel or a kitchen remodel, takes twice as long as
+he thinks and costs twice as much.**  He accepts that.  he recognizes it as reality.
+
+p. 75.  [Emphasis added.]
+
+### A Professional Accepts No Excuses
+
+The professional knows that Resistance is like a telemarketer; if you so much as say hello, you're finished.  The pro doesn't even
+pick up the phone.  He stays at work.
+
+p. 80.
+
+### A Professional Self-Validates
+
+The professional cannot allow the actions of others to define his reality.  Tomorrow morning the critic will be gone, but the writer
+will still be there facing the blank page.  Nothing matters but that he keep working.  Short of family [page break] crisis or the
+outbreak of World War II, the professional shows up, ready to serve the gods.
+
+Remember, Resistance wants us to cede sovereignty to others.  It wants us to stake our self-worth, our identity, our reason-for-being,
+on the response of others to our work.  Resistance knows we can't take this.  No one can.
+
+**The professional blows critics off.**  He doesn't even hear them.  Critics, he reminds himself, are the unwitting mouthpieces of
+Resistance and as such can be truly cunning and pernicious.  They can articulate in their reviews the same toxic venom that Resistance
+itself concocts inside our heads.  That is their real evil.  Not that we believe them, but that we believe the Resistance in our own
+minds, for which critics serve as unconscious spokespersons.
+
+**The professional learns to recognize envy-drivien criticism and to take it for what it is: the supreme compliment.**  The critic
+hates most that which he would have done himself if he had had the guts.
+
+pp. 92-93.  [Emphasis added.]
+
 ## Book Three - Beyond Resistance: The Higher Realm, pp. 103-165
 
 - "The first duty is to sacrifice to the gods and pray them to grant you the thoughts, words, and deeds likely to render your command most pleasing to the gods and to bring yourself, your friends, and your city the fullest measure of affection and glory and advantage." -- Xenophon, The Cavalry Commander
 
 p. 105.
+
+### 
+
+p. .
+
+### 
+
+p. .
+
+### 
+
+p. .
+
+### 
+
+p. .
 
 
 
