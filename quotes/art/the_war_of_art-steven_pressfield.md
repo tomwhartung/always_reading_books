@@ -156,12 +156,60 @@ He brought it forth.  He made the Fifth Symphony a "creation of time," which "et
 
 pp. 116-117.  [Emphasis in original.]
 
+### Invoking the Muse, Part Three
+
+Artists have invoked the Muse since time immemorial.  There is great wisdom to this.  There is magic to effacing our human arrogance and humbly
+entreating help from a source we cannot see, hear, touch, or smell.  Here's the start of Homer's *Odyssey," the T. E. Lawrence translation:
+
+- O Divine Poesy, goddess, daughter of Zeus, sustain for me this song of the various-minded man who, after he had plundered the
+innermost citadel of hallowed Troy, was made to stray grievously about the coasts of men, the sport of their customs, good and
+bad, while his heart, through all the sea-faring, ached with an agony to redeem himself and bring his company safe home.  Vain
+hope -- for them.  The fools!  Their own witlessness cast them aside.  To destroy for meat the oxen of the most exalted Sun,
+wherefore the Sun-god blotted out the day of their return.  Make this tale live for us in all its many bearings, O Muse. . . .
+
+This passage will reward closer study.
+
+p. 119.
+
+### The Magic of Keeping Going
+
+When I finish a day's work, I head up into the hills for a hike.  I take a pocket tape recorder because I know that as my
+surface mind empties with the walk, another part of me will chime in and start talking.
+
+- The word "leer" on page 342 . . . it should be "ogle."
+- You repeated yourself in Chapter 21.  The last sentence is just like that one in the middle of Chapter 7.
+
+p. 125.
+
+### Life and Death
+
+The moment a person learns he's got terminal cancer, a profound shift takes place in his psyche.  At one stroke in the doctor's
+office he becomes aware of what really matters to him.  Things that sixty seconds earlier had seemed all-important suddenly appear
+meaningless, while people and concerns that he had till then dismissed at once take on supreme importance.
+
+Maybe, he realizes, working this weekend on that big deal at the office isn't all that vital.  Maybe it's more important to fly
+cross-country for his grandson's graduation.  Maybe it isn't so crucial that he have the last word in the fight with his wife.
+Maybe instead he should tell her how much she means to him and how deeply he has always loved her.
+
+p. 132.
+
+The Ego, Jung tells us, is that part of the psyche that we think of as "I."  Our conscious intelligence.  Our everyday brain that
+thinks, plans, and runs the show of our day-to-day life.
+
+The Self, as Jung defined it, is a greater entity, which includes the Ego but also incorporates the Personal and Collective
+Unconscious.  Dreams and intuitions come from the Self.  The archetypes of the unconscious dwell there.  It is, Jung believed,
+the sphere of the soul.
+
+What happens in that instant when we learn we may soon die, Tom Laughlin contends, is that the seat of our consciousness shifts.
+
+It moves from the Ego to the Self.
+
+p. 134.
+
 ### 
 
 p. .
 
-
-
 ### 
 
 p. .
@@ -170,25 +218,7 @@ p. .
 
 p. .
 
-
-
 ### 
 
 p. .
-
-### 
-
-p. .
-
-
-
-### 
-
-p. .
-
-### 
-
-p. .
-
-
 
