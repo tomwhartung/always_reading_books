@@ -76,17 +76,51 @@ pp. 92-93.  [Emphasis added.]
 
 ## Book Three - Beyond Resistance: The Higher Realm, pp. 103-165
 
-- "The first duty is to sacrifice to the gods and pray them to grant you the thoughts, words, and deeds likely to render your command most pleasing to the gods and to bring yourself, your friends, and your city the fullest measure of affection and glory and advantage." -- Xenophon, The Cavalry Commander
+- "The first duty is to sacrifice to the gods and pray them to grant you the thoughts, words, and deeds likely to render your
+command most pleasing to the gods and to bring yourself, your friends, and your city the fullest measure of affection and glory
+and advantage." -- Xenophon, The Cavalry Commander
 
 p. 105.
 
-### 
+### Invoking the Muse
 
-p. .
+The last thing I do before I sit down to work is say my prayer to the Muse.  I say it out loud, in absolute earnest.  Only then do I
+get down to business.
 
-### 
+p. 110.
 
-p. .
+In my little house I had no TV.  I never read a newspaper or went to a movie.  I just worked.  One afternoon I was banging away in the
+little bedroom I had converted to an office, when I heard my neighbor's radio playing outside.  Someone in a loud voice was declaiming
+". . . to preserve, protect, and defend the Constitution of the United States."  I came out.  What was going on?  "Didn't you hear?
+Nixon's out; they got a new guy in there."
+
+I had missed Watergate completely.
+
+p. 111.
+
+### Invoking the Muse, Part Two
+
+Our ancestors were keenly cognizant of forces and energies whose seat was not in this material sphere but in a loftier, more mysterious one.
+What did they believe about this higher reality?
+
+First, they believed that death did not exist there.  The gods are immortal.
+
+The gods, though not unlike humans, are infinitely more powerful.  To defy their will is futile.  To act toward heaven with pride is to call
+down calamity.
+
+Time and space display an altered existence in this higher dimension.  The gods travel "swift as thought."  They can tell the future, some of
+them, and though the playwrite Agathon tells us,
+
+- This alone is denied to God: the power to undo the past.
+
+yet the immortals can play tricks with time, as we ourselves may sometimes, in dreams or visions.
+
+p. 114.
+
+The contemporary view is that all this is charming but preposterous.  Is it?  Then answer this.  Where did *Hamlet* come from?  Where did the
+Parthenon come from?  Where did *Nude Descending a Staircase* come from?
+
+p. 115.  [Emphasis in original.]
 
 ### 
 
