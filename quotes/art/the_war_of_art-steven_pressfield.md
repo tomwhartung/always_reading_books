@@ -122,6 +122,66 @@ Parthenon come from?  Where did *Nude Descending a Staircase* come from?
 
 p. 115.  [Emphasis in original.]
 
+### Testament of a Visionary
+
+- Eternity is in love with the creations of time. -- William Blake
+
+p. 116.
+
+What Blake means by "eternity," I think, is the sphere higher than this one, a plane of reality superior to the material dimension in which we
+dwell.  In "eternity," there is no such thing as time (or Blake's syntax wouldn't distinguish it from "eternity") and probably no space either.
+This plane may be inhabited by higher creatures.  Or it may be pure consciousness or spirit.  But whatever it is, according to Blake, it's
+capable of being "in love."
+
+If beings inhabit this plane, I take Blake to mean that they are incorporeal.  They don't have bodies.  But they have a connection to the sphere
+of time, the one we live in.  These gods or spirits participate in this dimension.  They take an interest in it.
+
+"Eternity is in love with the creations of time" means, to me, that in some way these creatures of the higher sphere ( [page break] the sphere
+itself, in the abstract) take joy in what we time-bound beings can bring forth into physical existence in our limited material sphere.
+
+It may be pushing the envelope, but if these beings take joy in the "creations of time," might they not also nudge us a little to produce them?
+If that's true, then the image of the Muse whispering inspiration in the artist's ear is quite apt.
+
+The timeless communicating to the timebound.
+
+By Blake's model, as I understand it, it's as though the Fifth Symphony existed already in that higher sphere, before Beethoven sat down and
+played dah-dah-dah-DUM.  The catch was this: The work existed only as potential -- without a body, so to speak.  It wasn't music yet.  You
+couldn't play it.  You couldn't hear it.
+
+It needed someone.  It needed a corporeal being, a human, an artist (or more precisely a *genius,* in the Latin sense of "soul" or "animating
+spirit") to bring it into being on this material plane.  So the Muse whispered in Beethoven's ear.  Maybe she hummed a few bars into a million
+other ears.  But no one else heard her.  Only Beethoven got it.
+
+He brought it forth.  He made the Fifth Symphony a "creation of time," which "eternity" could be "in love with."
+
+pp. 116-117.  [Emphasis in original.]
+
+### 
+
+p. .
+
+
+
+### 
+
+p. .
+
+### 
+
+p. .
+
+
+
+### 
+
+p. .
+
+### 
+
+p. .
+
+
+
 ### 
 
 p. .
