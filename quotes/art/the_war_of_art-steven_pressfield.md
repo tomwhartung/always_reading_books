@@ -43,34 +43,34 @@ p. 61.
 ### A Professional Is Patient
 
 The professional arms himself with patience, not only to give the stars time to align in his career, but to keep himself from
-flaming out in each individual work.  **He knows that any job, whether it's a novel or a kitchen remodel, takes twice as long as
-he thinks and costs twice as much.**  He accepts that.  he recognizes it as reality.
+flaming out in each individual work.  **He knows that any job, whether it's a novel or a kitchen remodel, takes twice as long
+as he thinks and costs twice as much.**  He accepts that.  he recognizes it as reality.
 
 p. 75.  [Emphasis added.]
 
 ### A Professional Accepts No Excuses
 
-The professional knows that Resistance is like a telemarketer; if you so much as say hello, you're finished.  The pro doesn't even
-pick up the phone.  He stays at work.
+The professional knows that Resistance is like a telemarketer; if you so much as say hello, you're finished.  The pro doesn't
+even pick up the phone.  He stays at work.
 
 p. 80.
 
 ### A Professional Self-Validates
 
-The professional cannot allow the actions of others to define his reality.  Tomorrow morning the critic will be gone, but the writer
-will still be there facing the blank page.  Nothing matters but that he keep working.  Short of family [page break] crisis or the
-outbreak of World War II, the professional shows up, ready to serve the gods.
+The professional cannot allow the actions of others to define his reality.  Tomorrow morning the critic will be gone, but
+the writer will still be there facing the blank page.  Nothing matters but that he keep working.  Short of family [page break]
+crisis or the outbreak of World War II, the professional shows up, ready to serve the gods.
 
-Remember, Resistance wants us to cede sovereignty to others.  It wants us to stake our self-worth, our identity, our reason-for-being,
-on the response of others to our work.  Resistance knows we can't take this.  No one can.
+Remember, Resistance wants us to cede sovereignty to others.  It wants us to stake our self-worth, our identity, our
+reason-for-being, on the response of others to our work.  Resistance knows we can't take this.  No one can.
 
-**The professional blows critics off.**  He doesn't even hear them.  Critics, he reminds himself, are the unwitting mouthpieces of
-Resistance and as such can be truly cunning and pernicious.  They can articulate in their reviews the same toxic venom that Resistance
-itself concocts inside our heads.  That is their real evil.  Not that we believe them, but that we believe the Resistance in our own
-minds, for which critics serve as unconscious spokespersons.
+**The professional blows critics off.**  He doesn't even hear them.  Critics, he reminds himself, are the unwitting mouthpieces
+of Resistance and as such can be truly cunning and pernicious.  They can articulate in their reviews the same toxic venom that
+Resistance itself concocts inside our heads.  That is their real evil.  Not that we believe them, but that we believe the
+Resistance in our own minds, for which critics serve as unconscious spokespersons.
 
-**The professional learns to recognize envy-drivien criticism and to take it for what it is: the supreme compliment.**  The critic
-hates most that which he would have done himself if he had had the guts.
+**The professional learns to recognize envy-drivien criticism and to take it for what it is: the supreme compliment.**
+The critic hates most that which he would have done himself if he had had the guts.
 
 pp. 92-93.  [Emphasis added.]
 
@@ -133,11 +133,11 @@ dwell.  In "eternity," there is no such thing as time (or Blake's syntax wouldn'
 This plane may be inhabited by higher creatures.  Or it may be pure consciousness or spirit.  But whatever it is, according to Blake, it's
 capable of being "in love."
 
-If beings inhabit this plane, I take Blake to mean that they are incorporeal.  They don't have bodies.  But they have a connection to the sphere
-of time, the one we live in.  These gods or spirits participate in this dimension.  They take an interest in it.
+If beings inhabit this plane, I take Blake to mean that they are incorporeal.  They don't have bodies.  But they have a connection to the
+sphere of time, the one we live in.  These gods or spirits participate in this dimension.  They take an interest in it.
 
-"Eternity is in love with the creations of time" means, to me, that in some way these creatures of the higher sphere ( [page break] the sphere
-itself, in the abstract) take joy in what we time-bound beings can bring forth into physical existence in our limited material sphere.
+"Eternity is in love with the creations of time" means, to me, that in some way these creatures of the higher sphere (or [page break] the
+sphere itself, in the abstract) take joy in what we time-bound beings can bring forth into physical existence in our limited material sphere.
 
 It may be pushing the envelope, but if these beings take joy in the "creations of time," might they not also nudge us a little to produce them?
 If that's true, then the image of the Muse whispering inspiration in the artist's ear is quite apt.
@@ -184,8 +184,8 @@ p. 125.
 ### Life and Death
 
 The moment a person learns he's got terminal cancer, a profound shift takes place in his psyche.  At one stroke in the doctor's
-office he becomes aware of what really matters to him.  Things that sixty seconds earlier had seemed all-important suddenly appear
-meaningless, while people and concerns that he had till then dismissed at once take on supreme importance.
+office he becomes aware of what really matters to him.  Things that sixty seconds earlier had seemed all-important suddenly
+appear meaningless, while people and concerns that he had till then dismissed at once take on supreme importance.
 
 Maybe, he realizes, working this weekend on that big deal at the office isn't all that vital.  Maybe it's more important to fly
 cross-country for his grandson's graduation.  Maybe it isn't so crucial that he have the last word in the fight with his wife.
@@ -193,8 +193,8 @@ Maybe instead he should tell her how much she means to him and how deeply he has
 
 p. 132.
 
-The Ego, Jung tells us, is that part of the psyche that we think of as "I."  Our conscious intelligence.  Our everyday brain that
-thinks, plans, and runs the show of our day-to-day life.
+The Ego, Jung tells us, is that part of the psyche that we think of as "I."  Our conscious intelligence.  Our everyday brain
+that thinks, plans, and runs the show of our day-to-day life.
 
 The Self, as Jung defined it, is a greater entity, which includes the Ego but also incorporates the Personal and Collective
 Unconscious.  Dreams and intuitions come from the Self.  The archetypes of the unconscious dwell there.  It is, Jung believed,
@@ -206,13 +206,52 @@ It moves from the Ego to the Self.
 
 p. 134.
 
-### 
+### The Ego and the Self
 
-p. .
+Here's what I think.  I think angels make their home in the Self, while Resistance has its seat in the Ego.
 
-### 
+The fight is between the two.
 
-p. .
+p. 136.
+
+The Ego is that part of the psyche that believes in material existence....
+
+Here's what the Ego believes:
+
+1. *Death is real.*  ....
+2. *Time and space are real.*  ....  [page break]
+3. *Every individual is different and separate from every other.*  ....
+4. *The predominant impulse of life is self-preservation.*  ....
+5. *There is no God.*  ....
+
+These are the principles the Ego lives by.  They are sound solid principles.
+
+1. *Death is an illusion.*  ....
+2. *Time and space are illusions.*  ....  [page break]
+3. *All beings are one.*  If I hurt you, I hurt myself.
+4. *The supreme emotion is love.*  ....
+5. *God is all there is.*  Everything that is, is God in one form or another.  God, the divine ground, is that in which we live
+and move and have our being.  Infinite planes of reality exist, all created by, sustained by and infused by the spirit of God.
+
+pp. 136-138.
+
+### Experiencing the Self
+
+Have you ever wondered why the slang terms for intoxication are so demolition-oriented?  Stoned, smashed, hammered.  It's
+because they're talking about the Ego.  It's the Ego that gets blasted, wasted, plastered.  We demolish the Ego to get to the Self.
+
+p. 139.
+
+Dreams come from the Self.  Ideas come from the Self.  When we meditate we access the Self.  When we fast, when we pray, when we
+go on a vision quest, it's the Self we're seeking.  When the dervish whirls, when the yogi chants, when the sadhu mutiliates his
+flesh; when penitents crawl a hundred miles on their knees, when Native Americans pierce themselves in the Sun Dance, when suburban
+kids take Ecstasy and dance all night at a rave, they're seeking the Self.  When we deliberately alter our consciousness in any way,
+we're trying to find the Self.  When the alcholic collapses in the gutter, that voice that tells him, "I'll save you," comes from
+the Self.
+
+The Self is our deepest being.
+
+p. 139.
 
 ### 
 
