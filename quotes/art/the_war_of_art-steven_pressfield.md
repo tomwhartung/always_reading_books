@@ -282,15 +282,78 @@ Of the two orientations, the hierarchical seems to be the default setting.
 
 p. 147.
 
-### 
+### The Artist and the Hierarchy
 
-p. .
+For the artist to define himself hierarchically is fatal.
 
-### 
+p. 150.
 
-p. .
+But the artist cannot look to others to validate his efforts [page break] or his calling.  If you don't believe me, ask Van Gogh,
+who produced masterpiece after masterpiece and never found a buyer in his whole life.
 
-### 
+The artist must operate territorially.  He must do his work for its own sake.
 
-p. .
+To labor in the arts for any reason other than love is prostitution.  Recall the fate of Odysseus' men who slew the cattle of the sun.
+
+- Their own witlessness cast them away.
+- The fools!  To destroy for meat the oxen
+- of the most exalted Sun, wherefore the sun-god
+- blotted out the day of their return.
+
+In the hierarchy, the artist faces outward.  Meeting someone new he asks himself, What can this person do for me?  How can this person
+advance my standing?
+
+In the hierarchy, the artist looks up and looks down.  The one place he can't look is that place he must: within.
+
+pp. 150-151.
+
+### The Definition of a Hack
+
+The hack condescends to his audience.  He thinks he's superior to them.  The truth is, he's scared to death of them or, more accurately,
+scared of being authentic in front of them, scared of writing what he really feels or believes, what he himself thinks is interesting.
+He's afraid it won't sell.  So he tries to anticipate what the market (a telling word) wants, then gives it to them.
+
+In other words, the hack writes hierarchically.  He writes what he imagines will play well in the eyes of others.  He does not ask
+himself, What do I myself want to write?  What do I think is important?  Instead he asks, What's hot, what can I make a deal for?
+
+The hack is like the politician who consults the polls before he takes a position.  He's a demagogue.  He panders.
+
+It can pay off, being a hack.  Given the depraved state of American culture, a slick dude can make millions being a hack.  But even if
+you succeed, you lose, because you've [page break] sold out your Muse, and your Muse is you, the best part of yourself, where your finest
+and only true work comes from.
+
+I was starving as a screenwriter when the idea for *The Legend of Bagger Vance* came to me.  It came as a book, not a movie.  I met with
+my agent and gave him the bad news.  We both knew that first novels take forever and sell for nothing.  Worse, a novel about golf, even if
+we could find a publisher, is a strait shot to the remainder bin.
+
+But the Muse had me.  I had to do it.  To my amazement, the book succeeded critally and commercially better than anything I'd ever done,
+and others since have been lucky too.  Why?  My best guess is this: I trusted what I wanted, not what I thought woule work.  I did what I
+myself thought was interesting, and left its reception to the gods.
+
+The artist can't do his work hierarchically.  He has to work territorially.
+
+pp. 152-153.  [Emphasis in original.]
+
+### The Fruits of Our Labor.
+
+We must do our work for our own sake, not for fortune or applause.
+
+Then there's the third way proffered by the Lord of Discipline, which is beyond both hierarchy and territory.  That is to do the work
+and give it to Him.  Do it as an offering to God.
+
+- Give the act to me.
+- Purged of hope and ego,
+- Fix your attention on the soul.
+- Act and do for me.
+
+The work comes from heaven anyway.  Why not give it back?
+
+To labor in this way, *The Bhagavad-Gita* tells us, is a form of meditation and a supreme species of spiritual devotion.  It also, I
+believe, conforms most closely to Higher Reality.  In fact, we are servants of the Mystery.  We were put here on [page break] earth to
+act as agents of the Infinite, to bring into existence that which is not yet, but which will be, through us.
+
+. . . .  To acknowledge that reality, to efface all ego, to let the work come through us and give it back freely to its source, that,
+in my opinion, is as true to reality as it gets.
+
+pp. 161-162.  [Emphasis in original.]
 
