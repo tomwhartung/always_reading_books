@@ -253,6 +253,39 @@ The Self is our deepest being.
 
 p. 139.
 
+The Self speaks for the future.
+
+That's why the Ego hates it.
+
+p. 140.
+
+The Ego hates artists because they are the pathfinders and bearers of the future, because each one dares, in James Joyce's phrase,
+to "forge in the smithy of my soul the uncreated conscience of my race."
+
+p. 141.
+
+### Fear
+
+Resistance feeds on fear.  We experience Resistance as fear.
+
+p. .
+
+### Territory versus Hierarchy
+
+In the animal kingdom, individuals define themselves in one of two ways -- by their rank within a hierarchy (a hen in a pecking
+order, a wolf in a pack) or by their connection to a territory (a home base, a hunting ground, a turf).
+
+This is  how individuals -- human as well as animals -- achieve psychological security.  They know where they stand.  The world
+makes sense.
+
+Of the two orientations, the hierarchical seems to be the default setting.
+
+p. 147.
+
+### 
+
+p. .
+
 ### 
 
 p. .
