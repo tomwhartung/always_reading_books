@@ -19,7 +19,7 @@ In their work, Jost and his colleagues (2003, 2009) find that many psychological
 with conservative political orientations.  For example, to cite one of the oldest variables in this literature, *authoritarianism* emerges as
 a clear predictor of political conservatism.  Authoritarianism is typically defined as a general attitude of deference to authority and
 convention, coupled with punitiveness and animosity toward "deviant" outgroups, and a skeptical view of democracy.  Contemporary views
-consider authoritarian attitudes and behavior to be rooted in chronic differences in sensitivituy to threat and uncertainty aversion. [page
+consider authoritarian attitudes and behavior to be rooted in chronic differences in sensitivity to threat and uncertainty aversion. [page
 break]  In line with this view, numerous studies find that authoritarianism is strongly associated with the belief that the world is threatening
 and dangerous.  Indeed, threat sensitivity among authoritarians is even detectable at an unconscious level.  For example....  Authoritarianism
 has also been consistently linked to variables tapping an aversion to uncertainty and ambiguity.  More recently, Hetherington and Weiler (2009)
