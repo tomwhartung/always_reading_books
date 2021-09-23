@@ -114,7 +114,33 @@ his own aims.
 
 pp. 86-87.
 
-[**Conspiracies That Came True**] (p. 89.)
+**Conspiracies That Came True**
+
+The balance between appreciating danger in the world around us and the unswerving faith in a conspiracy theory comes to a head in the
+false equivalence between unproven theories and misdeeds that have been retroactively discovered.  To conspiracy theorists the latter are
+considered "conspiracy theories that came true," and proof that whatever conspiracy currently being argued is also true.  But there is a
+crucial difference between conspiracy theories and conspiracies.
+
+p. 89.
+
+Conspiracies, of course, are real.  Nobody disputes that....  [T]here have been plenty of instances when someone's else's misdeeds *did*
+give people cancer -- but those misdeeds didn't involve chemtrails or 5G Internet poisoning, because those aren't real things.  Toxic
+dumping, hiding carcinogens in food, polluting water, and the like actually give people cancer, and are carried out by major companies
+all the time.  These are real things.
+
+p. 89.  [Emphasis in original.]
+
+[The author mentions the conspiracy to kill Ceasar in Rome and the one to kill President Lincoln, his Vice President, and Secretary of War.]
+A conspiracy of German officers tried to kill Adolf Hitler in July 1944.  And the US Public Health Service engaged in a grossly unethical
+four-decade conspiracy to withhold syphilis treatment from Black sharecroppers in Tuskegee, Alabama.
+
+All of these are conspiracies.  But they are not "conspiracy theories that came true" because none were theorized in any specific way.
+Nobody knew about them, and many were only revealed thanks to whistleblowers, the revelation of legal documents, or the arrests of [page
+break] the conspirators.  Likewise, none of the widely held conspiracy *theories* so popular in today's discourse, from the supposed
+poisonous spraying of chemtrails in the air to 9/11 being an inside job carried out by the US government, have ever been "revealed" as the
+truth.  Their sheer size and scope make them all but impossible.
+
+p. 89-90.  [Emphasis in original.]
 
 But people believe the conspiracy theories because they fit in with the biases they already have about how the world "really" works.  As
 we've seen, this is not necessarily a bad thing.  But for many Q believers, that nebulous feeling that *They're all out to get me* becomes
@@ -125,8 +151,57 @@ dangerous.
 For the Q believer, then, Q is not a conspiracy theory -- and many believers bristle at the term, calling themselves "conspiracy researchers"
 instead.  And it provides its believers something nobody usually expects out of cultish conspiracy movements -- hope.
 
-pp. 90-91.
+pp. 90-91.  [Emphasis in original.]
 
+## Chapter 7 - This Is Not a Game: The Many Crimes of QAnon Followers, pp. 106-121
+
+**Good and Evil**
+
+An unseen war between right and wrong is pretty much the crux of QAanon.  I reached out to Professor [Mark] Juergensmeyer [of the University
+of California, Santa Barbara] to ask if I was overreacting by drawing a parallel between QAnon and Al Qaeda or ISIS -- and it turns out, I
+wasn't.
+
+While Juergensmeyer believes that most Q believers will eventually move on to something else, "the exceptions are the dangerous ones."
+Echoing the example of [1993 World Trade Center bomber] Mahmud Abouhalima, he continued that "these are the true believers who are willing
+to risk their lives to undertake an act, which we see as terrorism, [that's] consistent with their ideologies."
+
+"The secrecy is part of the potency.  It gives the followers a sense of smug satisfaction that they know something that everyone else does
+not know.  Terrorist attacks are meant as much to assure the [page break] followers that there is a war going on as it is to shock the
+imagined enemy," he went on.  And then he said something that made my stomach drop: "When the United states was attacked on 9/11 much of the
+imact was due to the surprise -- not knowing who did this and why.  It is not inconceivable that QAnon followers could commit acts of this
+magnitude."
+
+pp. 106-107.
+
+
+p. .
+
+
+p. .
+
+
+p. .
+
+
+p. .
+
+p. .
+
+
+p. .
+
+
+p. .
+
+## Chapter 8 - Save the Children: QAnon Transforms in 2020 With the Pandemic, pp. 123-139
+
+- [None.]
+
+## Chapter 9 - Memes at the Ready: The War Between QAnon and Social Media, pp. 142-158
+
+p. .
+
+## Chapter 10 - Change of Better Coming? QAnon and the 2020 Election, pp. 159- 
 
 p. .
 
@@ -142,37 +217,6 @@ p. .
 
 p. .
 
-## Chapter 7 - : , pp.
-
-p. .
-
-
-p. .
-
-
-p. .
-
-## Chapter 8 - : , pp.
-
-p. .
-
-
-p. .
-
-
-p. .
-
-## Chapter 9 - : , pp.
-
-p. .
-
-
-p. .
-
-
-p. .
-
-## Chapter 10 - : , pp.
 
 p. .
 
