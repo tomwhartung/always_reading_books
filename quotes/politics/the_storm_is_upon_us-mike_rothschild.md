@@ -171,27 +171,26 @@ imagined enemy," he went on.  And then he said something that made my stomach dr
 imact was due to the surprise -- not knowing who did this and why.  It is not inconceivable that QAnon followers could commit acts of this
 magnitude."
 
+QAnon has become both organized and violent much more quickly than any form of Islamic extremism.  Al Qaeda had been around for well over a
+decade when its hijackers took control of four airplanes in the skies over the East Coast and used them to commit the worst attack on the
+continental United States in history....  But it's not just mass casualty events within Q's grasp -- smaller family tragedies happen all the
+time thanks to Q and the people who have given their lives to it.
+
 pp. 106-107.
 
+This "no true Scotsman" fallacy, by which Q believers wrote off any violent action by their comrades as a false flag carried out to make Q
+look bad, powered virtually all of the discourse in the movement about the rot inside it.  Nobody devoted to Q looked inward at what was
+powering this violence -- only outward to who would want to hurt their movement.  So Q believers claimed the FBI report was forged by Yahoo!
+in order to discredit Q, Timothy Charles Holmseth was a CIA plant with the job of fomenting violence in the Q movement, and Cynthia Abcug's
+case was merely a custody dispute and here link to Q was "propaganda and lies from the cabal's agents."
 
-p. .
+"The media have no evidence that Q followers are violent," wrote prominent QAnon promoter David "Praying Medic" Hays in a 2020 blog post
+that claimed the FBI bulletin was fake.  "Such evidence doesn't exist."
 
+While Q believers find it easy to write off any violent episodes they encounter in the media as the product of the "fake news" media, there
+are countless unknown incidents that the media hasn't covered -- tiny family tragedies that pit loved ones against each other.
 
-p. .
-
-
-p. .
-
-
-p. .
-
-p. .
-
-
-p. .
-
-
-p. .
+p. 118.
 
 ## Chapter 8 - Save the Children: QAnon Transforms in 2020 With the Pandemic, pp. 123-139
 
@@ -199,7 +198,19 @@ p. .
 
 ## Chapter 9 - Memes at the Ready: The War Between QAnon and Social Media, pp. 142-158
 
-p. .
+QAnon was a perfect fit for social media.  It was active rather than passive; it was driven by decoding clues and solving puzzles;  it was
+visually interesting; it was open to any number of interpretations; and it was spinning a web of lies that its believers were perfectly
+happy to fall into.  QAnon certainly wasn't the first conspiracy theory to harness the power of the Internet for easy communication and
+propagation.  But it was the first to exist almost entirely online, with no scientific knowledge or military expertise needed to understand
+it -- just a hatred for the people Q hated, and the need for an online community that gave you praise and good feelings.
+
+As a movement that began entirely online, QAnon probably wouldn't exist without social media.  It certainly wouldn't have spread so easily
+without the tireless "work" of its biggest Twitter and YouTube influencers.  And it wouldn't be so viral in the mainstream Republican Party
+if it hadn't been allowed to grow unchecked on Twitter, the platform of choice for Donald Trump's own conspiracy theory ideation.  It's
+impossible to understand Q without understanding how it uses social media -- and how social media giants spent years allowing it to flourish
+without oversight or accountability, only to see their laxity blow up in their faces.
+
+p. 143.
 
 ## Chapter 10 - Change of Better Coming? QAnon and the 2020 Election, pp. 159- 
 
@@ -267,3 +278,20 @@ p. .
 
 
 p. .
+
+p. .
+
+
+p. .
+
+
+p. .
+
+p. .
+
+
+p. .
+
+
+p. .
+
