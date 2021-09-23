@@ -212,7 +212,79 @@ without oversight or accountability, only to see their laxity blow up in their f
 
 p. 143.
 
-## Chapter 10 - Change of Better Coming? QAnon and the 2020 Election, pp. 159- 
+## Chapter 10 - Change of Batter Coming? QAnon and the 2020 Election, pp. 159-177
+
+Two [candidates for the US House of Representatives] picked up enough support in the primary to advance to the general election in districts
+where they had a chance to win.  One was the Georgia CrossFit enthusiast and business owner Marjorie Taylor Greene, who called Q "a patriot
+worth listening to among what would be revealed as an absolute blizzard of conspiracy theory posts on social media.  The other was the pistol-
+packin' Colorado restaurant owner Lauren Boebert, who had made the rounds on conspiracy theoriest media after having public confrontations
+over COVID-19 restrictions and guns.  Her Q allegiance came out soon after, with Boebert explaining on hardcore Q believer Ann Vandersteele's
+YouTube show *Steel Truth,* "Everything that I've hear of Q, I hope that this is real, because it only means America is getting stronger and
+better, and people are returning to conservative values."
+
+Boebert and Greene were inexperienced newcomers who ran on a more local version of Donald Trump's outsider populism.  They won with small vote
+totals in their primaries, running campaigns based on conspiracy theories and fear of an onslaught of socialism.  They even both attempted to
+disavow QAnon at one point -- though not convincingly.  But their districts were solidly conservative, with Greene's so deeply red that a
+Republican pudding cup would win an election there.  With onlookers shocked that two devotees of a crazy conspiracy cult could join Congress,
+that's exactly what they did.  Nobody should have been shocked at this point.
+
+p. 164.
+
+The election was being stolen from the god emperor and handed to the decrepit basement-bound mummy Joe Biden, right in front of the world's
+eyes.  Just like Q and Trump had said would happen.
+
+The explosion of conspiracy theories after the election is impossible to separate from QAnon.  It represents the movement's biggest success
+in its quest to troll the deep state into submission.  4chan and Twitter immediately became hives of disinformation related to voter fraud and
+ballot rigging, shooting the "best" theories strait up the right-wing "disinfo" pyramid.  Q promoters on Twitter  (of whom there were still
+hundreds, despite the site claiming to have cracked down in July) spun a new hope: Trump not only had won, but won in a four hundred-plus
+Electoral College vote landslide.  But pretending to lose was necessary to sniff out and crush the fraud of the deep state.  Once the fraud
+was revealed, everything would be fine.
+
+Absent in all this was Q, beyond a couple of meaningless drops a few days after the election.  It was a cold and unforgiving silence that
+left Q's countless acolytes desperate for answers and reassurance that everything would be okay.  And into that silence screamed Q's biggest
+gurus -- grabbing control of the movement for good and never letting go.
+
+"We're in day 2 of Joe Biden thinking he is president," declared Q promoter CJ Truth to hundreds of thousands of followers that Thursday....
+
+p. 170.
+
+
+p. .
+
+
+p. .
+
+
+p. .
+
+
+p. .
+
+
+p. .
+
+
+p. .
+
+## Chapter 11 - The Only Cult That Teaches You to Think for Yourself: What Experts Think QAnon I (and Is Not), pp. 181-197
+
+p. .
+
+
+p. .
+
+
+p. .
+
+## Chapter 12 - Mathematically Impossible: Debunking QAnon and Its Prophecies, pp. 199-215
+
+p. .
+
+
+p. .
+
+
+p. .
 
 p. .
 
@@ -231,23 +303,15 @@ p. .
 
 p. .
 
+p. .
+
+
+## Chapter 13 - Where We Go One: How to Help People Who Want to Get Out of Q, pp. 217-234
 
 p. .
 
 
 p. .
-
-## Chapter 11 - : , pp.
-
-p. .
-
-
-p. .
-
-
-p. .
-
-## Chapter 12 - : , pp.
 
 p. .
 
@@ -257,30 +321,7 @@ p. .
 
 p. .
 
-## Chapter 13 - : , pp.
-
-p. .
-
-
-p. .
-
-
-p. .
-
-
-## Chapter xxx - : , pp.
-
-p. .
-p. .
-
-
-p. .
-
-
-p. .
-
-p. .
-
+## Epilogue - Friends and Happy Memories pp. 235-246
 
 p. .
 
