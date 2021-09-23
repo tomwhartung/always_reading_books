@@ -88,7 +88,56 @@ p. 86.
 To understand why QAnon followers believe in spite of everything requires understanding why people believe in conspiracy theories in the
 first place.
 
+Human brains need to recognize dangerous situations, and we are hardwired to seek patterns, to find order in chaos, and to exert control
+where none can be found.  Conspiracy theories, at their most basic level, assert that we are in danger from hidden forces.  This helps
+give difficult questions and random events satisfying answers -- and puts us at the center of those events.  A person doesn't get cancer
+because of some randomly misfiring cells -- they got it because of chemtrails or 5G Internet or microchips poisoning them.  [page break]
+Our beloved candidate didn't lose an election because they ran a poor campaign -- they lost because of the conspiracy of a corrupt cabal
+to keep them from power.  And on and on.
+
+Our lives are often full of failure -- personal, professional, and collective.  We don't want to believe these failures are due to honest
+mistakes by others or random chance.  And most of all, we don't want to believe that they're our own fault.  To believe otherwise is to
+believe that either we screwed up, or that we have no control over what happens to us.  And that's just too horrible to accept.
+
+"Conspiracy theories resonate with some of our brain's built-in biases and shortcuts, and tap into some of our deepest desires, fears, and
+assumptions about the world and the people in it," writes author and psychologist Rob Brotherton in the introduction to his ground-breaking
+book *Suspicious Minds: Why We Believe Conspiracy Theories.  "We are all natural-born conspiracy theorists."
+
+Such beliefs don't begin with the Internet, nor are they more prevalent in the Internet age.  Decades of polling consistently show that
+over half of Americans believe in some conspiracy theory, and that about as many people in 1963 believed that multiple assassins killed
+JFK as they did in 2013.
+
+As long as something major and unexpected takes place, there will be people who witness it and struggle to explain it.  In his book,
+Brotherton goes all the way back to the years after the Great Fire of Rome in 64 CE to find the legendary Roman historian Tacitus writing
+up rumors that gangs of thugs kept citizens from fighting the fires, and that the corrupt emperor Nero had set the devastating fire for
+his own aims.
+
 pp. 86-87.
+
+[**Conspiracies That Came True**] (p. 89.)
+
+But people believe the conspiracy theories because they fit in with the biases they already have about how the world "really" works.  As
+we've seen, this is not necessarily a bad thing.  But for many Q believers, that nebulous feeling that *They're all out to get me* becomes
+*They're all out to get me, and I'm going to get them first.*  This is the danger of Q -- not that people believe it, but that believing it
+means that those who don't are the enemy.  And as we've seen again and again, [page break] from Hoover Dam to the Capito, it's extremely
+dangerous.
+
+For the Q believer, then, Q is not a conspiracy theory -- and many believers bristle at the term, calling themselves "conspiracy researchers"
+instead.  And it provides its believers something nobody usually expects out of cultish conspiracy movements -- hope.
+
+pp. 90-91.
+
+
+p. .
+
+
+p. .
+
+
+p. .
+
+
+p. .
 
 
 p. .
