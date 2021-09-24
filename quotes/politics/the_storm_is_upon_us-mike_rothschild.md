@@ -248,25 +248,58 @@ gurus -- grabbing control of the movement for good and never letting go.
 
 p. 170.
 
+Unsurprisingly, the concept of a peaceful transfer of power is not compatible with an election loser calling up the military and forcibly
+seizing control.  And as the hope of a civil or legal miracle ebbed, violence became more and more inevitable.  In fact, it had already
+started -- two men were arrested outside the Philadelphia Convention Center with gus and Q merchandise several days after the election for
+allegedly conspiring to try to stop the vote count.  It was, of course, just a taste of what was to come (ironically, one of them would be
+arrested again for violating their bail conditions after being caught at the Capitol insurrection).
 
-p. .
-
-
-p. .
-
-
-p. .
-
-
-p. .
-
-
-p. .
-
-
-p. .
+p. 174.
 
 ## Chapter 11 - The Only Cult That Teaches You to Think for Yourself: What Experts Think QAnon I (and Is Not), pp. 181-197
+
+One of the most frustrating aspects of telling the story of QAnon is that Q isn't just one thing.  It touches numerous different areas of
+culture, politics, sociology, and technology.  Q's origins are completely rooted in American hucksterism and evangelical tropes -- yet it
+can trace its lineage to both English and Russian anti-Semitism.  It's often called a cult, but it has no real leader.  Others see it as
+a new prophetic religion -- but it has no clergy and relies on New Testament scripture as much as it does classified intelligence.  It has
+puzzles to solve, yet offers no hint as to when you've solved them, nor does it eventually reveal those solutions.  Q claims to be a
+military intelligence figure "saving the world," yet vanishes for months at a time.  It's a marketing grift that doesn't do enough to be
+effective at either marketing or grift.  It's very slippery to pin down, but also fairly easy to understand.
+
+To truly get Q means understanding it holds aspects of all these different disciplines -- and more -- without being any single one of them.
+But why isn't it any single one of these things?  And if it's not, can we ever have any hope of understanding it?  What do the experts *in*
+those fields think of Q?
+
+p. 181.  [Emphasis in original.]
+
+Dr. Alexandra Stein, one of the United Kingdom's foremost experts in social psychology and totalitarianism, was another top-tier thinker I
+went to in order to find a simple answer for this complex question.  And just like Ross and Juergensmeyer, she didn't have one.
+
+"I don't know, she explained with a smile when I asked her if QAnon was a cult, revealing how she herself was struggling with how to think
+and write about the Q movement.  Stein touched on the same problem others have had: the issue of whether or not Q has a charismatic and
+authoritarian leader.
+
+p. 184.
+
+Like QAnon, most cults don't make itimpossible to leave, instead casting the outside world as an evil and dangerous place that you don't
+want to reenter.  "The driving force of a cult is fear, and Q is full of fear," she [Dr. Stein] continued.  "It keeps you revved up in
+chronic anxiety, and you're isolated, so you can't go outside the system to a rational person."  There's a nameless terror outside the
+closed circle of Q, "and even if you can't name it, it's a feeling.  The outside isn't a safe place, this is the only safe place."
+
+The feelings of fear are never relieved or allowed to be processed in a healthy way, only intensified with more memes, more conspiracies,
+and more enemies.  And the Q believer has pushed away the loved ones and friends who *could* help calm those feelings, leaving "rational
+people unable to think for themselves."
+
+p. 185.  [Emphasis in original.]
+
+
+p. .
+
+
+p. .
+
+
+p. .
 
 p. .
 
