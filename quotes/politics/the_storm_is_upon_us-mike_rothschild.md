@@ -292,25 +292,74 @@ people unable to think for themselves."
 
 p. 185.  [Emphasis in original.]
 
+The theory that Russia has some hand in QAnon is usually brought up in conjunction with Russia's many other documented attempts to influence
+American politics and culture, particularly the 2016 election.  If those are Russian active measures, why can't this one be that too?
 
-p. .
+On the surface, it's not an idea that can be dismissed outright.  Paul Manafort, Trump's former campaign manager and a prolific lobbyist for
+Russian interests, was indicted on charges of money laundering and criminal conspiracy by the Special Counsel's office on October 27, 2017,
+and the first Q drop was made the next day -- theoretically the perfect distraction to keep the spotlight off Russian meddling.  News broke
+just days before the 2020 election that Russia-backed Twitter acounts had been among the earliest boosters of Q, using sock-puppet accounts
+to praise videos by early Q YouTube star Tracy "Beanz" Diaz and sharing Q hashtags.  The thousands of tweets these accounts put out represented
+some of the earliest public acknowledgement of Q, with some made as early as a week after Q's first drops.
 
+We already know that the Pizzagate and Seth Rich conspiracy theories were heavily promoted by the Russian disinformation machine, and many of
+the same figures targeted by QAnon were linked to those earlier theories.
 
-p. .
+p. 192.
 
+But to the cybersecurity researcher Brian Krebs, framing Russia as the driving force behind Q's success "seems like a pretty weak argument."
 
-p. .
+p. 193.
 
-p. .
+Essentially, Russia finds extant trends -- whether they're real stories like the Seth Rich murder, or 4chan goofs like Pizzagate going viral.
+Russian trolls and bots work to boost these, rather than creating their own from scratch.  The polarization of social media and the instant
+spread of conspiracy theories ensures they don't have to do more than grab onto the suspicions and fears already taking hold in our society.
 
+And Russia's "psyops" have a goal, an objective beyond simply "causing chaos" or getting people to vote for Trump.  Q doesn't have that kind
+of objective -- remember, it's based in a prophetic vision, not an action plan to bring that vision to reality.  Its believers up until
+COVID-19 were almost entirely already rabid Trump supporters, and that only changed with the pandemic -- an event even Russia couldn't forecast.
 
-p. .
+p. 193.
 
+**A Game That Plays Its Players**
 
-p. .
+QAnon is a cultish movement that's not quite a cult, a movement with prophetic elements that's not quite a religion, and a recipient of Russian
+boosting that's entirely American.  And despite being decended from long-running frauds, it's not really a scam.
+
+p. 196.
+
+Q also has elements of a game -- puzzles to solve, enemies to fight, goals to achieve, characters to play.  But even the designers of alternative
+reality games (ARGs), the kinds of difficult and fragmented [page break] interactive puzzles that have been on the Internet for decades, disagree
+on how "gamified" Q is.
+
+pp. 196-197.
+
+Many of these arguments over what QAnon actually is -- is it a psyop or not, is it a cult or not, is it a game or not? -- depend on the profession
+of the person making the argument.  Cult experts tend to see Q as a cult.  Game experts tend to see Q as a game.  Cybersecurity experts tend to
+see Q as a cybersecurity issue.  But Q believers see it as a plan to save the world -- a plan being carried out by Donald Trump, his handpicked
+advisors, and his millions of digital soldiers.
+
+It doesn't matter that whatever that plan was, if failed.  No powerful liberals have been rounded up for arrest and execution, and Donald Trump
+lost the 2020 election to Joe Biden.  The issue is that Q's adherents don't believe either of those things, and that lack of belief in the basics
+of reality has had devastating consequences for American politics.
+
+Experts and scholars can have endless Twitter fights over what Q is and isn't -- but to a terrified GOP mainstream, beset by conspiracy theorists
+and Q acolytes stringing up a noose on the Capitol front lawn, Q is their worst nightmare.  It's a political movement that revolves not around
+patriotism or traditional conservative values, but bloody revenge against diabolical enemies.  Its voters demand loyalty, fealty, blood in the
+streets, and the total overthrow of the political norms of the past.
+
+p. 197.
 
 ## Chapter 12 - Mathematically Impossible: Debunking QAnon and Its Prophecies, pp. 199-215
 
+
+p. .
+
+
+p. .
+
+
+p. .
 p. .
 
 
