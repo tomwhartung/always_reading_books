@@ -352,18 +352,60 @@ p. 197.
 
 ## Chapter 12 - Mathematically Impossible: Debunking QAnon and Its Prophecies, pp. 199-215
 
+**The Gospel of Q**
 
-p. .
+The closest thing to a founding document or scripture for Q are Q's drops themselves.  There are 4,953 of them posted just during the [page break]
+Trump years , totalling 60,000 more word than the New Testament.
 
+pp. 201-202.
 
-p. .
+Some almost salivate for violence ("These people need to ALL be ELIMINATED.  Those who know cannot sleep," screams Drop #2051 on August 31, 2018)
+while others specifically claim that any violent act by a Q believer is fake (Drop #1797, posted just weeks earlier, calls media stories about
+crimes committed by Q followers a "false 'violent' narrative push").  They are nakedly anti-Semitic and racist, referring to Barack Obama only by
+his middle name of "Hussein."  But Q also declares on se en different occasions that patriotism has no skin color, and anyone who loves freedom
+is welcome to join them in their quest.  And as we'll see below, they are full of false and vague claims, failed predictions, and assertions that
+are so bizarre and counter to publicly known information that they specifically defy evidence and proof.
 
+Taken together, the drops conjure a team of warriors fighting an unimaginably difficult battle against evil -- who happen to take months off at
+a time and never actually accomplish anything of note.  At the darkest hour of the Q movement, when Trump looked to have lost the election Q
+literally did nothing but post a Twisted Sister song -- after a year of pumping up that Biden could never and would never serve as president.
+If Q is a field marshal leading an army of digital soldiers, then by extension, Q abandoned them in the field and rode off into the sunset with
+the wounded and dying left behind.
 
-p. .
-p. .
+This is the paradox that Q lays out -- a figure at the center of power who does nothing with that power other than tease that one day, they'll
+actually do something with that power.
 
+And for an elite team of operators, Q is also sloppy, making typos [page break] in drops and needing other drops to correct their mistakes, with
+the excuse that they are "on the move."
 
-p. .
+pp. 203-204.
+
+**No Proofs, No Pudding**
+
+"#Qanon's intel drops are approved by President Trump and the proofs provided here will debunk any claims otherwise," reads the introduction to
+QProofs.com, one of the many sites where these memes are collected (like many of the sources used in writing this book, QProofs went down, but is
+still easily accessible on the Internet Archive.)  "Examining these proofs provided by Q and President Trump will convince the most skeptical
+person who takes the time to examine them.  The proof if Q's legitimacy is undeniable and the information these drips have yielded is shocking
+beyond belief."
+
+Q proofs work under a principle that Q created, "Future proofs past," a phrase used three dozen times in Q drops.  This holds that events that
+will unfold later will serve as evidence of Q having been correct beforehand.  It's a form of retroactive prediction that can turn the most
+innocuous bit of text into incontrovertible evidence one something comes along that matches up with it -- which, given the vagueness and sheer
+amont of text Q has written, is alwyas eventually going to be something.
+
+p. 205.
+
+**Literally Hitler**
+
+Finally, much of Q's story is simply ripped off or plagiarized from other sources.  Q's long list of Rothschild central banks, which was copied
+and pasted from a right-wing blog circa 2021, has quite a bit of company in being someone else's creation.
+
+p. 213.
+
+Adrenochrome as a superdrug, of course, is stolen from *Fear and Loathing in Las Vegas,* while many of Q's other foundational concepts and plot
+points are grabbed from movies like *The Matrix* series and *The Godfather Part III.*
+
+p. 214.
 
 
 p. .
