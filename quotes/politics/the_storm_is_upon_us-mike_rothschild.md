@@ -434,24 +434,44 @@ p. 226.
 
 ## Epilogue - Friends and Happy Memories pp. 235-246
 
+But as QAnon envelops the GOP, the Q poster has receded into the background.  After the last drop, made on December 6, 2020 -- a now-dead link
+to a Trump propaganda video -- Q went silent.  Maybe forever -- or maybe not.  Q might never make another drop, or Q might suddenly return and
+make hundreds of drops, opening up vast new tranches of leads and clues for decoders and promoters to decode and promote.  Nobody knows, other
+than whoever makes the drops.
 
-p. .
+p. 238.
 
+And we might never know who that is, either.
 
-p. .
+To be clear, most of the experts I spoke to for this book, and most journalists who cover the disinformation beat in general, feel like we have
+a pretty good idea of who made the first Q posts -- likely Paul Furber, with Coleman Rogers, or Tracy "Beanz" Diaz as possible accomplices.  It
+was Furber's board that Q started to posted on [sic] once Q jumped to 8chan, while Rogers livestreamed himself accidentally logging in as Q,
+and Dias made the first videos about QAnon that truly went viral.  As guesses go, they're the best ones we've got.
 
+We also have a good idea of who made the bulk of the drops on 8chan/8kun -- someone directly connected to the Watkins family, and more than
+likely Ron himself.  After all, there was no reason for Q to wait around for 8chan to come back in 2019 without some link to the Watkins family,
+and Q went almost completely silent the moment Ron announced he'd left 8kun on Election Day 2020, with Ron spewing a slew of Q-esque tweets, only
+to vanish as well.  The Ron-Q connection wasn't new, but revelations in HBO's docuseries *Q: Into the Storm* all but sealed Ron as the most likely
+suspect.  For one, Ron and Q shared a number of hobbies, including a love of expensive watches and pens, both of which are featured in numerous Q
+drops.  Ron also had a habit of using the same phrases Q did, had total control over the tripcodes used on the 8chan boards where Q posted, and
+seemed to ensure that Q could post on the nascent 8kun when nobody else could -- which Ron chalked up to Q having "tried really hard."
 
-p. .
-p. .
+Finally, Ron all but admitted his involvement with Q in *Into the Storm* director Cullen Hoback late in the last episode when he seemed to slip
+up during an interview and claim his deluge of baseless voter fraud claims and invented expertise with voting machines were legit because he had
+"three years of intelligence training, teaching normies how to do intelligence work.  It was basically what I was doing anonymously before, but
+never as Q."  Naturally, he immediately claimed he wasn't Q, and has continued to do so on Telegram.
 
+p. 239.  [Emphasis in original.]
 
-p. .
+The "storm" prophesized by QAnon in those 4,953 drops might have passed.  But we know there will be another.  What it looks like and how to deal
+with it will be unknown -- but it's coming.
 
-p. .
+p. 242.
 
+## Glossary of QAnon Terms
 
-p. .
+*Trust the plan:* Another Q catchphrase, imploring believers to have faith that all will be well.  Phrases like this are also known as "thought-
+terminating cliches."  More such cliches used by Q include "God wins," "nothing can stop what's coming," "enjoy the show," and "dark to light."
 
-
-p. .
+p. 252.  [Emphasis in original.]
 
