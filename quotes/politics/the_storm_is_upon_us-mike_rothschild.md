@@ -405,48 +405,43 @@ p. 213.
 Adrenochrome as a superdrug, of course, is stolen from *Fear and Loathing in Las Vegas,* while many of Q's other foundational concepts and plot
 points are grabbed from movies like *The Matrix* series and *The Godfather Part III.*
 
-p. 214.
+The idea of a popular uprising against the government carried out by armed patriots is coped from the seminal 1978 white supremacist novel *The
+Turner Diaries,* where it's given the Q-esque name "the Day of the Rope."  Even the ver concept that kicked QAnon off, that of "the storm"
+washing away the evil of the world, harkens back to Nazi iconography, with the earliest Nazi paramilitaries known as the SA, or Sturmabteilung,
+literally meaning "Storm Detachment."  And the ideas found in "the storm" can be seen in later works highlighting violent vengeance against
+perceived evildoers, such as *Taxi Driver* and the inexhaustible *Death Wish* and *Taken* series of films.
 
+Like the debunking of Q drops or proofs, a list of Q's influences and nods to other media could go on nearly forever.  The point is that once
+you start to see Q's component parts, they become all you can see.  You don't see a novel form of truth-telling, you see a hokey old story
+dressed in the clothes of other stories and put in a shiny new box.
 
-p. .
-
-p. .
-
-
-p. .
-
-
-p. .
-
-
-p. .
-
-
-p. .
-
-
-p. .
-
-p. .
-
+p. 214.  [Emphasis in original.]
 
 ## Chapter 13 - Where We Go One: How to Help People Who Want to Get Out of Q, pp. 217-234
 
-p. .
+*Try to unplug them* -- QAnon is almost an entirely digital movement, from its scriptures on 8kun to the message boards and social media sites
+where believers communicate.  Because of that, experts are virtually unanimous that one critical aspect of helping people find a way out of Q
+is to get them offline.
 
+p. 223.
 
-p. .
+Would a plan to "save the world," as one popular Q video puts it, really rely on a barely usable imageboard that's full of racist memes and
+pornography, utilizing tripcodes that could easily be broken as security?  Or ask about the times Q has gone silent, such as the three months
+in 2019 when 8chan was down, or after Trump lost the 2020 election.  Do they think that's something an intelligence operation tasked with
+saving children would do?  How did it make them feel to be abandoned by Q for such long stretches?
 
-p. .
-
-
-p. .
-
-
-p. .
+p. 226.
 
 ## Epilogue - Friends and Happy Memories pp. 235-246
 
+
+p. .
+
+
+p. .
+
+
+p. .
 p. .
 
 
