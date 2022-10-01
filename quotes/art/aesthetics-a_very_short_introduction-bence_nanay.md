@@ -108,14 +108,34 @@ merely perceptual engagement (as in the case of conceptual art and op art).
 
 p. 15.
 
-One striking feature of aesthetic engagements is their diversity: our aesthetic experience of the Grand Canyon and of a Billie Holiday song would
-involve very different emotions....
+One striking feature of aesthetic engagements is their diversity: our aesthetic experience of the Grand Canyon and of a Billie Holiday song
+would involve very different emotions....
 
-And even the same object can trigger very different emotions in different circumstances.  [*Context.*]
+And even the same object can trigger very different emotions in different circumstances.  [**Context.**]
 
 p. 15.
 
-### Beauty?
+Nonetheless, it is undeniable that aesthetic engagement can be, and often is, an emotional affair.  Art can make you cry.  And nature too.
+The link between aesthetics and emotions is something all aesthetic traditions, from Islamic and Sanskrit to Japanese and Chinese aesthetics,
+talk about.
+
+p. 16.
+
+Conversely, is aesthetic engagement always emotional? ....  In at least some cases of aesthetic experience, it is the sensory that dominates,
+not the emotional.  [**So, the answer is "no".**]
+
+p. 16.
+
+Emotion may not be what makes aesthetic experiences aesthetic.  But the emotion accounts of aesthetics are still important inasmuch as they
+highlight just how emotions can be a crucial part of aesthetic experiences.  Any account of aesthetics needs to tell a story about how
+emotional and aesthetic experiences can be, and often are, intertwined.
+
+p. 17.
+
+### For its own sake?
+
+
+p. 17.
 
 
 ## Chapter 3, Experience and attention - pp. 22-42
@@ -193,7 +213,7 @@ It is not that a certain artwork just demands you to have a certain aesthetic re
 Rather, when you have an aesthetic reaction, you implicitly assume that everybody else has, or at least should have, the same reaction.
 This is Immanuel Kant's view and it has had a lasting influence on 'Western' aesthetics.
 
-[*I call it "projection".*]
+[**I call it "projection".**]
 
 I'm trying to say this politely and in awe of the intellectual achievement of Kant's philosophy, but this is one of the most arrogant ideas in
 the history of aesthetics.  If you implicitly assume that everybody else should have the same reaction as you do, then you seriously under
@@ -253,7 +273,7 @@ p. 26.
 Resistance is directly proportional to love.  If you're feeling massive Resistance, the good news is, it means
 there's a tremendous amount of love there too.  If you didn't love the project that is terrifying you, you wouldn't
 feel anything.  **The opposite of love isn't hate, it's indifference.**
-- p. 42.  [Emphasis added.]
+- p. 42.  [**Emphasis added.**]
 
 ## Book Two - Combating Resistance: Turning Pro, pp. 59-101
 
