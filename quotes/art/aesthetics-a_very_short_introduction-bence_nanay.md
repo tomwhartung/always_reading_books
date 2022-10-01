@@ -26,7 +26,40 @@ But it is also about our experience of breathtaking landscapes or the pattern of
 
 p. 4.
 
+### Non-'Western' aesthetics
+
+Artifacts have been made everywhere in the world.  Music too.  Stories as well.  Nonetheless, when you go into almost any major
+museum in the world, you are likely to encounter objects made in the 'West' (Europe and, if it's a museum or modern art, maybe
+[page break] also North America - I will use scare-quotes around 'West' throughout the book to indicate that the 'West' is obviously
+not a unitary concept).
+
+pp. 5-6.
+
+Sticking to the European line on aesthetics would be as biased as exhibiting only European artworks in a museum.
+
+p. 6.
+
 ## Chapter 2, Sex, drugs, and rock 'n' roll - pp. 7-21
+
+Philosophers often contrast the experience of art with drug-induced and sexually charged experiences (and also with hedonistic experiences
+in general, like heavy partying, that the term 'rock 'n' roll is supposed to capture).
+
+p. 7.
+
+I don't actually think that we can maintain a distinction between aesthetic experiences on the one hand and sex, drugs, and rock 'n' roll on
+the other.  All things can be experienced in an aesthetic manner and some drug-induced experiences, for example, could very much count as aesthetic.
+
+p. 7.
+
+I will talk about four influential accounts of aesthetics, focusing on beauty, pleasure, emotion and 'valuing it for its own sake'....
+I'm talking about them because each and every one of them contains some really important pointers to how we should and how we should ot think
+about the domain of aesthetics.
+
+p. 8.
+
+### Beauty?
+
+
 ## Chapter 3, Experience and attention - pp. 22-42
 
 ### Aesthetic attention
