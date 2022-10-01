@@ -57,9 +57,9 @@ about the domain of aesthetics.
 
 p. 8.
 
-### Beauty?
+### [1] Beauty?
 
-The most widely shared take on aesthetics is that it's about beauty.  Just look around in the street - the word 'aesthetics' routinely shows up in
+The **most widely shared take on aesthetics** is that it's about beauty.  Just look around in the street - the word 'aesthetics' routinely shows up in
 beauty salons....
 
 I call this the 'beauty-salon approach'....  In fact, the main aim is to turn something not-so-beautiful into something more beautiful....
@@ -68,7 +68,7 @@ The beauty-salon approach solves the sex, drugs, and rock 'n' roll problem with 
 beautiful things.  Drug-induced experiences or sexual experiences, or the experience of rock 'n' roll, are not beautiful things.
 So they don't count as aesthetic.
 
-p. 8.
+p. 8.  [**Emphasis added.**]
 
 The point is that beauty is not a feature of objects that remains the same at all times, in all contexts, for all observers....
 Even if beauty is not in the eye of the beholder - even if it is 'objective' in some sense, it is sensitive to what context we encounter
@@ -76,7 +76,7 @@ it in.  The beauty-salon approach can't explain this context-sensitivity.
 
 p. 9.
 
-### Pleasure?
+### [2] Pleasure?
 
 The general thought is that aesthetics is about pleasure.  The non-aesthetic is not.  Aesthetic experiences are (often - clearly not always)
 pleasurable experiences - that's why we like having them....
@@ -95,13 +95,13 @@ Sustaining pleasure motivates and fine-tunes our ongoing aesthetic engagement by
 
 p. 13.
 
-### Emotions?
+### [3] Emotions?
 
-The third approach to delineating the aesthetic domain focuses on emotions.  The general thought is that aesthetic experiences are emotional
+The **third** approach to delineating the aesthetic domain focuses on emotions.  The general thought is that aesthetic experiences are emotional
 experiences.  So understanding what makes aesthetic experiences different from other kinds of experiences would be to nderstand what kind of
 emotion is triggered here.
 
-p. 14.
+p. 14.  [**Emphasis added.**]
 
 After all, much of contemporary art tries to stay as far away from our emotions as possible, preferring a merely intellectual or sometimes a
 merely perceptual engagement (as in the case of conceptual art and op art).
@@ -132,11 +132,46 @@ emotional and aesthetic experiences can be, and often are, intertwined.
 
 p. 17.
 
-### For its own sake?
+### [4] For its own sake?
 
+Susan Sontag talks about aesthetic experience as detached.  Detached not just from emotions, but from indignation, approval, and also
+practical considerations.  And this is the **last** popular candidate for keeping the aesthetic and the non-aesthetic apart: aesthetic
+engagement is engagement for its own sake.  We don't do it in order to achieve some other, further goal.  We do it just for the aesthetic
+kicks.
 
-p. 17.
+This proposal comes in many flavors....  If we can formulate the 'for its own sake' account without relying on the concept of valuing, we
+really should try to do so.
 
+p. 17.  [**Emphasis added.**]
+
+These intermediate cases [e.g., reading a book for a class and enjoying it as well] show that 'doing it for its own sake' is not the holy
+grail of aesthetics.
+
+p. 18.
+
+**Somethings you do for the trophy; some things for the process itself.  We need both.**
+There are always goals, deadlines, promotion criteria.
+
+p. 18.  [**Emphasis added.**]
+
+Any account of aesthetic engagement needs to explain this important feature: that it is open-ended and a process, not a trophy activity.
+
+p. 19.
+
+[T]he **four** standard approaches to aesthetics still failed to give us a clear account of where exactly this [the aesthetic] domain starts
+and where it ends
+
+p. 20.  [**Emphasis added.**]
+
+### [5] Attention?
+
+I will argue that these accounts all point in the same direction, namely, that what is special about aesthetics is the way we exercise
+[page break] our attention in aesthetic experiences.  This can help us explain how experiencing something as beautiful qualifies as
+aesthetic and also what makes these experiences emotionally infused.  Attention was the missing piece in the pleasure-based accounts and
+talking about the detached open-ended exercise of attention captures much of the 'for its own sake' accounts.  **As Marcel Prouse (1871-1922)
+said, 'Attention can take various forms and the job of the artist is to invoke the most superior of these.'**
+
+pp. 10-21.  [**Emphasis added.**]
 
 ## Chapter 3, Experience and attention - pp. 22-42
 
