@@ -1,13 +1,99 @@
 
-# Notes and Quotes From The War of Art
+# Notes and Quotes From Aesthetics - A Very Short Introduction
 
-By Steven Pressfield, 2002.
+By Bence Nanay, 2019.
 
-## Book One - Resistance: Defining the Enemy, pp. 1-57
+## Chapter 3, Experience and attention - pp. 22-42
 
-- "The enemy is a very good teacher." -- the Dalai Lama
+### Aesthetic attention
+
+When we have an aesthetic experience, we don't just attend to the object we see.  We also attend to the quality of our experience.
+Importantly, we attend to the relation between the two.
+
+p. 38.
+
+To use a very prosaic example, when we are looking at an apple, we can attend to the features of the apple.
+Or we can attend to the features of our experience of the apple.  Or we can attend to both, and the relation between the two.
+Attending this third way is what I take to be a crucial (and maybe close to universal) feature of aesthetic experience.
+
+p. 39.
+
+### Changing self, changing aesthetics
+
+Take the example of a widely explored psychological phenomenon, the 'mere exposure effect'.
+The more you are exposed to something, the more you tend to like it.  Just the mere exposure to something changes your preferences.
+And this happens even if you are not aware of what you are exposed to.
+
+p. 44.
+
+
+## Chapter 4, Aesthetics and the self - pp. 43-55
+
+### Experience versus judgement
+
+Much of 'Western' aesthetics has been about well-informed aesthetic judgements.
+Aesthetic judgements are statements (often to yourself, but sometimes also to others) that a particular object is beautiful or graceful or ugly or disgusting.
+But the vast majority of our aesthetic engagement is nothing like this.
+If it were, it would be difficult to explain why we care so much about all things aesthetic.
+The reason why we watch a three-hour-long film or take a day-long huck in the mountains is not to come up with a well-informed aesthetic judgement about the
+film or the landscape.  If we take the importance of aesthetics in our life seriously, we need to shift the emphasis away from aesthetic judgements to forms
+of aesthetic engagement that are more enjoyable, more rewarding, and happen to us more often.
+
+p. 46.
+
+We spend so much time and money engaging with works of art not because we want to make aesthetic judgements about them.
+We do it because the experience we have while engaging with works of art can be pleasurable, rewarding, and personally meaningful.
+Not the judgement -- the experience.
+
+p. 46.
+
+## Chapter 5, Aesthetics and the other - pp. 56-71
+
+### Aesthetics is not for policing
+
+Nonetheless, and I can't stress this strongly enough, aesthetics is not a normative discipline.
+Some parts of ethics might really be about normative claims (well, a branch of ethics is called 'normative ethics', so that would be a good candidatge).
+But aesthetics is not.  Aesthetics is not primarily about what we should do.  It is about what we in fact do in what circumstances.
+
+p. 59.
+
+But we have seen that the beauty-salon approoach to aesthetics is not exactly an attractive view.
+What makes an experience aesthetic is not that it is about a beautiful thing.  What makes it aesthetic is the way you exercise your attention.
+And there is no accurate or inaccurate way of exercising your attention.
+So while experiences may be accurate or illusory, what makes them aesthetic has nothing to do wiht their accuracy.
+It has everything to do with the way attention is exercised.
+
+p. 61.
+
+Aesthetic disagreements matter, no doubt about that.  But sharing or failing to share aesthetic experiences matters much more.
+And there are no right or wrong ways of having aesthetic experiences.
+
+p. 62.
+
+Lack of policing does not lead to anarchy.  If we are lucky, it leads to conversation, peaceful coexistence, and diversity.
+
+p. 63.
+
+It is not that a certain artwork just demands you to have a certain aesthetic reaction.
+Rather, when you have an aesthetic reaction, you implicitly assume that everybody else has, or at least should have, the same reaction.  [*Projection.*]
+
+p. 63.
+
+
+p. 62.
+
+## Chapter 6, Aesthetics and life - pp. 72-85
+
+[None]
+
+## Chapter 7, Global aesthetics - pp. 86-
 
 p. 3.
+
+
+
+
+
 
 ### Resistance and Self-Medication
 
