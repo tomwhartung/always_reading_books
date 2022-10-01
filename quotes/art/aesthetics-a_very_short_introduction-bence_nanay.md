@@ -328,8 +328,26 @@ Some pictures go out of their way to avoid occlusion.  Some others pile on occlu
 
 p. 95.  [**Emphasis added.**]
 
-p. 94.
+The second feature that every picture has is the presence or absence of empty surface.  In everyday perception, some of our visual field is
+often empty in the sense that there are no preceptually interesting elements there - only the sky, the ground, [page break], an empty wall.
+Some pictures deliberately try to avoid empty surface: they try to put pictorially interesting elements on every square inch of the surface.
+Others deliberately seek out empty surfaces.
 
-p. 98.
+pp. 96-97.
 
+We get a coordinate system on the basis of these two features: occlusion and empty surface.  And we can add other features like frame or
+symmetry.  Some pictures respect or even emphasis their [page break] frame, others deliberately try to pretend that the frame is not there.
+And as the frame is very much a two-dimensional surface feature, paying attention to it (either by emphasizing it or by de-emphasizing it)
+is a sign of surface organization.
+
+pp. 97-98.
+
+### Aesthetic humility again
+
+We should always be aware of the cultural perspective that we occumpy and treat our aesthetic evaluations with humility: as an evaluation
+made from a very specific cultural perspective.  It is easy to be arrogant about aesthetics - maybe precisely because it matters so much
+to us personally.  But this is all the more reason to be extra careful with our aesthetic evaluations.  **If there is one take-home message
+of this book, it is that we all need more aesthetic humility.**  [And thus ends the book!]
+
+p. 106.  [**Emphasis added.**]
 
