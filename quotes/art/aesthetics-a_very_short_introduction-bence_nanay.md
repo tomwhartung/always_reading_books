@@ -59,6 +59,64 @@ p. 8.
 
 ### Beauty?
 
+The most widely shared take on aesthetics is that it's about beauty.  Just look around in the street - the word 'aesthetics' routinely shows up in
+beauty salons....
+
+I call this the 'beauty-salon approach'....  In fact, the main aim is to turn something not-so-beautiful into something more beautiful....
+
+The beauty-salon approach solves the sex, drugs, and rock 'n' roll problem with little effort.  Aesthetic experiences are experiences of
+beautiful things.  Drug-induced experiences or sexual experiences, or the experience of rock 'n' roll, are not beautiful things.
+So they don't count as aesthetic.
+
+p. 8.
+
+The point is that beauty is not a feature of objects that remains the same at all times, in all contexts, for all observers....
+Even if beauty is not in the eye of the beholder - even if it is 'objective' in some sense, it is sensitive to what context we encounter
+it in.  The beauty-salon approach can't explain this context-sensitivity.
+
+p. 9.
+
+### Pleasure?
+
+The general thought is that aesthetics is about pleasure.  The non-aesthetic is not.  Aesthetic experiences are (often - clearly not always)
+pleasurable experiences - that's why we like having them....
+
+Not all pleasure is aesthetic.
+
+p. 11.
+
+Aesthetic pleasure is typically sustaining pleasure.  You are looking at a painting, and the pleasure you feel motivates you to keep on looking
+at it.  It is an open-ended activity just as walking along the [page break] beach is.  Our pleasure sustains our continued engagement with the
+painting.  It is sometimes even difficult to tear ourselves away.
+
+pp. 11-12.
+
+Sustaining pleasure motivates and fine-tunes our ongoing aesthetic engagement by means of controlling our attention.
+
+p. 13.
+
+### Emotions?
+
+The third approach to delineating the aesthetic domain focuses on emotions.  The general thought is that aesthetic experiences are emotional
+experiences.  So understanding what makes aesthetic experiences different from other kinds of experiences would be to nderstand what kind of
+emotion is triggered here.
+
+p. 14.
+
+After all, much of contemporary art tries to stay as far away from our emotions as possible, preferring a merely intellectual or sometimes a
+merely perceptual engagement (as in the case of conceptual art and op art).
+
+p. 15.
+
+One striking feature of aesthetic engagements is their diversity: our aesthetic experience of the Grand Canyon and of a Billie Holiday song would
+involve very different emotions....
+
+And even the same object can trigger very different emotions in different circumstances.  [*Context.*]
+
+p. 15.
+
+### Beauty?
+
 
 ## Chapter 3, Experience and attention - pp. 22-42
 
