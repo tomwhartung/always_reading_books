@@ -3,6 +3,30 @@
 
 By Bence Nanay, 2019.
 
+## Chapter 1, Lost in the museum - pp. 1-6
+
+### Non-elitist aesthetics
+
+Aesthetics is about some special kinds of experiences.  Ones we care a lot about.
+
+p. 2.
+
+The experiences that aesthetics talks about come on a spectrum.  We care about some experiences more than others.
+
+p. 2.
+
+It is not the job of aesthetics to tell you which artworks are good and which ones are bad.
+
+p. 3.
+
+### Aesthetics or philosophy of art?
+
+Aesthetics is not the same as philosophy of art.  Philosophy of art is about art.  Aesthetics is about many things - including art.
+But it is also about our experience of breathtaking landscapes or the pattern of shadows on the wall opposite your office.
+
+p. 4.
+
+## Chapter 2, Sex, drugs, and rock 'n' roll - pp. 7-21
 ## Chapter 3, Experience and attention - pp. 22-42
 
 ### Aesthetic attention
@@ -75,12 +99,32 @@ Lack of policing does not lead to anarchy.  If we are lucky, it leads to convers
 p. 63.
 
 It is not that a certain artwork just demands you to have a certain aesthetic reaction.
-Rather, when you have an aesthetic reaction, you implicitly assume that everybody else has, or at least should have, the same reaction.  [*Projection.*]
+Rather, when you have an aesthetic reaction, you implicitly assume that everybody else has, or at least should have, the same reaction.
+This is Immanuel Kant's view and it has had a lasting influence on 'Western' aesthetics.
 
-p. 63.
+[*I call it "projection".*]
 
+I'm trying to say this politely and in awe of the intellectual achievement of Kant's philosophy, but this is one of the most arrogant ideas in
+the history of aesthetics.  If you implicitly assume that everybody else should have the same reaction as you do, then you seriously under
+appreciate the diversity of humankind and the diversity of the cultural backgrounds people come from.  **And any time we are even tempted to
+think (or assume or feel) that whatever we do has universal appeal or universal communicability, that would be a good time to stop and exercise
+what I call 'aesthetic humility' - thinking about just how contingent our own position and cultural background is compared to the vast diversity
+of cultures on this planet.**
 
-p. 62.
+p. 63.  [**Emphasis added.**]
+
+### Aesthetic disagreements in real life
+
+The real question about aesthetic agreements and disagreements is not about who is right and who is wrong.  It is about the ways in which our
+experiences depend on the allocation of our attention, our background beliefs and knowledge as well as our past [page break] exposure.
+Knowing how these can alter our experience can help a lot in resolving aesthetic disagreements.
+
+pp. 63-64.
+
+The critic's job is to direct our attention to features we would not have noticed otherwise.
+Attending to some of these features can completely transform our experience.
+
+p. 65.
 
 ## Chapter 6, Aesthetics and life - pp. 72-85
 
