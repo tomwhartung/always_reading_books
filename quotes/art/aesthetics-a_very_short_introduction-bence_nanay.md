@@ -26,11 +26,11 @@ But it is also about our experience of breathtaking landscapes or the pattern of
 
 p. 4.
 
-### Non-'Western' aesthetics
+### Non-"Western" aesthetics
 
 Artifacts have been made everywhere in the world.  Music too.  Stories as well.  Nonetheless, when you go into almost any major
-museum in the world, you are likely to encounter objects made in the 'West' (Europe and, if it's a museum or modern art, maybe
-[page break] also North America - I will use scare-quotes around 'West' throughout the book to indicate that the 'West' is obviously
+museum in the world, you are likely to encounter objects made in the "West" (Europe and, if it's a museum or modern art, maybe
+[page break] also North America - I will use scare-quotes around "West" throughout the book to indicate that the "West" is obviously
 not a unitary concept).
 
 pp. 5-6.
@@ -42,7 +42,7 @@ p. 6.
 ## Chapter 2, Sex, drugs, and rock 'n' roll - pp. 7-21
 
 Philosophers often contrast the experience of art with drug-induced and sexually charged experiences (and also with hedonistic experiences
-in general, like heavy partying, that the term 'rock 'n' roll is supposed to capture).
+in general, like heavy partying, that the term "rock 'n' roll" is supposed to capture).
 
 p. 7.
 
@@ -51,18 +51,18 @@ the other.  All things can be experienced in an aesthetic manner and some drug-i
 
 p. 7.
 
-I will talk about four influential accounts of aesthetics, focusing on beauty, pleasure, emotion and 'valuing it for its own sake'....
-I'm talking about them because each and every one of them contains some really important pointers to how we should and how we should ot think
+I will talk about four influential accounts of aesthetics, focusing on beauty, pleasure, emotion and "valuing it for its own sake"....
+I'm talking about them because each and every one of them contains some really important pointers to how we should and how we should not think
 about the domain of aesthetics.
 
 p. 8.
 
 ### [1] Beauty?
 
-The **most widely shared take on aesthetics** is that it's about beauty.  Just look around in the street - the word 'aesthetics' routinely shows up in
+The **most widely shared take on aesthetics** is that it's about beauty.  Just look around in the street - the word "aesthetics" routinely shows up in
 beauty salons....
 
-I call this the 'beauty-salon approach'....  In fact, the main aim is to turn something not-so-beautiful into something more beautiful....
+I call this the "beauty-salon approach"....  In fact, the main aim is to turn something not-so-beautiful into something more beautiful....
 
 The beauty-salon approach solves the sex, drugs, and rock 'n' roll problem with little effort.  Aesthetic experiences are experiences of
 beautiful things.  Drug-induced experiences or sexual experiences, or the experience of rock 'n' roll, are not beautiful things.
@@ -71,7 +71,7 @@ So they don't count as aesthetic.
 p. 8.  [**Emphasis added.**]
 
 The point is that beauty is not a feature of objects that remains the same at all times, in all contexts, for all observers....
-Even if beauty is not in the eye of the beholder - even if it is 'objective' in some sense, it is sensitive to what context we encounter
+Even if beauty is not in the eye of the beholder - even if it is "objective" in some sense, it is sensitive to what context we encounter
 it in.  The beauty-salon approach can't explain this context-sensitivity.
 
 p. 9.
@@ -98,7 +98,7 @@ p. 13.
 ### [3] Emotions?
 
 The **third** approach to delineating the aesthetic domain focuses on emotions.  The general thought is that aesthetic experiences are emotional
-experiences.  So understanding what makes aesthetic experiences different from other kinds of experiences would be to nderstand what kind of
+experiences.  So understanding what makes aesthetic experiences different from other kinds of experiences would be to understand what kind of
 emotion is triggered here.
 
 p. 14.  [**Emphasis added.**]
@@ -139,12 +139,12 @@ practical considerations.  And this is the **last** popular candidate for keepin
 engagement is engagement for its own sake.  We don't do it in order to achieve some other, further goal.  We do it just for the aesthetic
 kicks.
 
-This proposal comes in many flavors....  If we can formulate the 'for its own sake' account without relying on the concept of valuing, we
+This proposal comes in many flavors....  If we can formulate the "for its own sake" account without relying on the concept of valuing, we
 really should try to do so.
 
 p. 17.  [**Emphasis added.**]
 
-These intermediate cases [e.g., reading a book for a class and enjoying it as well] show that 'doing it for its own sake' is not the holy
+These intermediate cases [e.g., reading a book for a class and enjoying it as well] show that "doing it for its own sake" is not the holy
 grail of aesthetics.
 
 p. 18.
@@ -168,10 +168,10 @@ p. 20.  [**Emphasis added.**]
 I will argue that these accounts all point in the same direction, namely, that what is special about aesthetics is the way we exercise
 [page break] our attention in aesthetic experiences.  This can help us explain how experiencing something as beautiful qualifies as
 aesthetic and also what makes these experiences emotionally infused.  Attention was the missing piece in the pleasure-based accounts and
-talking about the detached open-ended exercise of attention captures much of the 'for its own sake' accounts.  **As Marcel Prouse (1871-1922)
-said, 'Attention can take various forms and the job of the artist is to invoke the most superior of these.'**
+talking about the detached open-ended exercise of attention captures much of the "for its own sake" accounts.  **As Marcel Prouse (1871-1922)
+said, "Attention can take various forms and the job of the artist is to invoke the most superior of these."**
 
-pp. 10-21.  [**Emphasis added.**]
+pp. 20-21.  [**Emphasis added.**]
 
 ## Chapter 3, Experience and attention - pp. 22-42
 
@@ -190,7 +190,7 @@ p. 39.
 
 ### Changing self, changing aesthetics
 
-Take the example of a widely explored psychological phenomenon, the 'mere exposure effect'.
+Take the example of a widely explored psychological phenomenon, the "mere exposure effect".
 The more you are exposed to something, the more you tend to like it.  Just the mere exposure to something changes your preferences.
 And this happens even if you are not aware of what you are exposed to.
 
@@ -201,11 +201,11 @@ p. 44.
 
 ### Experience versus judgement
 
-Much of 'Western' aesthetics has been about well-informed aesthetic judgements.
+Much of "Western" aesthetics has been about well-informed aesthetic judgements.
 Aesthetic judgements are statements (often to yourself, but sometimes also to others) that a particular object is beautiful or graceful or ugly or disgusting.
 But the vast majority of our aesthetic engagement is nothing like this.
 If it were, it would be difficult to explain why we care so much about all things aesthetic.
-The reason why we watch a three-hour-long film or take a day-long huck in the mountains is not to come up with a well-informed aesthetic judgement about the
+The reason why we watch a three-hour-long film or take a day-long hike in the mountains is not to come up with a well-informed aesthetic judgement about the
 film or the landscape.  If we take the importance of aesthetics in our life seriously, we need to shift the emphasis away from aesthetic judgements to forms
 of aesthetic engagement that are more enjoyable, more rewarding, and happen to us more often.
 
@@ -222,7 +222,7 @@ p. 46.
 ### Aesthetics is not for policing
 
 Nonetheless, and I can't stress this strongly enough, aesthetics is not a normative discipline.
-Some parts of ethics might really be about normative claims (well, a branch of ethics is called 'normative ethics', so that would be a good candidatge).
+Some parts of ethics might really be about normative claims (well, a branch of ethics is called "normative ethics", so that would be a good candidate).
 But aesthetics is not.  Aesthetics is not primarily about what we should do.  It is about what we in fact do in what circumstances.
 
 p. 59.
@@ -230,7 +230,7 @@ p. 59.
 But we have seen that the beauty-salon approoach to aesthetics is not exactly an attractive view.
 What makes an experience aesthetic is not that it is about a beautiful thing.  What makes it aesthetic is the way you exercise your attention.
 And there is no accurate or inaccurate way of exercising your attention.
-So while experiences may be accurate or illusory, what makes them aesthetic has nothing to do wiht their accuracy.
+So while experiences may be accurate or illusory, what makes them aesthetic has nothing to do with their accuracy.
 It has everything to do with the way attention is exercised.
 
 p. 61.
@@ -246,7 +246,7 @@ p. 63.
 
 It is not that a certain artwork just demands you to have a certain aesthetic reaction.
 Rather, when you have an aesthetic reaction, you implicitly assume that everybody else has, or at least should have, the same reaction.
-This is Immanuel Kant's view and it has had a lasting influence on 'Western' aesthetics.
+This is Immanuel Kant's view and it has had a lasting influence on "Western" aesthetics.
 
 [**I call it "projection".**]
 
@@ -254,7 +254,7 @@ I'm trying to say this politely and in awe of the intellectual achievement of Ka
 the history of aesthetics.  If you implicitly assume that everybody else should have the same reaction as you do, then you seriously under
 appreciate the diversity of humankind and the diversity of the cultural backgrounds people come from.  **And any time we are even tempted to
 think (or assume or feel) that whatever we do has universal appeal or universal communicability, that would be a good time to stop and exercise
-what I call 'aesthetic humility' - thinking about just how contingent our own position and cultural background is compared to the vast diversity
+what I call "aesthetic humility" - thinking about just how contingent our own position and cultural background is compared to the vast diversity
 of cultures on this planet.**
 
 p. 63.  [**Emphasis added.**]
@@ -301,13 +301,13 @@ p. 90.  [**Emphasis added.**]
 
 ### A global vocabulary
 
-We know a lot about some centres [locations] of artefact production.  We know much less about others [e.g. in the past and in the 'New World'].
+We know a lot about some centres [locations] of artefact production.  We know much less about others [e.g. in the past and in the "New World"].
 This introduces a significant asymmetry into thinking about global aesthetics....  **This should not lead us to think that artefacts in those parts
-of the world that we know more about are somehow 'better' or more worthy of study.**
+of the world that we know more about are somehow "better" or more worthy of study.**
 p. 91.  [**Emphasis added.**]
 
-On a very abstract level, there are two different and distinctive modes of pictorial organization, which I call 'surface organization' and 'scene
-organization'.  Every picture, regardless of where and when it was made, falls somewhere on the spectrum betwen surface organization and scene
+On a very abstract level, there are two different and distinctive modes of pictorial organization, which I call "surface organization" and "scene
+organization".  Every picture, regardless of where and when it was made, falls somewhere on the spectrum betwen surface organization and scene
 organization.
 
 Surface organization aims to draw attention to how the **two-dimensional**** outline shapes of the depicted objects are placed within the two-
