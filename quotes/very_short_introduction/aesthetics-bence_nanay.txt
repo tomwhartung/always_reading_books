@@ -132,6 +132,18 @@ we are seems to be the product of random mere exposure.  And we are defenceless
 against this.
 - p. 45.
 
+Why judgements?
+Hume (1711-1776), whose influence on Anglo-American philosophical aesthetics is
+difficult to overstate, explicitly talks about the differences between the ways
+two different people make judgements of taste.  He gives the following story as
+an illustration (borrowed fom *Don Quixote*).  Two people drink from the same
+wine and are asked to judge its quality.  One of them says it has a discernible
+odd leathery taste.  The other one thinks it has an unpleasant metallic note.
+The punchline of Hume's story is that while we might think that at least one of
+these judgements is just plain wrong, when the wine was inspected, they
+discovered a small key with a leather thong attached.  So they were both right.
+- p. 53.
+
 Going global
 The vast majority of aesthetic traditions outside the `West' are not too
 concerned with aesthetic judgements at all.  They are concerned with how our
@@ -152,6 +164,26 @@ or, rather, we are both right.  The other option is that one of us is just
 dead wrong.  The plausibility of these two options will depend on which
 examples we pick.
 - p. 57.
+
+Compare aesthetic disagreements to disagreements about more prosaic things.
+If we both look at a painting, and I say it's square shaped, while you say
+it's triangle shaped, (at least) one of us is just mistaken.  But if we
+look at the same painting and we disagree about its aesthetic qualities,
+things are less clear.
+
+Another comparison would be with clearly `subjective' disagreements.  If we
+look at the same painting and I say it reminds me of my grandmother and you
+say it does not remind you of your grandmother, then these two opinions are
+consistent [page break] with each other (even if we have the same grandmother).
+I'm right and you are also right.
+
+The question is whether aesthetic disagreement is closer to the `square vs
+triangle' disagreement or to the `reminds me of my grandmother or not'
+disagreement.  And some of the central texts of `Western' aesthetics tried
+to carve out an intermediate position between the purely `subjective'
+disagreement (like the one involving my grandmother) and the purely
+`objective' disagreement (like the one involving shapes).
+- pp. 57-58.
 
 Aesthetics is not for policing
 It is not that a certain artwork just demands you to have a certain aesthetic
