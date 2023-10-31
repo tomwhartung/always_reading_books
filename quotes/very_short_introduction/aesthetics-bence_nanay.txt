@@ -409,7 +409,42 @@ The distinction between scene organization and surface organization is somewhat
 abstract.  So it would be helpful to substantiate this distinction with the help
 of simpler features that are easier to spot.  I will focus on two such features:
 occlusion and empty surface.
-- p. 95.
+
+In everyday perception, we get a lot of occlusion: we see some objects behind or
+in front of other objects.  The question is whether occlusion shows up in
+pictures.  Surface organization implies that the picture maker pays attention to
+whether there is occlusion or not: occlusion in a picture is a feature of how
+two-dimensional outline shapes of the depicted objects are related to each other
+on the two-dimensional surface.  Some pictures go out of their way to avoid
+occlusion.  Some others pile on occlusions.  Both are good indications of
+surface organization.  And we can place all pictures on a spectrum betwen
+extreme lack of occlusion and extreme seeking out of occlusion.  Figures 7
+[Scythian wall-hanging, 5th centure BCE, Pazyryk, Altai (Siberia)] and 8
+[Hanegawa Toei, *Procession of Korean Mission in Edo, c.1748 (Japan)] are two
+examples that are close to the two end points.
+
+Pictures from some cultures will cluster around specific points of this occlusion
+spectrum.  The Scythian pictures of Pazyryk, for example, tend to avoid occlusion
+at almost all costs.  In Hanegawa [page break] Toei's image, almost everything
+seems to be deliberately occluded.  Both of these types of pictures would count
+as having surface organization.
+
+Pictures of some other cultures (for example, Plane Native American carvings or
+Dutch still life paintings from the 17th century), in contrast, are not
+particularly bothered y the presence or lack of occlusion -- this is an
+indication of scene organization: if a picture is organized in terms of the
+three-dimensional scene it depects, then neither occlusion nor the lack of
+occlusion will be particularly important.
+
+The second feature that every picture has is the presence or absence of empty
+surface.  In everyday perception, some of our visual field is often empty in the
+sense that there are no perceptually interesting elements there -- only the sky,
+the ground, [page break] an empty wall.  Some pictures deliberately try to avoid
+empty surface: they try to put pictorially interesting elements on every square
+inch of the surface.  Others deliberately seek out empty surfaces.  Some examples
+are found in Figures 9 and 10.
+- p. 95-100.
+
 - p. 95.
 - p. 95.
 
