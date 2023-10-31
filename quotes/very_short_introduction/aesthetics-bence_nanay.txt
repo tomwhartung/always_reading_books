@@ -417,7 +417,7 @@ whether there is occlusion or not: occlusion in a picture is a feature of how
 two-dimensional outline shapes of the depicted objects are related to each other
 on the two-dimensional surface.  Some pictures go out of their way to avoid
 occlusion.  Some others pile on occlusions.  Both are good indications of
-surface organization.  And we can place all pictures on a spectrum betwen
+surface organization.  And we can place all pictures on a spectrum between
 extreme lack of occlusion and extreme seeking out of occlusion.  Figures 7
 [Scythian wall-hanging, 5th centure BCE, Pazyryk, Altai (Siberia)] and 8
 [Hanegawa Toei, *Procession of Korean Mission in Edo, c.1748 (Japan)] are two
@@ -425,13 +425,13 @@ examples that are close to the two end points.
 
 Pictures from some cultures will cluster around specific points of this occlusion
 spectrum.  The Scythian pictures of Pazyryk, for example, tend to avoid occlusion
-at almost all costs.  In Hanegawa [page break] Toei's image, almost everything
-seems to be deliberately occluded.  Both of these types of pictures would count
-as having surface organization.
+at almost all costs.  In Hanegawa [page break 95-96] Toei's image, almost
+everything seems to be deliberately occluded.  Both of these types of pictures
+would count as having surface organization.
 
 Pictures of some other cultures (for example, Plane Native American carvings or
 Dutch still life paintings from the 17th century), in contrast, are not
-particularly bothered y the presence or lack of occlusion -- this is an
+particularly bothered by the presence or lack of occlusion -- this is an
 indication of scene organization: if a picture is organized in terms of the
 three-dimensional scene it depects, then neither occlusion nor the lack of
 occlusion will be particularly important.
@@ -439,10 +439,48 @@ occlusion will be particularly important.
 The second feature that every picture has is the presence or absence of empty
 surface.  In everyday perception, some of our visual field is often empty in the
 sense that there are no perceptually interesting elements there -- only the sky,
-the ground, [page break] an empty wall.  Some pictures deliberately try to avoid
-empty surface: they try to put pictorially interesting elements on every square
-inch of the surface.  Others deliberately seek out empty surfaces.  Some examples
-are found in Figures 9 and 10.
+the ground, [page break 96-97] an empty wall.  Some pictures deliberately try to
+avoid empty surface: they try to put pictorially interesting elements on every
+square inch of the surface.  Others deliberately seek out empty surfaces.  Some
+examples are found in Figures 9 i[Alexander Apostol, Residente Pulido, 2001
+(the photographer ditally removed many of the details (windows, doors) from
+the building) (Venezula)] and 10 [Mural in Wat Pho, 19th century, Bankok School
+(Thailand)].
+
+Again, paying attention to whether some part of the surface is empty or not is
+very much an indicator of surface organization.  Some organization is neutral
+about whether some parts of the surface remain unfilled.  As in the case of
+occlusion, pictures with surface organization will cluster around some specific
+points of the empty surface spectrum (pictures from different cultures around
+different points).  Pictures with scene organization, in contrast, are scattered
+around much of this spectrum.
+
+We get a coordinate system on the basis of these two features: occlusion and
+empty surface.  And we can add other features like frame or symmetry.  Some
+pictures respect or even emphasize their [page break, 97-98] frame, others
+deliberately try to pretend that the frame is not there.  And as the frame is
+very much a two-dimensional surface feature, paying attention to it (either by
+emphasizing it or by de-emphasizing it) is a sign of surface organization.
+Symmetry is another surface feature: going out of your way to get symmetrical
+[page break 98-100] compositions or going out of your way to get asymmetrical
+compositions would then be an indication of surface organization.  If symmetry
+is not a big deal (or if the frame is not a big deal), that would be a sign of
+scene organization.
+
+This gives rise to a multi-dimensional feature space where we can place every
+picture, regardless of how much we know about the culture that produced it.
+This is obviously not the end of our understanding of pictures from different
+cultures: there are so many other aspects of pictures that are culturally
+specific that this formal analysis will not be able to provide.  But it is a
+solid starting point for any further, more culturally specific enquiry.
+
+This culture-neutral multi-dimensional feature-space can help us to make some
+progress in understanding pictures of cultures we otherwise know very little
+about.  If all pictures produced in a specific culture painstakingly avoid
+occlusion, for example, this gives us an important data point to try to find
+out why they do so.  This formal analysis will not give us answers (or it may
+give us very partial answers), but it can make the questions we ask more
+focused.
 - p. 95-100.
 
 - p. 95.
