@@ -1,13 +1,13 @@
 
-# essential_astrology-joanna_watters.md
+# essential_astrology-joanna_watters.txt
 
 Notes and quotes from:
 
- Essential Astrology: Learn to Be Your Own Astrologer and Unlock the Secrets of the Signs and Planets
+- Essential Astrology: Learn to Be Your Own Astrologer and Unlock the Secrets of the Signs and Planets
 
 by Joanna Watters, 2023.
 
-## Introduction, pp. 5-
+## Introduction, pp. 5-7
 The road to astrology is paved with misconceptions, which are largely down to the fact that the gap
 between Sun-sign astrology and horoscopy is immense....  [Media horoscopes such as] Your stars in a
 newspaper, magazine, or on a website are not in fact your "horoscope," but an astrologer's "take" on
@@ -22,21 +22,127 @@ astrology sites that offer this [calculating a birth chart] service.
 ---------
 
 Two websites that I have found reliable in chart calculation are
-[http://www.alwaysastrology.com/birth-char-calculator.html](http://www.alwaysastrology.com/birth-char-calculator.html)
-and [http://astrologyabout.com/library/bl_freeAstrochart.htm](http://astrologyabout.com/library/bl_freeAstrochart.htm).
+http://www.alwaysastrology.com/birth-char-calculator.html and
+http://astrologyabout.com/library/bl_freeAstrochart.htm.
+
+If you do not know your time of birth, then simply enter 12:00 midday.  This will produce what is known
+as a Noon Chart.
 - p. 7.
 ---------
 
 
-## Chapter 1, pp. 1-x
+## Chapter 1: Sun Signs, pp. 8-51
 
-- p. 7.
+The following illustrations of the twelve signs of the zodiac are therefore designed to encapsulate
+their core meaning.
+- p. 10.
+---------
+
+Most importantly, a sound grasp of the symbolism of the twelve signs is the bedrock of astrological
+interpretation and goes way beyond an understanding of just the Sun sign.
+- p. 11.
+---------
+
+Aries - In a Nutshell: immediate, incisive, direct, innovative, inspirational, effective
+- p. 12.
+---------
+
+Taurus - In a Nutshell: stoical, reliable, sensuous, appetitive, tolerant, risk averse
+- p. 15.
+---------
+
+Geminii - In a Nutshell: multitaskiing, animated, talkative, inventive, resourceful, mishievous
+- p. 18.
+---------
+
+Cancer - In a Nutshell: indirect, cautious, evasive, sympathetic, instinctive, tenacious
+- p. 21.
+---------
+
+Leo - In a Nutshell: creative, proud, warm, self reliant, efficient, assured
+- p. 24.
+---------
+
+Virgo - In a Nutshell: Fastidious, analytical, diligent, dutiful, quirky, astute
+- p. 27.
+---------
+
+Libra - In a Nutshell: sociable, charming, indecisive, diplomatic, discursive, fair
+- p. 30.
+---------
+
+Scorpio - In a Nutshell: determined, forceful, torough, intense, passionate, resourceful
+- p. 33.
+---------
+
+Sagittarius - In a Nutshell: intuitive, spontaneous, optimistic, friendly, enthusiastic, ethical
+- p. 36.
+---------
+
+Capricorn - In a Nutshell: reserved, serious, industrious, focused, pragmatic, courteous
+- p. 39.
+---------
+
+Aquarius - In a Nutshell: systematic, impartial, inquisitive, friendly, humane, original
+- p. 42.
+---------
+
+Pisces - In a Nutshell: sensitive, empathic, artistic, addictive, instinctive, visionary
+- p. 45.
+---------
+
+[Elements and Modes -> Elements -> Characteristics]
+
+Fire: warmth, passion, vision, intuition
+
+Earth: sensuality, practicality, fertility, materialism
+
+Air: thought, intellect, ideas, interaction
+
+Water: feelings, sensitivity, empathy, instinct
+
+Swiss psychiatrist and psychotherapist Carl Jung had a lifelong interest in astrology.  The four cognitive
+functions of the psyche, which he conceived originally, correlate directly with the four elements.  The
+links between the psyche and the elements can be delineated as follows:
+
+Fire - Intuition - Intuitives find meaning through what may be termed non-rational information, such as
+hunches or visions.  They can make leaps of imagination or connect their insights in a way that leads to
+"I just know" answers.
+
+Earth - Sensation - Sensates find meaning through rational information as gathered through the five
+senses of sight, taste, touch, sound, and smell.  Their world is one of concrete reality in which a sixth
+sense is either absent or disregarded.
+
+Air - Thinking - Thinkers find meaning through rational information, such as facts and figures.  They
+operate by what makes sense; they look for logical connections and are disorientated by people or matters
+that they cannot understand.
+
+Water - Feeling - Feelers find meaning through non-rational information and operate purely on the basis
+of how someone or something makes them feel.  They react emotionally and base their judgements on
+pleasant or unpleasant impressions.
+- p. 49.
+---------
+
+[Elements and Modes -> Modes]
+
+Cardinal - This mode represents the element in its most concetrated or active form.  It is associated
+with push, energy, and initiation.
+
+Fixed - As the name suggests, this mode represents the element in its least changeable form.  It is
+associated with stability or stubbornness.
+
+Mutable - Sometimes called "common," this mode represents the element at its most fluid.  It is
+associated with flexibility, movement, and the dissemination of energy.
+- p. 51.
+---------
+
+## Chapter 2, pp. x-y
+
+- p. 51.
 ---------
 
 - pp. x-y.
 ---------
-
-## Chapter 2, pp. x-y
 
 
 ## Chapter 3, pp. x-y
