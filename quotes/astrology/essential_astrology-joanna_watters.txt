@@ -169,22 +169,68 @@ horoscopes.
 ---------
 
 
-## Chapter 3 - The Houses and Ascendants, pp. 102- 
+## Chapter 3: The Houses and Ascendants, pp. 102-123
 
+[In a Nutshell]
+In terms of astrological symmetry, the houses work in pairs of opposites
 
-- pp. x-y.
+1st House - the Self
+7th House - Significant Other
+
+2nd House - Personal finances, the resources for life
+8th House - Shared finances; death and goods of the dead
+
+3rd House - Communication, local environment, and early education for survival
+9th House - Higher education and wider horizons, for experience and understanding
+
+4th House - Home, family, and private life
+10th House - Purpose and public life
+
+5th House - Personal pleasures and creativity, children
+11th House - Group pleasures and concerns, friends
+
+6th House - Physical health, service
+12th House - Spiritual life, sacrifice
+- p. 107.
 ---------
+
+[The Ascendant -> Leo Ascendant or the Sun in the First House]
+With a Leo Ascendant, regardless of the Sun sign, the ruling planet of the horoscope is the Sun.  This
+planet's sign and house will be a primary consideration in the process of interpretation.
+- p. 114.
+---------
+
+[The Ascendant -> Scorpio Ascendant or Mars or Pluto in the First House -> Manner and Speech]
+Can come across as reserved, private, formitable, or fascinating.  They have phenomenal reserves of
+determination and their approach to life and relationships in particular is intense, emotional, and
+profound.  Individuals with this rising sign, and **especially a 1st house Pluto,** need to forge deep
+connections and tend to give short shrift to those deemed to be flippant or superficial.  New faces and
+situations are put through remoresless screening and they attach great importance to their first
+impressions.  Usually these are uncannily correct.
+- p. 116.  **Emphasis added.**
+------------------------------
+
+[House Rulership -> Chart Ruler]
+As already stated, the ruling planet of any horoscipe is the planet that rules the sign on the Ascendant.  So, if Virgo is rising, the native will be ruled by Mercury; if Libra is rising, they will be ruled by Venus, and so on..  When considering the three signs that have a co-ruler (Scorpio, Aquarius, and Pisces), always take the traditional plant as the primary significator and the co-ruler as the secondary.  For example, if Pisces is rising, the native will be ruled by Jupiter and secondly by Neptune, the co-ruler.
+
+One of the first vital steps in interpretation is to locate and assess the "condition" of the chart ruler; that is, to determine how strong or weak the planet may be interms of sign, house, and then aspects (relationship) to other planets (aspects will be explained in Chapter Four).
+- p. 119.
+---------
+
+
+## Chapter 4: Aspects and Chart Interpretation, pp. 124-137
+
+[TBD]
+
+## Chapter 5: Cycles, Returns, and Transits, pp. 138-157
+
+[TBD]
 
          1         2         3         4         5         6         7         8         9        10
 ....5....0....5....0....5....0....5....0....5....0....5....0....5....0....5....0....5....0....5....0....5
 
-
-
-## Chapter 4, pp. x-y
-
-
-## Chapter 5, pp. x-y
-
+- pp. x-y.
+---------
 
 - p. x.
 ---------
